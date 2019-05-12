@@ -22,8 +22,8 @@ window.onafterprint = () => {
 
 jQuery(() => {
     renderBill().then(() => {
-        if (window.location.pathname.endsWith('bill.html')) {
-            window.print()
+        if (window.location.pathname.endsWith('bill.html') && window.location.hostname !== 'localhost') {
+            window.print();
         }
     });
 });
