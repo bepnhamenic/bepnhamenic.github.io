@@ -35,7 +35,7 @@ async function ready() {
         const inputField = $(`input[data-code=${itemCode}]`);
         const currentVal = parseInt(inputField.val().toString());
 
-        isNaN(currentVal) ? inputField.val(0) : inputField.val(currentVal + 1);
+        isNaN(currentVal) ? inputField.val(1) : inputField.val(currentVal + 1);
 
         inputField.trigger('change');
     });

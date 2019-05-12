@@ -45,8 +45,8 @@ export class Item {
 
         td = document.createElement('td');
         td.innerHTML = `
-<div class="input-field inline">
-    <input data-type="item" data-code="${this.code}" value="0" min="0" type="number">
+<div class="no-margin inline">
+    <input data-type="item" data-code="${this.code}" placeholder="0" min="0" type="number">
 </div>
 `;
         tr.appendChild(td);
