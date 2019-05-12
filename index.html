@@ -22,56 +22,57 @@
     <a id="print" class="waves-effect waves-light btn-large" href="bill.html">In</a>
 </div>
 
-<div class="row">
-    <div class="col s12">
-        <div class="input-field">
-            <input id="bill-name-address" type="text" autofocus>
-            <label for="bill-name-address">Tên - Địa chỉ</label>
-        </div>
-        <div class="input-field">
-            <input id="bill-phone-number" type="text">
-            <label for="bill-phone-number">Số điện thoại</label>
-        </div>
+<div class="container">
+    <div class="row">
+        <div class="col s12">
+            <div class="input-field">
+                <input id="bill-name-address" type="text" autofocus>
+                <label for="bill-name-address">Tên - Địa chỉ</label>
+            </div>
+            <div class="input-field">
+                <input id="bill-phone-number" type="text">
+                <label for="bill-phone-number">Số điện thoại</label>
+            </div>
 
 
-        <div class="input-field">
-            <textarea id="extra-items" class="materialize-textarea"></textarea>
-            <label for="extra-items">Tên món đặc biệt;Thành tiền</label>
-            <span class="helper-text">Phân cách bằng dấu chấm phẩy, mỗi hàng một món.</span>
+            <div class="input-field">
+                <textarea id="extra-items" class="materialize-textarea"></textarea>
+                <label for="extra-items">Tên món đặc biệt;Thành tiền</label>
+                <span class="helper-text">Phân cách bằng dấu chấm phẩy, mỗi hàng một món.</span>
+            </div>
+
+            <div class="input-field">
+                <input id="search" type="search" autocomplete="off">
+                <label for="search">Tìm kiếm</label>
+                <span class="helper-text">Nhấn ENTER để thêm +1 số lượng. Nhấn ESC để bắt đầu tìm kiếm mới.</span>
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col m8 s12">
+            <table class="highlight">
+                <tbody id="menuBody" class="noselect">
+                </tbody>
+            </table>
         </div>
 
-        <div class="input-field">
-            <input id="search" type="search" autocomplete="off">
-            <label for="search">Tìm kiếm</label>
-            <span class="helper-text">Nhấn ENTER để thêm +1 số lượng. Nhấn ESC để bắt đầu tìm kiếm mới.</span>
+        <div class="col m4 s12">
+            <table>
+                <tbody id="bill-ordered-items">
+                </tbody>
+            </table>
+            <table>
+                <tbody>
+                <tr class="totalAmount">
+                    <td>TỔNG CỘNG</td>
+                    <td id="bill-total-amount" class="text-align-right"></td>
+                </tr>
+                </tbody>
+            </table>
         </div>
     </div>
 </div>
-
-<div class="row">
-    <div class="col m8 s12">
-        <table class="highlight">
-            <tbody id="menuBody" class="noselect">
-            </tbody>
-        </table>
-    </div>
-
-    <div class="col m4 s12">
-        <table>
-            <tbody id="bill-ordered-items">
-            </tbody>
-        </table>
-        <table>
-            <tbody>
-            <tr class="totalAmount">
-                <td>TỔNG CỘNG</td>
-                <td id="bill-total-amount" class="text-align-right"></td>
-            </tr>
-            </tbody>
-        </table>
-    </div>
-</div>
-
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
 <script type="module" src="lib/index.js"></script>
