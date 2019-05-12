@@ -11,63 +11,54 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 
     <link rel="stylesheet" type="text/css" href="css/style.css"/>
-<!--    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">-->
+    <!--    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">-->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css"/>
 </head>
 
 <body>
 
 <div class="row">
-    <div class="col s4">
+    <div class="col m4 s12">
         <a id="new-cart" class="waves-effect waves-light btn-large">Phiếu mới</a>
     </div>
-    <div class="col s4">
+    <div class="col m4 s12">
         <a id="print" class="waves-effect waves-light btn-large" href="bill.html">In</a>
     </div>
-</div>
 
-<div class="row">
-    <div class="col s8">
-        <div class="input-field col s8">
+    <div class="col s12">
+        <div class="input-field">
             <input id="bill-name-address" type="text" autofocus>
             <label for="bill-name-address">Tên - Địa chỉ</label>
         </div>
-        <div class="input-field col s8">
+        <div class="input-field">
             <input id="bill-phone-number" type="text">
             <label for="bill-phone-number">Số điện thoại</label>
         </div>
 
-        <table>
-            <tbody>
-            <tr>
-                <td>
-                    <div class="input-field col s8">
-                        <textarea id="extra-items" class="materialize-textarea"></textarea>
-                        <label for="extra-items">Tên món đặc biệt;Thành tiền</label>
-                        <span class="helper-text">Phân cách bằng dấu chấm phẩy, mỗi hàng một món.</span>
-                    </div>
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <div class="input-field">
-                        <input id="search" type="text" autocomplete="off">
-                        <label for="search" >Tìm kiếm</label>
-                        <span class="helper-text">Nhấn ENTER để thêm +1 số lượng. Nhấn ESC để bắt đầu tìm kiếm mới.</span>
 
-                    </div>
-                </td>
-            </tr>
-            </tbody>
-        </table>
+        <div class="input-field">
+            <textarea id="extra-items" class="materialize-textarea"></textarea>
+            <label for="extra-items">Tên món đặc biệt;Thành tiền</label>
+            <span class="helper-text">Phân cách bằng dấu chấm phẩy, mỗi hàng một món.</span>
+        </div>
 
+        <div class="input-field">
+            <input id="search" type="search" autocomplete="off">
+            <label for="search">Tìm kiếm</label>
+            <span class="helper-text">Nhấn ENTER để thêm +1 số lượng. Nhấn ESC để bắt đầu tìm kiếm mới.</span>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col m8 s12">
         <table class="highlight">
             <tbody id="menuBody" class="noselect">
             </tbody>
         </table>
     </div>
 
-    <div class="col s4">
+    <div class="col m4 s12">
         <table>
             <tbody id="bill-ordered-items">
             </tbody>
