@@ -89,7 +89,7 @@ async function ready() {
             const code = tr[i].getElementsByTagName("td")[0].innerText;
             const nameWithAccent = tr[i].getElementsByTagName("td")[1].innerText;
             const nameWithoutAccent = normalizeString(nameWithAccent);
-            console.log(nameWithoutAccent);
+
             if (
                 code.toUpperCase().indexOf(input) > -1 ||
                 nameWithAccent.toUpperCase().indexOf(input) > -1 ||
