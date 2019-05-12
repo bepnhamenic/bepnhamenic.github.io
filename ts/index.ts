@@ -3,8 +3,8 @@ import {Item} from "./Item";
 import {Cart} from "./Cart.js";
 import {renderBill} from "./bill.js";
 
-function normalizeString(string) {
-    return string.split('').map(function (letter) {
+function normalizeString(str: string): string {
+    return str.split('').map(function (letter) {
             let i = this.accents.indexOf(letter);
             return (i !== -1) ? this.out[i] : letter
         }.bind({
