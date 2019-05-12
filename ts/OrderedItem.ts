@@ -9,7 +9,7 @@ export class OrderedItem {
     }
 
     public getLineOnBill(): string {
-        return `${this.item.name} (${this.quantity} ${this.item.unitName} x ${this.item.pricePerUnit}k)`;
+        return `${this.item.name} (${this.quantity}${this.item.unitName} x ${this.item.pricePerUnit}k)`;
     }
 
     public getPriceAmountOnBill(): string {
