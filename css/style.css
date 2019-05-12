@@ -19,10 +19,6 @@
     user-select: none; /* Non-prefixed version, currently supported by Chrome and Opera */
 }
 
-.Arima {
-    font-family: 'Arima Madurai', cursive;
-}
-
 .totalAmount {
     font-weight: bold;
     font-size: x-large;
@@ -40,11 +36,16 @@
     margin-bottom: 5px;
 }
 
-#bill-name-address, #bill-phone-number {
-    font-size: x-large;
+.border {
+    border-bottom-style: dashed;
+    border-bottom-color: black;
+    border-bottom-width: 1px;
 }
 
-.border {
-    border-bottom-color: black;
-    border-bottom-width: 3px;
+#bill-html-body {
+    font-size: 10pt;
+}
+
+#bill-ordered-items td {
+    padding: 1px;
 }

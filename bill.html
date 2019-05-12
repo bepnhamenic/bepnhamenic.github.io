@@ -12,28 +12,27 @@
 
     <link rel="stylesheet" type="text/css" href="css/style.css"/>
     <!--    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">-->
-    <link href="https://fonts.googleapis.com/css?family=Arima+Madurai:400&amp;subset=vietnamese" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css"/>
 </head>
 
-<body class="Arima">
+<body id="bill-html-body">
 <div class="row">
-    <div class="col s7">
-        <h5>Bếp nhà mẹ Nic — 0983 920 965</h5>
-        <h6>1/12 Phù Đổng Thiên Vương, P8, Đà Lạt</h6>
-        <h6>fb.me/bepnhameNic</h6>
-    </div>
-    <div class="col s5" id="qrcode">
+    <div class="col s12 text-align-center">
+        <h5>Bếp nhà mẹ Nic</h5>
+        <div>0983 920 965</div>
+        <div>1/12 Phù Đổng Thiên Vương, P8, Đà Lạt</div>
+        <div>fb.me/bepnhameNic</div>
     </div>
 </div>
+
 <div class="row">
     <div class="col s12">
+<!--        todo sat len tren-->
         <div>
-            <h4 class="text-align-center">PHIẾU GIAO HÀNG</h4>
+            <h5 class="text-align-center">PHIẾU GIAO HÀNG</h5>
             <h6 id="bill-name-address"></h6>
             <h6 id="bill-phone-number"></h6>
         </div>
-
         <table>
             <tbody id="bill-ordered-items">
             </tbody>
