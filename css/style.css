@@ -37,9 +37,9 @@
 }
 
 .border {
-    border-bottom-style: dashed;
-    border-bottom-color: black;
-    border-bottom-width: 1px;
+    border-style: dashed none;
+    border-color: black;
+    border-width: 1px;
 }
 
 #bill-html-body {
