@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Bếp mẹ NIC</title>
+
+    <meta charset="UTF-8">
+    <meta name="author" content="Duy Phan">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!--    <link rel="shortcut icon" type="image/x-icon" href="https://www.vsb.cz/favicon.ico"/>-->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+    <link rel="stylesheet" type="text/css" href="css/style.css"/>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css"/>
+</head>
+
+<body>
+
+<div class="row">
+    <div class="col s4">
+        <a id="new-cart" class="waves-effect waves-light btn-large"><i class="material-icons left">add_shopping_cart</i>Hóa đơn mới</a>
+    </div>
+    <div class="col s4">
+        <a id="print" class="waves-effect waves-light btn-large" href="bill.html"><i class="material-icons left">print</i>In</a>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col s8">
+        <div class="input-field col s8">
+            <input id="bill-name-address" type="text" autofocus>
+            <label for="bill-name-address">Tên - Địa chỉ</label>
+        </div>
+        <div class="input-field col s8">
+            <input id="bill-phone-number" type="text">
+            <label for="bill-phone-number">Số điện thoại</label>
+        </div>
+
+        <table>
+            <tbody>
+            <tr>
+                <td>
+                    <div class="input-field col s8">
+                        <textarea id="extra-items" class="materialize-textarea"></textarea>
+                        <label for="extra-items">Tên món đặc biệt;Thành tiền</label>
+                        <span class="helper-text">Phân cách bằng dấu chấm phẩy, mỗi hàng một món.</span>
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <div class="input-field">
+                        <input id="search" type="text" autocomplete="off">
+                        <label for="search" >Tìm kiếm</label>
+                        <span class="helper-text">Nhấn ENTER để thêm +1 số lượng. Nhấn ESC để bắt đầu tìm kiếm mới.</span>
+
+                    </div>
+                </td>
+            </tr>
+            </tbody>
+        </table>
+
+        <table class="highlight">
+            <tbody id="menuBody" class="noselect">
+            </tbody>
+        </table>
+    </div>
+
+    <div class="col s4">
+        <table>
+            <tbody id="bill-ordered-items">
+            </tbody>
+        </table>
+        <table>
+            <tbody>
+            <tr class="totalAmount">
+                <td>TỔNG CỘNG</td>
+                <td id="bill-total-amount" class="text-align-right"></td>
+            </tr>
+            </tbody>
+        </table>
+    </div>
+
+</div>
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+<script type="module" src="lib/index.js"></script>
+</body>
+
+</html>

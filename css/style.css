@@ -1,0 +1,50 @@
+#menuBody td {
+    padding: 0px 5px;
+}
+
+.addQuantity {
+    cursor: url('../img/add-circle-1.png'), auto;
+}
+
+.subtractQuantity {
+    cursor: url('../img/subtract-circle-1.png'), auto;
+}
+
+.noselect {
+    -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+    -khtml-user-select: none; /* Konqueror HTML */
+    -moz-user-select: none; /* Firefox */
+    -ms-user-select: none; /* Internet Explorer/Edge */
+    user-select: none; /* Non-prefixed version, currently supported by Chrome and Opera */
+}
+
+.Arima {
+    font-family: 'Arima Madurai', cursive;
+}
+
+.totalAmount {
+    font-weight: bold;
+    font-size: x-large;
+}
+
+.text-align-right {
+    text-align: right;
+}
+
+.text-align-center {
+    text-align: center;
+}
+
+.row {
+    margin-bottom: 5px;
+}
+
+#bill-name-address, #bill-phone-number {
+    font-size: x-large;
+}
+
+.border {
+    border-bottom-color: black;
+    border-bottom-width: 3px;
+}
