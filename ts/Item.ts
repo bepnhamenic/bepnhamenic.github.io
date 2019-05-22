@@ -26,14 +26,7 @@ export class Item {
         td = document.createElement('td');
         td.className = "addQuantity";
         td.dataset.code = this.code;
-        td.innerText = `${this.name}`;
-        tr.appendChild(td);
-
-        td = document.createElement('td');
-        td.className = "subtractQuantity";
-        td.dataset.code = this.code;
-
-        td.innerText = `${this.unitName}`;
+        td.innerText = `${this.name} (${this.unitName})`;
         tr.appendChild(td);
 
         td = document.createElement('td');
