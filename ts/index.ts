@@ -20,10 +20,20 @@ function renderMenu(items: Item[]) {
     }
 }
 
+function announceDuplicatedCodes(items: Item[]): void {
+    const duplicatedCodes = ItemRepository.getDuplicatedCodes(items);
+    if (duplicatedCodes) {
+        for (const code of duplicatedCodes) {
+            M.toast({html: `Trùng mã hàng ${code}`});
+        }
+    }
+}
 
 async function ready() {
     const items = await ItemRepository.loadFromFile('menu/menu.csv');
+
     renderMenu(items);
+    announceDuplicatedCodes(items);
 
     $('#new-cart').on('click', function () {
         Cart.emptyCart();

@@ -30,4 +30,12 @@ export class ItemRepository {
 
         return items;
     }
+
+    public static getDuplicatedCodes(items: Item[]): Array<string> {
+        const rawCodes = items.map(i => i.code);
+
+        return rawCodes.filter((item, index) => {
+            return rawCodes.indexOf(item) < index;
+        });
+    }
 }
