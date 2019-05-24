@@ -30,6 +30,7 @@ function announceDuplicatedCodes(items: Item[]): void {
 }
 
 async function ready() {
+    $('.modal').modal();
     const items = await ItemRepository.loadFromFile('menu/menu.csv');
 
     renderMenu(items);
