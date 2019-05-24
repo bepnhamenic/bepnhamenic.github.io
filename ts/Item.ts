@@ -16,7 +16,7 @@ export class Item {
 
     public getTableRow(): Node {
         const tr = document.createElement('tr');
-        tr.className='item-tr';
+        tr.className = 'item-tr';
         tr.dataset.code = this.code;
 
         let td = document.createElement('td');
@@ -45,5 +45,9 @@ export class Item {
         tr.appendChild(td);
 
         return tr;
+    }
+
+    public getAutocompleteRow(): string {
+        return `${this.code} | ${this.name} | ${this.pricePerUnit}k`;
     }
 }

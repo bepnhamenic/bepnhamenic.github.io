@@ -90,7 +90,19 @@ async function ready() {
         renderBill();
     });
 
-    $('#search').on('keyup', function (e) {
+    const searchInput = $('#search-input');
+
+    searchInput
+        .autocomplete({
+            data: ItemRepository.generateDataForAutocompleteInput(items),
+        });
+
+    searchInput.on('change', function () {
+            $('#search-input').trigger('keyup');
+        }
+    );
+
+    searchInput.on('keyup', function (e) {
         let firstFilteredTr: HTMLElement;
         const input = $(this).val().toString().toUpperCase();
         const tr = $('.item-tr');
@@ -101,7 +113,7 @@ async function ready() {
             const nameWithoutAccent = normalizeString(nameWithAccent);
 
             if (
-                code.toUpperCase().indexOf(input) > -1 ||
+                code.toUpperCase().indexOf(input.split(' | ')[0]) > -1 ||
                 nameWithAccent.toUpperCase().indexOf(input) > -1 ||
                 nameWithoutAccent.toUpperCase().indexOf(input) > -1
             ) {
