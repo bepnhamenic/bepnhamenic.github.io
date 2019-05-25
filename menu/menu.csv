@@ -7,6 +7,16 @@ SGV,Su giòn Vani,c,5
 SGX,Su giòn Trà xanh,c,6
 SGC,Su giòn Chocolate,c,6
 SGS,Su giòn Sầu riêng,c,7
+CF5,Cua mềm phô-mai,c,5
+CFM,Cua mềm phô-mai mini,c,3.5
+CF7,Cua mềm phô-mai,c,7
+CF10,Cua mềm phô-mai,c,10
+TT,Tart Thơm,c,6
+TTr,Tart Trứng,c,10
+TTrn,Tart Trứng,h/10c,90
+TTrl,Tart Trứng,h/5c,50
+PSn,Bánh Pate chaud nhỏ,c,8
+PSl,Bánh Pate chaud lớn,c,14
 SWN,Bánh Sandwich tròn nhỏ,c,20
 SWH3,Bánh Sandwich tròn nhỏ,h/3c,55
 SWD,Bánh Sandwich dài nhỏ,c,60
@@ -19,15 +29,6 @@ BT14,Bánh trà sữa trân châu đường đen 14cm,ổ,120
 BT16,Bánh trà sữa trân châu đường đen 16cm,ổ,160
 BT18,Bánh trà sữa trân châu đường đen 18cm,ổ,200
 BT20,Bánh trà sữa trân châu đường đen 20cm,ổ,260
-CF5,Cua mềm phô-mai,c,5
-CFM,Cua mềm phô-mai mini,c,3.5
-CF7,Cua mềm phô-mai,c,7
-CF10,Cua mềm phô-mai,c,10
-KNL,Khoai mì nướng,h/10c,70
-KNN,Khoai mì nướng,h/5c,40
-T1,Bánh tằm lớn,h,50
-T2,Bánh tằm nhỏ,h,30
-TT,Tart Thơm,c,6
 BL12,Bánh BLTM 12cm,ổ,80
 BL14,Bánh BLTM 14cm,ổ,100
 BL16m,Bánh BLTM 16cm mỏng,ổ,80
@@ -64,6 +65,27 @@ BLYC20f,Bánh BLTM yêu cầu + fomai 20cm,ổ,290
 BLYC22f,Bánh BLTM yêu cầu + fomai 22cm,ổ,320
 BLYC24f,Bánh BLTM yêu cầu + fomai 24cm,ổ,370
 BLYC30f,Bánh BLTM yêu cầu + fomai 30cm,ổ,450
+RED16,Bánh Red Velvet 16cm,ổ,200
+RED18,Bánh Red Velvet 18cm,ổ,260
+RED20,Bánh Red Velvet 20cm,ổ,320
+RED22,Bánh Red Velvet 22cm,ổ,390
+RED24,Bánh Red Velvet 24cm,ổ,500
+RED30,Bánh Red Velvet 30cm,ổ,630
+RED16f,Bánh Red Velvet 16cm full kem,ổ,230
+RED18f,Bánh Red Velvet 18cm full kem,ổ,300
+RED20f,Bánh Red Velvet 20cm full kem,ổ,360
+RED22f,Bánh Red Velvet 22cm full kem,ổ,430
+RED24f,Bánh Red Velvet 24cm full kem,ổ,580
+RED30f,Bánh Red Velvet 30cm full kem,ổ,720
+R16,Rau câu 16cm,ổ,100
+R20,Rau câu 20cm,ổ,180
+R24,Rau câu 24cm,ổ,230
+RFC16,Rau câu Flan Cheese 16cm,ổ,140
+RFC20,Rau câu Flan Cheese 20cm,ổ,200
+RFC24,Rau câu Flan Cheese 24cm,ổ,320
+RFC16f,Rau câu Flan Cheese 16cm full,ổ,200
+RFC20f,Rau câu Flan Cheese 20cm full,ổ,300
+RFC24f,Rau câu Flan Cheese 24cm full,ổ,430
 CUPNn,Cup Bông lan nho nhỏ,c,6
 CUPNl,Cup Bông lan nho lớn,c,8
 CUPTMN,Cup BLTM nhỏ,c,12
@@ -71,7 +93,13 @@ CUPTMNf,Cup BLTM nhỏ fomai,c,14
 CUPTML,Cup BLTM lớn,c,15
 CUPTMLf,Cup BLTM lớn fomai,c,17
 BLT,Bánh BLTM tiệc,c,7
-PSn,Bánh Pate chaud nhỏ,c,8
-PSl,Bánh Pate chaud lớn,c,14
+KNL,Khoai mì nướng,h/10c,70
+KNN,Khoai mì nướng,h/5c,40
+T1,Bánh tằm lớn,h,50
+T2,Bánh tằm nhỏ,h,30
 HG,Hộp Giấy,c,30
 TC1,Trân châu,phần,10
+S5,Ship,L,5
+S10,Ship,L,10
+S15,Ship,L,15
+S20,Ship,L,20
