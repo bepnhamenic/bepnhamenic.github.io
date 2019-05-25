@@ -20,25 +20,58 @@ BT16,Bánh trà sữa trân châu đường đen 16cm,ổ,160
 BT18,Bánh trà sữa trân châu đường đen 18cm,ổ,200
 BT20,Bánh trà sữa trân châu đường đen 20cm,ổ,260
 CF5,Cua mềm phô-mai,c,5
-CFM,Cua mềm phô-mai mini,c,3,5
+CFM,Cua mềm phô-mai mini,c,3.5
 CF7,Cua mềm phô-mai,c,7
 CF10,Cua mềm phô-mai,c,10
-KN,Khoai mì nướng,h,7
-T1,Bánh tằm,h,50
+KNL,Khoai mì nướng,h/10c,70
+KNN,Khoai mì nướng,h/5c,40
+T1,Bánh tằm lớn,h,50
+T2,Bánh tằm nhỏ,h,30
 TT,Tart Thơm,c,6
-BL14,Bánh Bông lan 14cm,ổ,100
-BL16,Bánh Bông lan 16cm,ổ,120
-BL18,Bánh Bông lan 18cm,ổ,140
-BL20,Bánh Bông lan 20cm,ổ,160
-BL22,Bánh Bông lan 22cm,ổ,180
-BL24,Bánh Bông lan 24cm,ổ,220
-BL30,Bánh Bông lan 30cm,ổ,350
-BL2T16,Bánh Bông lan 2T (16/24),ổ,350
-BL2T18,Bánh Bông lan 2T (18/30),ổ,500
-BLG16,Bánh Bông lan Gấu 16cm,ổ,170
-BLG18,Bánh Bông lan Gấu 18cm,ổ,190
-BLG20,Bánh Bông lan Gấu 20cm,ổ,220
-BLG24,Bánh Bông lan Gấu 24cm,ổ,290
-CUP,Bánh Bông lan nho,c,6
+BL12,Bánh BLTM 12cm,ổ,80
+BL14,Bánh BLTM 14cm,ổ,100
+BL16m,Bánh BLTM 16cm mỏng,ổ,80
+BL16d,Bánh BLTM 16cm dày,ổ,120
+BL18,Bánh BLTM 18cm,ổ,140
+BL20m,Bánh BLTM 20cm mỏng,ổ,100
+BL20d,Bánh BLTM 20cm dày,ổ,160
+BL22,Bánh BLTM 22cm,ổ,180
+BL24,Bánh BLTM 24cm,ổ,220
+BL30,Bánh BLTM 30cm,ổ,350
+BL12f,Bánh BLTM fomai 12cm,ổ,100
+BL14f,Bánh BLTM fomai 14cm,ổ,120
+BL16mf,Bánh BLTM fomai 16cm mỏng,ổ,100
+BL16df,Bánh BLTM fomai 16cm dày,ổ,140
+BL18f,Bánh BLTM fomai 18cm,ổ,160
+BL20mf,Bánh BLTM fomai 20cm mỏng,ổ,120
+BL20df,Bánh BLTM fomai 20cm dày,ổ,190
+BL22f,Bánh BLTM fomai 22cm,ổ,210
+BL24f,Bánh BLTM fomai 24cm,ổ,260
+BL30f,Bánh BLTM fomai 30cm,ổ,400
+BL2T16,Bánh BLTM 2T (16/24),ổ,360
+BL2T18,Bánh BLTM 2T (18/30),ổ,500
+BL2T16f,Bánh BLTM 2T fomai (16/24),ổ,400
+BL2T18f,Bánh BLTM 2T fomai (18/30),ổ,550
+BLYC16,Bánh BLTM yêu cầu 16cm,ổ,200
+BLYC18,Bánh BLTM yêu cầu 18cm,ổ,230
+BLYC20,Bánh BLTM yêu cầu 20cm,ổ,260
+BLYC22,Bánh BLTM yêu cầu 22cm,ổ,290
+BLYC24,Bánh BLTM yêu cầu 24cm,ổ,330
+BLYC30,Bánh BLTM yêu cầu 30cm,ổ,400
+BLYC16f,Bánh BLTM yêu cầu + fomai 16cm,ổ,220
+BLYC18f,Bánh BLTM yêu cầu + fomai 18cm,ổ,250
+BLYC20f,Bánh BLTM yêu cầu + fomai 20cm,ổ,290
+BLYC22f,Bánh BLTM yêu cầu + fomai 22cm,ổ,320
+BLYC24f,Bánh BLTM yêu cầu + fomai 24cm,ổ,370
+BLYC30f,Bánh BLTM yêu cầu + fomai 30cm,ổ,450
+CUPNn,Cup Bông lan nho nhỏ,c,6
+CUPNl,Cup Bông lan nho lớn,c,8
+CUPTMN,Cup BLTM nhỏ,c,12
+CUPTMNf,Cup BLTM nhỏ fomai,c,14
+CUPTML,Cup BLTM lớn,c,15
+CUPTMLf,Cup BLTM lớn fomai,c,17
+BLT,Bánh BLTM tiệc,c,7
+PSn,Bánh Pate chaud nhỏ,c,8
+PSl,Bánh Pate chaud lớn,c,14
 HG,Hộp Giấy,c,30
 TC1,Trân châu,phần,10
