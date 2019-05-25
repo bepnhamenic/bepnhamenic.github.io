@@ -9,10 +9,9 @@ SGC,Su giòn Chocolate,c,6
 SGS,Su giòn Sầu riêng,c,7
 SWN,Bánh Sandwich tròn nhỏ,c,20
 SWH3,Bánh Sandwich tròn nhỏ,h/3c,55
-SWD,Bánh Sandwich dài,c,50
-SWT,Bánh Sandwich trung,c,80
-SWL,Bánh Sandwich lớn,c,110
-SW3,Bánh Sandwich tròn 3C,h,55
+SWD,Bánh Sandwich dài nhỏ,c,60
+SWT,Bánh Sandwich trung,c,90
+SWL,Bánh Sandwich lớn,c,120
 BTM,Bánh trà sữa trân châu đường đen mini,c,30
 BTD,Bánh trà sữa trân châu đường đen dài,c,60
 BT12,Bánh trà sữa trân châu đường đen 12cm,ổ,100
@@ -20,14 +19,11 @@ BT14,Bánh trà sữa trân châu đường đen 14cm,ổ,120
 BT16,Bánh trà sữa trân châu đường đen 16cm,ổ,160
 BT18,Bánh trà sữa trân châu đường đen 18cm,ổ,200
 BT20,Bánh trà sữa trân châu đường đen 20cm,ổ,260
-TC1,Trân châu,phần,10
-TC2,Trân châu,phần,20
-TC3,Trân châu,phần,30
-CF5,Cua phô-mai 5,c,5
-CFM,Cua phô-mai mini,c,3
-CF7,Cua phô-mai 7,c,7
-CF10,Cua phô-mai 10,c,10
-KN,Khoai mì nướng,c,7
+CF5,Cua mềm phô-mai,c,5
+CFM,Cua mềm phô-mai mini,c,3,5
+CF7,Cua mềm phô-mai,c,7
+CF10,Cua mềm phô-mai,c,10
+KN,Khoai mì nướng,h,7
 T1,Bánh tằm,h,50
 TT,Tart Thơm,c,6
 BL14,Bánh Bông lan 14cm,ổ,100
@@ -45,3 +41,4 @@ BLG20,Bánh Bông lan Gấu 20cm,ổ,220
 BLG24,Bánh Bông lan Gấu 24cm,ổ,290
 CUP,Bánh Bông lan nho,c,6
 HG,Hộp Giấy,c,30
+TC1,Trân châu,phần,10
