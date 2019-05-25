@@ -28,6 +28,7 @@ export class ItemRepository {
             }
         }
 
+        items.sort(Item.compare);
         return items;
     }
 

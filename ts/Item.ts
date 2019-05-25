@@ -50,4 +50,14 @@ export class Item {
     public getAutocompleteRow(): string {
         return `${this.code} | ${this.name} | ${this.pricePerUnit}k`;
     }
+
+    public static compare(a: Item, b: Item) {
+        if (a.name < b.name) {
+            return -1;
+        }
+        if (a.name > b.name) {
+            return 1;
+        }
+        return 0;
+    }
 }
