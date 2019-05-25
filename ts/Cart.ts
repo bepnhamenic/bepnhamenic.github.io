@@ -1,8 +1,4 @@
 export class Cart {
-    // public constructor(
-    //     public orderedItems: OrderedItem[],
-    // ) {
-    // };
     private static ORDERED_ITEMS = 'orderedItems';
     private static NAME_ADDRESS = 'nameAddress';
     private static PHONE_NUMBER = 'phoneNumber';
