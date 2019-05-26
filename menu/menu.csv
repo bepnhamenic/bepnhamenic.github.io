@@ -18,6 +18,7 @@ TTrl,Tart Trứng,h/5c,50
 PSn,Bánh Pate chaud nhỏ,c,8
 PSl,Bánh Pate chaud lớn,c,14
 SWN,Bánh Sandwich tròn nhỏ,c,20
+SW15,Bánh Sandwich tròn (sỉ),c,15
 SWH3,Bánh Sandwich tròn nhỏ,h/3c,55
 SWD,Bánh Sandwich dài nhỏ,c,60
 SWT,Bánh Sandwich trung,c,90
@@ -136,3 +137,8 @@ S5,Ship,L,5
 S10,Ship,L,10
 S15,Ship,L,15
 S20,Ship,L,20
+DR5,Hạt đác rim chanh dây,500g,100
+DR1,Hạt đác rim chanh dây,1kg,180
+DR1s,Hạt đác rim chanh dây (sỉ),1kg,160
+DRT5,Hạt đác rim thơm gừng,500g,80
+DRT1,Hạt đác rim thơm gừng,1kg,160
