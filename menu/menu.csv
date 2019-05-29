@@ -14,13 +14,13 @@ CF7,Cua mềm phô-mai,c,7
 CF10,Cua mềm phô-mai,c,10
 TT,Tart Thơm,c,6
 TTr,Tart Trứng,c,10
-TTrn,Tart Trứng (hộp 10 cái),h,90
-TTrl,Tart Trứng (hộp 5 cái),h,50
+TTrn,Tart Trứng,h/10c,90
+TTrl,Tart Trứng,h/5c,50
 PSn,Bánh Pâté chaud nhỏ,c,8
 PSl,Bánh Pâté chaud lớn,c,14
 SWN,Bánh Sandwich tròn nhỏ,c,20
 SW15,Bánh Sandwich tròn (sỉ),c,15
-SWH3,Bánh Sandwich tròn nhỏ (hộp 3 cái),h,55
+SWH3,Bánh Sandwich tròn nhỏ,h/3c,55
 SWD,Bánh Sandwich dài nhỏ,c,60
 SWT,Bánh Sandwich trung,c,90
 SWL,Bánh Sandwich lớn,c,120
@@ -102,13 +102,13 @@ CUPTML,Cup BLTM lớn,c,15
 CUPTMLf,Cup BLTM lớn fomai,c,17
 BLT,Bánh BLTM tiệc,c,7
 REDT,Bánh Red Velvet tiệc,c,7
-KNL,Khoai mì nướng (hộp 10 cái),h,70
-KNN,Khoai mì nướng (hộp 5 cái),h,40
+KNL,Khoai mì nướng,h/10c,70
+KNN,Khoai mì nướng,h/5c,40
 TL,Bánh tằm lớn,h,50
 TN,Bánh tằm nhỏ,h,30
-CRE6,Bánh Crepe Sầu riêng (hộp 6 cái),h,75
-CRE3,Bánh Crepe Sầu riêng (hộp 3 cái),h,75
-CRES,Bánh Crepe Sầu riêng sỉ (hộp 6 cái),h,60
+CRE6,Bánh Crepe Sầu riêng,h/6c,75
+CRE3,Bánh Crepe Sầu riêng,h/3c,75
+CRES,Bánh Crepe Sầu riêng (sỉ),h/6c,60
 BB1,Bánh bao chiên,c,6
 BB10,Bánh bao chiên,ch,70
 TS3,Trà sữa 330ml,ch,25
@@ -127,7 +127,7 @@ CB500,Chà bông (500g),,190
 CB1000,Chà bông (1kg),,380
 FL,Flan,h,6
 FLGh,Flan Gato,h,9
-FLGL,Flan Gato,L/10h,80
+FLGL,Flan Gato,g/10h,80
 FLO,Flan Gato Oval,ổ,100
 FLT16,Flan Gato tròn 16cm,ổ,120
 FLT20,Flan Gato tròn 20cm,ổ,260
