@@ -30,10 +30,10 @@ export class Item {
         tr.appendChild(td);
 
         td = document.createElement('td');
-        td.className = "subtractQuantity";
+        td.className = "subtractQuantity text-align-right";
         td.dataset.code = this.code;
 
-        td.innerText = `${this.pricePerUnit.toString()}k`;
+        td.innerText = `${this.pricePerUnit.toString()}`;
         tr.appendChild(td);
 
         td = document.createElement('td');
