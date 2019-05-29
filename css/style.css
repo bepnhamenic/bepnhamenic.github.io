@@ -20,7 +20,11 @@
 
 .totalAmount {
     font-weight: bold;
-    font-size: x-large;
+    font-size: 22px;
+}
+
+.totalAmount td {
+    padding: 0;
 }
 
 .text-align-right {
@@ -52,13 +56,22 @@
 .no-margin {
     margin-top: 0;
     margin-bottom: 0;
-    position: relative
+    position: relative;
+    padding: 0;
 }
 
 #new-cart {
     margin-right: 10rem;
 }
 
-#last-row{
+#last-row {
     height: 4em;
+}
+
+p, h5 {
+    margin: 0;
+}
+
+#bill-name-address, #bill-phone-number {
+    font-size: 14px;
 }
