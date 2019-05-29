@@ -14,13 +14,13 @@ CF7,Cua mềm phô-mai,c,7
 CF10,Cua mềm phô-mai,c,10
 TT,Tart Thơm,c,6
 TTr,Tart Trứng,c,10
-TTrn,Tart Trứng,h/10c,90
-TTrl,Tart Trứng,h/5c,50
-PSn,Bánh Pate chaud nhỏ,c,8
-PSl,Bánh Pate chaud lớn,c,14
+TTrn,Tart Trứng (hộp 10 cái),h,90
+TTrl,Tart Trứng (hộp 5 cái),h,50
+PSn,Bánh Pâté chaud nhỏ,c,8
+PSl,Bánh Pâté chaud lớn,c,14
 SWN,Bánh Sandwich tròn nhỏ,c,20
 SW15,Bánh Sandwich tròn (sỉ),c,15
-SWH3,Bánh Sandwich tròn nhỏ,h/3c,55
+SWH3,Bánh Sandwich tròn nhỏ (hộp 3 cái),h,55
 SWD,Bánh Sandwich dài nhỏ,c,60
 SWT,Bánh Sandwich trung,c,90
 SWL,Bánh Sandwich lớn,c,120
@@ -102,13 +102,13 @@ CUPTML,Cup BLTM lớn,c,15
 CUPTMLf,Cup BLTM lớn fomai,c,17
 BLT,Bánh BLTM tiệc,c,7
 REDT,Bánh Red Velvet tiệc,c,7
-KNL,Khoai mì nướng,h/10c,70
-KNN,Khoai mì nướng,h/5c,40
+KNL,Khoai mì nướng (hộp 10 cái),h,70
+KNN,Khoai mì nướng (hộp 5 cái),h,40
 TL,Bánh tằm lớn,h,50
 TN,Bánh tằm nhỏ,h,30
-CRE6,Bánh Crepe Sầu riêng,h/6c,75
-CRE3,Bánh Crepe Sầu riêng,h/3c,75
-CRES,Bánh Crepe Sầu riêng sỉ,h/6c,60
+CRE6,Bánh Crepe Sầu riêng (hộp 6 cái),h,75
+CRE3,Bánh Crepe Sầu riêng (hộp 3 cái),h,75
+CRES,Bánh Crepe Sầu riêng sỉ (hộp 6 cái),h,60
 BB1,Bánh bao chiên,c,6
 BB10,Bánh bao chiên,ch,70
 TS3,Trà sữa 330ml,ch,25
@@ -122,9 +122,9 @@ SB5,Sữa Bắp tươi 500ml,ch,35
 NDP,Nha đam đường phèn,ch,10
 NDC,Nha đam hạt Chia,ch,12
 NDD,Nha đam Chanh dây,ch,12
-CB100,Chà bông,100g,40
-CB500,Chà bông,1/2kg,190
-CB1000,Chà bông,1kg,380
+CB100,Chà bông (100g),,40
+CB500,Chà bông (500g),,190
+CB1000,Chà bông (1kg),,380
 FL,Flan,h,6
 FLGh,Flan Gato,h,9
 FLGL,Flan Gato,L/10h,80
@@ -136,11 +136,11 @@ UT35,Bánh Ú tro,ch,35
 BTR,Bánh tráng mắm ruốc,g,65
 HG,Hộp Giấy,c,30
 TC1,Trân châu,phần,10
-S5,Ship,L,5
-S10,Ship,L,10
-S20,Ship,L,20
-DR5,Hạt đác rim chanh dây,500g,100
-DR1,Hạt đác rim chanh dây,1kg,180
-DR1s,Hạt đác rim chanh dây (sỉ),1kg,160
-DRT5,Hạt đác rim thơm gừng,500g,80
-DRT1,Hạt đác rim thơm gừng,1kg,160
+S5,Ship,,5
+S10,Ship,,10
+S20,Ship,,20
+DR5,Hạt đác rim chanh dây (500g),,100
+DR1,Hạt đác rim chanh dây (1kg),,180
+DR1s,Hạt đác rim chanh dây (sỉ 1kg),,160
+DRT5,Hạt đác rim thơm gừng (500g),,80
+DRT1,Hạt đác rim thơm gừng (1kg),,160
