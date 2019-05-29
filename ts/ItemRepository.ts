@@ -39,13 +39,4 @@ export class ItemRepository {
             return rawCodes.indexOf(item) < index;
         });
     }
-
-    public static generateDataForAutocompleteInput(items: Item[]): {} {
-        const data = {};
-        items.map(i => {
-            data[i.getAutocompleteRow()] = null;
-        });
-
-        return data;
-    }
 }
