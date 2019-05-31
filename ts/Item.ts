@@ -18,6 +18,8 @@ export class Item {
         const tr = document.createElement('tr');
         tr.className = 'item-tr';
         tr.dataset.code = this.code;
+        tr.dataset.name = this.name;
+        tr.dataset.price = this.pricePerUnit.toString();
 
         let td = document.createElement('td');
         td.innerText = `${this.code}`;
@@ -32,7 +34,6 @@ export class Item {
         td = document.createElement('td');
         td.className = "subtractQuantity text-align-right";
         td.dataset.code = this.code;
-
         td.innerText = `${this.pricePerUnit.toString()}`;
         tr.appendChild(td);
 

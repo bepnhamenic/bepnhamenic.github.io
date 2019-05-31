@@ -97,14 +97,15 @@ async function ready() {
         const tr = $('.item-tr');
 
         for (let i = 0; i < tr.length; i++) {
-            const code = tr[i].getElementsByTagName("td")[0].innerText;
-            const nameWithAccent = tr[i].getElementsByTagName("td")[1].innerText;
+            const code = $(tr[i]).data('code');
+            const nameWithAccent = $(tr[i]).data('name');
             const nameWithoutAccent = normalizeString(nameWithAccent);
-
+            const price = $(tr[i]).data('price').toString();
             if (
                 code.toUpperCase().indexOf(input) > -1 ||
                 nameWithAccent.toUpperCase().indexOf(input) > -1 ||
-                nameWithoutAccent.toUpperCase().indexOf(input) > -1
+                nameWithoutAccent.toUpperCase().indexOf(input) > -1 ||
+                price.indexOf(input) > -1
             ) {
                 tr[i].style.display = '';
 
