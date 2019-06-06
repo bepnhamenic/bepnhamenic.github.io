@@ -76,3 +76,11 @@ p, h5 {
 #bill-name-address, #bill-phone-number {
     font-size: 14px;
 }
+
+.addQuantity {
+    background-color: rgba(40, 205, 65, 0.1);
+}
+
+.subtractQuantity {
+    background-color: rgba(255, 59, 48, 0.1);
+}
