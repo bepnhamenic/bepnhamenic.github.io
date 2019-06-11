@@ -8,10 +8,16 @@ SGV,Su giòn Vani,c,5
 SGX,Su giòn Trà xanh,c,6
 SGC,Su giòn Chocolate,c,6
 SGS,Su giòn Sầu riêng,c,7
+CFH5,Cua mềm phô-mai,h/10c,50
 CF5,Cua mềm phô-mai,c,5
+CFMH,Cua mềm phô-mai mini,h/10c,35
 CFM,Cua mềm phô-mai mini,c,3.5
+CFH7,Cua mềm phô-mai,h/10c,70
 CF7,Cua mềm phô-mai,c,7
+CFH10,Cua mềm phô-mai,h/10c,100
 CF10,Cua mềm phô-mai,c,10
+CD5,Cua mềm phô-mai đặc biệt,h/5c,60
+CD10,Cua mềm phô-mai đặc biệt,h/10c,110
 TT,Tart Thơm,c,6
 TTr,Tart Trứng,c,10
 TTrn,Tart Trứng,h/10c,90
@@ -143,6 +149,15 @@ TC1,Trân châu,phần,10
 S5,Ship,,5
 S10,Ship,,10
 S20,Ship,,20
+CC5,Cá Chốt trứng (500g),,120
+CC1,Cá Chốt trứng (1kg),,220
+LN,Lườn Ngỗng xông khói,m,55
+CN5,Cá trứng Nauy (500g),,70
+CN1,Cá trứng Nauy (1kg),,120
+TN5,Trứng cá ngừ (1kg),,12070
+TN1,Trứng cá ngừ (1kg),,120
+DT5,Hạt đác tươi (500g),,50
+DT1,Hạt đác tươi (1kg),,90
 DR5,Hạt đác rim chanh dây (500g),,100
 DR1,Hạt đác rim chanh dây (1kg),,180
 DR1s,Hạt đác rim chanh dây (sỉ 1kg),,160
