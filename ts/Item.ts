@@ -49,6 +49,9 @@ export class Item {
     }
 
     public static compare(a: Item, b: Item) {
+        if (a.name === 'Ship'){
+            return -1;
+        }
         if (a.name < b.name) {
             return -1;
         }
