@@ -24,6 +24,8 @@ TTrn,Tart Trứng,h/10c,90
 TTrl,Tart Trứng,h/5c,50
 PSn,Bánh Pâté chaud nhỏ,c,8
 PSl,Bánh Pâté chaud lớn,c,14
+PSH5L,Bánh Pâté chaud lớn,h/5c,70
+PSH5N,Bánh Pâté chaud nhỏ,h/5c,80
 SWN,Bánh Sandwich tròn nhỏ,c,20
 SW15,Bánh Sandwich tròn (sỉ),c,15
 SWH3,Bánh Sandwich tròn nhỏ,h/3c,55
@@ -75,10 +77,14 @@ BLYC24f,Bánh BLTM yêu cầu + fomai 24cm,ổ,370
 BLYC30f,Bánh BLTM yêu cầu + fomai 30cm,ổ,450
 BLS3,Bánh Bông lan sấy,g,30
 BLS5,Bánh Bông lan sấy,g,50
-BLC,Bánh Bông lan cuộn,c,27
-BLC6,Bánh Bông lan cuộn,c,60
-BLC8,Bánh Bông lan cuộn,c,80
-BLC10,Bánh Bông lan cuộn,c,100
+BLC,Bánh BLTM cuộn,c,27
+BLC6,Bánh BLTM cuộn,c,60
+BLC8,Bánh BLTM cuộn,c,80
+BLC10,Bánh BLTM cuộn,c,100
+BLCF4,Bánh Bông lan fomai cuộn,c,40
+BLCF6,Bánh Bông lan fomai cuộn,c,60
+BLCF8,Bánh Bông lan fomai cuộn,c,80
+BLCF12,Bánh Bông lan fomai cuộn,c,120
 RED16,Bánh Red Velvet 16cm,ổ,200
 RED18,Bánh Red Velvet 18cm,ổ,260
 RED20,Bánh Red Velvet 20cm,ổ,320
@@ -100,12 +106,14 @@ RFC24,Rau câu Flan Cheese 24cm,ổ,320
 RFC16f,Rau câu Flan Cheese 16cm full,ổ,200
 RFC20f,Rau câu Flan Cheese 20cm full,ổ,300
 RFC24f,Rau câu Flan Cheese 24cm full,ổ,430
-CUPNn,Cup Bông lan nho nhỏ,c,6
-CUPNl,Cup Bông lan nho lớn,c,8
-CUPTMN,Cup BLTM nhỏ,c,12
-CUPTMNf,Cup BLTM nhỏ fomai,c,14
-CUPTML,Cup BLTM lớn,c,15
-CUPTMLf,Cup BLTM lớn fomai,c,17
+CNN,Cup Bông lan nho nhỏ,c,6
+CNL,Cup Bông lan nho lớn,c,8
+CTMN,Cup BLTM nhỏ,c,12
+CTMNf,Cup BLTM nhỏ fomai,c,14
+CTML,Cup BLTM lớn,c,15
+CTMLf,Cup BLTM lớn fomai,c,17
+CKN,Cup kem nhỏ,c,12
+CKL,Cup kem lớn,c,15
 BLT,Bánh BLTM tiệc,c,7
 REDT,Bánh Red Velvet tiệc,c,7
 KNL,Khoai mì nướng,h/10c,70
@@ -168,3 +176,4 @@ KXT,Kem Xoài tươi,h,60
 CR,Cơm rượu,h,40
 SG5,Sấu xào gừng (500g),,90
 SG1,Sấu xào gừng (1kg),,170
+NC,Nem chua,ch,35
