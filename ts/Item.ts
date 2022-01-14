@@ -40,7 +40,7 @@ export class Item {
         td = document.createElement('td');
         td.innerHTML = `
 <div class="no-margin inline">
-    <input data-type="item" data-code="${this.code}" placeholder="0" min="0" type="number">
+    <input data-type="item" data-code="${this.code}" placeholder="0" min="0" type="number" autocomplete="off">
 </div>
 `;
         tr.appendChild(td);
