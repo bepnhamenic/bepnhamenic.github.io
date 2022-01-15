@@ -100,17 +100,17 @@ B1;Bernard 11°;0,3l;25
 B2;Bernard 11°;0,5l;30
 B3;Radegast 11°;0,3l;25
 B4;Radegast 11°;0,5l;35
-B5;Birell nealko;ks;30
-B6;Bernard švestka;ks;35
-B7;Bernard Free;ks;30
-R1;Fernet;ks;25
-R2;Božkov;ks;25
-R3;Becherovka;ks;30
-R4;Stará myslivecká;ks;30
-R5;Slivovice;ks;40
-R6;Finlandia;ks;40
-R7;Metaxa;ks;40
-R8;Magister;ks;45
+B5;Birell nealko;0,5l;30
+B6;Bernard švestka;0,5l;35
+B7;Bernard Free;0,5l;30
+R1;Fernet;4cl;25
+R2;Božkov;4cl;25
+R3;Becherovka;4cl;30
+R4;Stará myslivecká;4cl;30
+R5;Slivovice;4cl;40
+R6;Finlandia;4cl;40
+R7;Metaxa;4cl;40
+R8;Magister;4cl;45
 R9;Frankovka;2dcl;30
 R10;Frankovka;1l;130
 R11;Müller;2dcl;30
