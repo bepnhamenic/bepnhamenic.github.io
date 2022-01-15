@@ -28,6 +28,10 @@ function setFocusOnSearchInput(): void {
     $("#search-input").trigger("focus");
 }
 
+function clearSearchInput(): void {
+    $("#search-input").val("");
+}
+
 async function ready() {
     $(".modal").modal();
     const items = await ItemRepository.loadFromFile("menu/menu.csv");
@@ -50,6 +54,7 @@ async function ready() {
         isNaN(currentVal) ? inputField.val(1) : inputField.val(currentVal + 1);
 
         inputField.trigger("change");
+        clearSearchInput();
     });
 
     $(".subtractQuantity").on("click", function () {
