@@ -9,28 +9,28 @@ MaHang;TenHang;DonViTinh;DonGia
 9;Křupavé kuřecí stehno s rýží nebo nudlemi;ks;120
 10;Smažené obalované kuřecí prsa, rýže, nebo nudlemi;ks;120
 11;Smažené kuřecí po thajsku, pikantní omáčka, rýže, nebo nudle;ks;120
-12;Pečené nudle s kuřecím masem, vejcem a zeleninou;ks;95
-13;Pečené nudle s vepřovým masem, vejcem a zeleninou;ks;95
-14;Pečené nudle s hovězím masem, vejcem a zeleninou;ks;115
-15;Pečené nudle se třemi druhy masa, vejcem a zeleninou;ks;115
-16;Pečené nudle s krevetami, vejcem a zeleninou;ks;130
-17;Pečené tenké rýžové nudle s kuřecím masem, vejcem a zeleninou;ks;115
-18;Pečené tenké rýžové nudle s vepřovým masem, vejcem a zeleninou;ks;115
-19;Pečené tenké rýžové nudle s hovězím masem, vejcem a zeleninou;ks;130
-20;Pečené tenké rýžové nudle se třemi druhy masa, vejcem a zeleninou;ks;130
-21;Pečené tenké rýžové nudle s krevetami, vejcem a zeleninou;ks;135
-22;Pečené hrubé rýžové nudle s kuřecím masem, vejcem a zeleninou;ks;105
-23;Pečené hrubé rýžové nudle s vepřovým masem, vejcem a zeleninou;ks;105
-24;Pečené hrubé rýžové nudle s hovězím masem, vejcem a zeleninou;ks;130
-25;Pečené hrubé rýžové nudle se třemi druhy masa, vejcem a zeleninou;ks;130
+12;Pečené nudle s kuřecím masem, vejcem a zeleninou;ks;100
+13;Pečené nudle s vepřovým masem, vejcem a zeleninou;ks;100
+14;Pečené nudle s hovězím masem, vejcem a zeleninou;ks;120
+15;Pečené nudle se třemi druhy masa, vejcem a zeleninou;ks;120
+16;Pečené nudle s krevetami, vejcem a zeleninou;ks;135
+17;Pečené tenké rýžové nudle s kuřecím masem, vejcem a zeleninou;ks;110
+18;Pečené tenké rýžové nudle s vepřovým masem, vejcem a zeleninou;ks;110
+19;Pečené tenké rýžové nudle s hovězím masem, vejcem a zeleninou;ks;135
+20;Pečené tenké rýžové nudle se třemi druhy masa, vejcem a zeleninou;ks;135
+21;Pečené tenké rýžové nudle s krevetami, vejcem a zeleninou;ks;140
+22;Pečené hrubé rýžové nudle s kuřecím masem, vejcem a zeleninou;ks;110
+23;Pečené hrubé rýžové nudle s vepřovým masem, vejcem a zeleninou;ks;110
+24;Pečené hrubé rýžové nudle s hovězím masem, vejcem a zeleninou;ks;135
+25;Pečené hrubé rýžové nudle se třemi druhy masa, vejcem a zeleninou;ks;135
 26;Smažené skleněné nudle s kuřecím masem, vejcem a zeleninou;ks;105
 27;Smažené skleněné nudle s vepřovým masem, vejcem a zeleninou;ks;105
 28;Smažené skleněné nudle s hovězím masem, vejcem a zeleninou;ks;130
 29;Smažené skleněné nudle se třemi druhy masa, vejcem a zeleninou;ks;130
-30;Kuřecí rizoto vejce a zelenina;ks;95
-31;Vepřové rizoto vejce a zelenina;ks;95
-32;Rizoto se třemi druhy masa, vejcem a zeleninou;ks;115
-33;Rizoto s krevetami, vejcem a zeleninou;ks;130
+30;Kuřecí rizoto vejce a zelenina;ks;100
+31;Vepřové rizoto vejce a zelenina;ks;100
+32;Rizoto se třemi druhy masa, vejcem a zeleninou;ks;120
+33;Rizoto s krevetami, vejcem a zeleninou;ks;135
 34;Kuřecí kung pao;ks;80
 35;Kuřecí maso bambus a zelenina;ks;80
 36;Kuřecí maso s ananasem a sladkou omáčkou;ks;80
@@ -42,22 +42,22 @@ MaHang;TenHang;DonViTinh;DonGia
 42;Smažené kuřecí prsa plátek s sladkou omáčkou ;ks;85
 43;Smažené kuřecí po thajsku, pikantní omáčka ;ks;85
 44;Křupavé kuřecí stehno s peking omáčkou ;ks;85
-45;Křupavé kuřecí a kůrkou omáčkou na horkém talíři ;ks;120
+45;Křupavé kuřecí a kůrkou omáčkou na horkém talíři ;ks;125
 46;Vepřové maso peking a zelenina;ks;85
 47;Vepřové maso s čínskými houbami;ks;85
 48;Vepřové maso s pikantní omáčkou a zeleninou;ks;85
 49;Vepřové koleno s pikantní omáčkou a zeleninou;ks;85
 50;Vepřové koleno s peking omáčkou a zeleninou;ks;85
-51;Vepřová koleta s zeleninou, omáčkou na horkém talíři;ks;125
-52;Restovaná pikantní kotleta, zelenina na horkém talíři;ks;125
-53;Restovaná pikantní s houbani na horkém talíři;ks;125
-54;Hovězí maso thajské kari omáčka zelenina;ks;110
-55;Hovězí maso pikantní omáčka zelenina;ks;110
-56;Hovězí maso na zázvoru a cibuli;ks;120
-57;Hovězí maso na bambusu a klíčky;ks;110
-58;Hovězí maso s čínskými houbami;ks;110
-59;Kuřecí, hovězí, vepřové pikantní omáčka zelenina;ks;115
-60;Kuřecí, hovězí, vepřové s peking omáčkou a zeleninou;ks;115
+51;Vepřová koleta s zeleninou, omáčkou na horkém talíři;ks;130
+52;Restovaná pikantní kotleta, zelenina na horkém talíři;ks;130
+53;Restovaná pikantní s houbani na horkém talíři;ks;130
+54;Hovězí maso thajské kari omáčka zelenina;ks;115
+55;Hovězí maso pikantní omáčka zelenina;ks;115
+56;Hovězí maso na zázvoru a cibuli;ks;125
+57;Hovězí maso na bambusu a klíčky;ks;115
+58;Hovězí maso s čínskými houbami;ks;115
+59;Kuřecí, hovězí, vepřové pikantní omáčka zelenina;ks;120
+60;Kuřecí, hovězí, vepřové s peking omáčkou a zeleninou;ks;120
 61;Telecí pikantní maso zelenina na horkém talíří;ks;150
 62;Telecí maso peking zeleninou na horkém talíři;ks;150
 63;Krevety thajské kari omáčka zelenina;ks;110
