@@ -75,11 +75,9 @@ function ready() {
                 const code = $(tr[i]).data("code").toString();
                 const nameWithAccent = $(tr[i]).data("name");
                 const nameWithoutAccent = normalizeString(nameWithAccent);
-                const price = $(tr[i]).data("price").toString();
                 if (code.toUpperCase().indexOf(input) > -1 ||
                     nameWithAccent.toUpperCase().indexOf(input) > -1 ||
-                    nameWithoutAccent.toUpperCase().indexOf(input) > -1 ||
-                    price.indexOf(input) > -1) {
+                    nameWithoutAccent.toUpperCase().indexOf(input) > -1) {
                     tr[i].style.display = "";
                     if (firstFilteredTr === undefined) {
                         firstFilteredTr = tr[i];
