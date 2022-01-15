@@ -11,15 +11,6 @@ import { ItemRepository } from "./ItemRepository.js";
 import { Cart } from "./Cart.js";
 import { renderBill } from "./bill.js";
 import { AutoOpenPrintDialogSettingRepository } from "./AutoOpenPrintDialogSettingRepository.js";
-function normalizeString(str) {
-    return str.split("").map(function (letter) {
-        let i = this.accents.indexOf(letter);
-        return (i !== -1) ? this.out[i] : letter;
-    }.bind({
-        accents: "áčďéěíňóřšťúůýž",
-        out: "acdeeinorstuuyz"
-    })).join("");
-}
 function renderMenu(items) {
     for (const item of items) {
         $("#menuBody")[0].appendChild(item.getTableRow());
@@ -73,11 +64,7 @@ function ready() {
             const tr = $(".item-tr");
             for (let i = 0; i < tr.length; i++) {
                 const code = $(tr[i]).data("code").toString();
-                const nameWithAccent = $(tr[i]).data("name");
-                const nameWithoutAccent = normalizeString(nameWithAccent);
-                if (code.toUpperCase().indexOf(input) > -1 ||
-                    nameWithAccent.toUpperCase().indexOf(input) > -1 ||
-                    nameWithoutAccent.toUpperCase().indexOf(input) > -1) {
+                if (code.toUpperCase().indexOf(input) > -1) {
                     tr[i].style.display = "";
                     if (firstFilteredTr === undefined) {
                         firstFilteredTr = tr[i];
