@@ -119,9 +119,9 @@ R13;Saké;2dcl;45
 R14;Asijské vino 2dcl;;35
 B8;Radegast 12° plech;ks;30
 B9;Cool 2%;ks;30
-N1;Nealko 30Kč;ks;30
-N2;Nealko 25Kč;ks;25
-N3;Nealko 20Kč;ks;20
+N30;Nealko 30Kč;ks;30
+N25;Nealko 25Kč;ks;25
+N20;Nealko 20Kč;ks;20
 N4;Teplý čaj;ks;20
 K1;Kavá nesco;ks;20
 K2;Kavá turek;ks;20
