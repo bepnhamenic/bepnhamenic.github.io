@@ -29,7 +29,7 @@ function setFocusOnSearchInput(): void {
 }
 
 function clearSearchInput(): void {
-    $("#search-input").val("");
+    $("#search-input").val("").trigger("keyup");
 }
 
 async function ready() {
@@ -54,7 +54,6 @@ async function ready() {
         isNaN(currentVal) ? inputField.val(1) : inputField.val(currentVal + 1);
 
         inputField.trigger("change");
-        clearSearchInput();
     });
 
     $(".subtractQuantity").on("click", function () {
@@ -97,6 +96,7 @@ async function ready() {
 
         if (e.key === "Enter") {
             $(firstFilteredTr).find(".addQuantity").trigger("click");
+            clearSearchInput();
         }
 
         if (e.key === "Escape") {

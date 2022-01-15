@@ -31,7 +31,7 @@ function setFocusOnSearchInput() {
     $("#search-input").trigger("focus");
 }
 function clearSearchInput() {
-    $("#search-input").val("");
+    $("#search-input").val("").trigger("keyup");
 }
 function ready() {
     return __awaiter(this, void 0, void 0, function* () {
@@ -51,7 +51,6 @@ function ready() {
             const currentVal = parseInt(inputField.val().toString());
             isNaN(currentVal) ? inputField.val(1) : inputField.val(currentVal + 1);
             inputField.trigger("change");
-            clearSearchInput();
         });
         $(".subtractQuantity").on("click", function () {
             const itemCode = $(this).data("code");
@@ -84,6 +83,7 @@ function ready() {
             }
             if (e.key === "Enter") {
                 $(firstFilteredTr).find(".addQuantity").trigger("click");
+                clearSearchInput();
             }
             if (e.key === "Escape") {
                 $(this).val("");
