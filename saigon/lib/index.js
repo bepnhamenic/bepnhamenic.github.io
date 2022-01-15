@@ -27,6 +27,9 @@ function announceDuplicatedCodes(items) {
 function setAutoOpenPrintDialogCheckbox() {
     $("#autoOpenPrintDialogCheckbox")[0]["checked"] = AutoOpenPrintDialogSettingRepository.getValue();
 }
+function setFocusOnSearchInput() {
+    $("#search-input").trigger("focus");
+}
 function ready() {
     return __awaiter(this, void 0, void 0, function* () {
         $(".modal").modal();
@@ -34,6 +37,7 @@ function ready() {
         renderMenu(items);
         announceDuplicatedCodes(items);
         setAutoOpenPrintDialogCheckbox();
+        setFocusOnSearchInput();
         $("#new-cart").on("click", function () {
             Cart.emptyCart();
             location.reload();

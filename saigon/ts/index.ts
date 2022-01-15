@@ -24,6 +24,10 @@ function setAutoOpenPrintDialogCheckbox(): void {
     $("#autoOpenPrintDialogCheckbox")[0]["checked"] = AutoOpenPrintDialogSettingRepository.getValue();
 }
 
+function setFocusOnSearchInput(): void {
+    $("#search-input").trigger("focus");
+}
+
 async function ready() {
     $(".modal").modal();
     const items = await ItemRepository.loadFromFile("menu/menu.csv");
@@ -31,6 +35,7 @@ async function ready() {
     renderMenu(items);
     announceDuplicatedCodes(items);
     setAutoOpenPrintDialogCheckbox();
+    setFocusOnSearchInput();
 
     $("#new-cart").on("click", function () {
         Cart.emptyCart();
