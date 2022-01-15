@@ -1,0 +1,25 @@
+{
+    "compilerOptions": {
+        "lib": [
+            "ES6",
+            "dom"
+        ],
+        "baseUrl": ".",
+        "paths": {
+            "*": [
+                "ts/*"
+            ]
+        },
+        "moduleResolution": "node",
+        "noUnusedLocals": true,
+        "noUnusedParameters": true,
+        "sourceMap": true,
+        "target": "ES6",
+        "outDir": "lib",
+        "emitDecoratorMetadata": true,
+        "experimentalDecorators": true
+    },
+    "exclude": [
+        "node_modules"
+    ]
+}

@@ -1,0 +1,82 @@
+#menuBody td {
+    padding: 0 5px;
+}
+
+.addQuantity {
+    cursor: url('../img/add-circle-1.png'), auto;
+}
+
+.subtractQuantity {
+    cursor: url('../img/subtract-circle-1.png'), auto;
+}
+
+.noselect {
+    -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+    -moz-user-select: none; /* Firefox */
+    -ms-user-select: none; /* Internet Explorer/Edge */
+    user-select: none; /* Non-prefixed version, currently supported by Chrome and Opera */
+}
+
+.totalAmount {
+    font-weight: bold;
+    font-size: 22px;
+}
+
+.totalAmount td {
+    padding: 0;
+}
+
+.text-align-right {
+    text-align: right;
+}
+
+.text-align-center {
+    text-align: center;
+}
+
+.row {
+    margin-bottom: 5px;
+}
+
+#bill-html-body {
+    font-size: 10pt;
+}
+
+#bill-ordered-items td {
+    padding: 1px;
+}
+
+.no-margin {
+    margin-top: 0;
+    margin-bottom: 0;
+    position: relative;
+    padding: 0;
+}
+
+#new-cart {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+#print {
+    width: 100%;
+    margin-top: 10px;
+}
+
+#autoOpenPrintDialogForm {
+    margin-top: 10px;
+}
+
+.addQuantity {
+    background-color: rgba(40, 205, 65, 0.1);
+}
+
+.subtractQuantity {
+    background-color: rgba(255, 59, 48, 0.1);
+}
+
+#firstRow {
+    font-weight: bold;
+    font-size: 20px;
+}
