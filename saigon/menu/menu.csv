@@ -1,4 +1,8 @@
 MaHang;TenHang;DonViTinh;DonGia
+N30;Nealko 30Kč;ks;30
+N25;Nealko 25Kč;ks;25
+N20;Nealko 20Kč;ks;20
+N15;Nealko 15Kč;ks;15
 1;Polévka pekingská;ks;35
 2;Polévka kachní s houbami;ks;45
 3;Polévka krémová kuřecí;ks;40
@@ -31,13 +35,13 @@ MaHang;TenHang;DonViTinh;DonGia
 31;Vepřové rizoto vejce a zelenina;ks;100
 32;Rizoto se třemi druhy masa, vejcem a zeleninou;ks;120
 33;Rizoto s krevetami, vejcem a zeleninou;ks;135
-34;Kuřecí kung pao;ks;80
-35;Kuřecí maso bambus a zelenina;ks;80
-36;Kuřecí maso s ananasem a sladkou omáčkou;ks;80
-37;Kuřecí maso s peking omáčkou a zeleninou;ks;80
-38;Kuřecí maso s pikantní omáčkou a zeleninou;ks;80
-39;Kuřecí maso s čínskými houbami;ks;80
-40;Kuřecí maso s thajskou kari omáčkou;ks;80
+34;Kuřecí kung pao;ks;85
+35;Kuřecí maso bambus a zelenina;ks;85
+36;Kuřecí maso s ananasem a sladkou omáčkou;ks;85
+37;Kuřecí maso s peking omáčkou a zeleninou;ks;85
+38;Kuřecí maso s pikantní omáčkou a zeleninou;ks;85
+39;Kuřecí maso s čínskými houbami;ks;85
+40;Kuřecí maso s thajskou kari omáčkou;ks;85
 41;Smažené kuřecí prsa kuličky v kokosovém obalu s sladkou omáčkou ;ks;85
 42;Smažené kuřecí prsa plátek s sladkou omáčkou ;ks;85
 43;Smažené kuřecí po thajsku, pikantní omáčka ;ks;85
@@ -60,11 +64,11 @@ MaHang;TenHang;DonViTinh;DonGia
 60;Kuřecí, hovězí, vepřové s peking omáčkou a zeleninou;ks;120
 61;Telecí pikantní maso zelenina na horkém talíří;ks;150
 62;Telecí maso peking zeleninou na horkém talíři;ks;150
-63;Krevety thajské kari omáčka zelenina;ks;110
-64;Krevety smažené;ks;140
+63;Krevety thajské kari omáčka zelenina;ks;115
+64;Krevety smažené;ks;160
 65;Krevety pikantní zelenina na horkém talíři;ks;160
 66;Mořský pikantní koktejl zelenina na horkém talíři;ks;165
-68;Smažený sýr s hranolky;ks;90
+68;Smažený sýr s hranolky;ks;100
 69;Pečené nudle sojové vejce zelenina;ks;75
 70;Rizoto vejce zelenina;ks;75
 71;Zelenina, sojová omáčka;ks;75
@@ -119,9 +123,6 @@ R13;Saké;2dcl;45
 R14;Asijské vino 2dcl;;35
 B8;Radegast 12° plech;ks;30
 B9;Cool 2%;ks;30
-N30;Nealko 30Kč;ks;30
-N25;Nealko 25Kč;ks;25
-N20;Nealko 20Kč;ks;20
 N4;Teplý čaj;ks;20
 K1;Kavá nesco;ks;20
 K2;Kavá turek;ks;20
