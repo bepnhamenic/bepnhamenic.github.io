@@ -57,6 +57,6 @@ export class BillContent {
 
 
     public renderTotalAmount(node: HTMLElement): void {
-        node.innerText = this.getTotalPriceAmount().toString() + "Kč";
+        node.innerText = this.getTotalPriceAmount().toString() + "\u00A0Kč";
     }
 }

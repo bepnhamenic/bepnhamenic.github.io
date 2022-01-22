@@ -16,11 +16,11 @@ export class OrderedItem {
 
 
     public getLineOnBill(): string {
-        return `${this.item.code}. ${this.item.name} (${this.quantity}${this.item.unitName} x ${this.item.pricePerUnit}${OrderedItem.CURRENCY})`;
+        return `${this.item.code}. ${this.item.name} (${this.quantity}${this.item.unitName} x ${this.item.pricePerUnit}\u00A0${OrderedItem.CURRENCY})`;
     }
 
 
     public getPriceAmountOnBill(): string {
-        return `${this.getPriceAmount()}${OrderedItem.CURRENCY}`;
+        return `${this.getPriceAmount()}\u00A0${OrderedItem.CURRENCY}`;
     }
 }

@@ -7,10 +7,10 @@ export class OrderedItem {
         return this.item.pricePerUnit * this.quantity;
     }
     getLineOnBill() {
-        return `${this.item.code}. ${this.item.name} (${this.quantity}${this.item.unitName} x ${this.item.pricePerUnit}${OrderedItem.CURRENCY})`;
+        return `${this.item.code}. ${this.item.name} (${this.quantity}${this.item.unitName} x ${this.item.pricePerUnit}\u00A0${OrderedItem.CURRENCY})`;
     }
     getPriceAmountOnBill() {
-        return `${this.getPriceAmount()}${OrderedItem.CURRENCY}`;
+        return `${this.getPriceAmount()}\u00A0${OrderedItem.CURRENCY}`;
     }
 }
 OrderedItem.CURRENCY = "Kč";
