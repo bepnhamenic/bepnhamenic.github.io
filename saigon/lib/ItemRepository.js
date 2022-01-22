@@ -32,7 +32,6 @@ export class ItemRepository {
                     items.push(new Item(line));
                 }
             }
-            items.sort(Item.compare);
             return items;
         });
     }

@@ -52,15 +52,4 @@ export class Item {
 
         return tr;
     }
-
-
-    public static compare(a: Item, b: Item) {
-        if (!isNaN(Number(a.code)) && !isNaN(Number(b.code))) {
-            return Number(a.code) - Number(b.code);
-        } else if (a.code.charAt(0) === b.code.charAt(0)) {
-            return Number(a.code.substring(1)) - Number(b.code.substring(1));
-        } else {
-            return a.code.charAt(0).localeCompare(b.code.charAt(0));
-        }
-    }
 }

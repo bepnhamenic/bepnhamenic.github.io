@@ -83,7 +83,7 @@ async function ready() {
         for (let i = 0; i < tr.length; i++) {
             const code = $(tr[i]).data("code").toString();
 
-            if (code.toUpperCase().indexOf(input) > -1) {
+            if (code.toUpperCase() === input || input.length === 0) {
                 tr[i].style.display = "";
 
                 if (firstFilteredTr === undefined) {
