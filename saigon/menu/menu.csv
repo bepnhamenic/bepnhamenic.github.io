@@ -3,10 +3,11 @@ N30;Nealko 30Kč;ks;30
 N25;Nealko 25Kč;ks;25
 N20;Nealko 20Kč;ks;20
 N15;Nealko 15Kč;ks;15
+C15;Capri-Sun;ks;15
 B1;Bernard 11° 0,3l;;25
 B2;Bernard 11° 0,5l;;30
-B3;Radegast 11° 0,3l;;25
-B4;Radegast 11° 0,5l;;35
+B3;Radegast 12° 0,3l;;25
+B4;Radegast 12° 0,5l;;35
 B5;Birell nealko 0,5l;;30
 B6;Bernard švestka 0,5l;;35
 B7;Bernard Free 0,5l;;30
@@ -38,16 +39,17 @@ O1;Omáčka 10Kč;ks;10
 O2;Omáčka 5Kč;ks;5
 O3;Tatarka;ks;10
 O4;Kečup;ks;10
+O35;Nudle omáčka;ks;35
 1;Polévka pekingská;ks;35
 2;Polévka kachní s houbami;ks;45
 3;Polévka krémová kuřecí;ks;40
 4;Polévka pikantní krevety;ks;50
 5;Pho bo;ks;140
 6;Pho ga;ks;130
-8;Pekingská kuřecí maso se zeleninou s rýží nebo s nudlemi;ks;120
-9;Křupavé kuřecí stehno s rýží nebo nudlemi;ks;120
-10;Smažené obalované kuřecí prsa, rýže, nebo nudlemi;ks;120
-11;Smažené kuřecí po thajsku, pikantní omáčka, rýže, nebo nudle;ks;120
+8;Pekingská kuřecí maso se zeleninou s rýží nebo s nudlemi;ks;125
+9;Křupavé kuřecí stehno s rýží nebo nudlemi;ks;125
+10;Smažené obalované kuřecí prsa, rýže, nebo nudlemi;ks;125
+11;Smažené kuřecí po thajsku, pikantní omáčka, rýže, nebo nudle;ks;125
 12;Pečené nudle s kuřecím masem, vejcem a zeleninou;ks;100
 13;Pečené nudle s vepřovým masem, vejcem a zeleninou;ks;100
 14;Pečené nudle s hovězím masem, vejcem a zeleninou;ks;120
@@ -128,9 +130,9 @@ O4;Kečup;ks;10
 91;Žlutá rýže;ks;40
 92;Řýžové nudle;ks;45
 93;Hranolky;ks;35
-94;Smažený banán, med a kokos;ks;40
-95;Smažený ananas a kokos;ks;40
-96;Flambovaný banán;ks;40
+94;Smažený banán, med a kokos;ks;45
+95;Smažený ananas a kokos;ks;45
+96;Flambovaný banán;ks;45
 97;Krevetové chipsy;ks;30
 98;Menu pro 2;ks;490
 99;Menu pro 3;ks;680
