@@ -1,3 +1,8 @@
+body {
+    font-family: "Arial", sans-serif;
+    font-size: 20px;
+}
+
 #menuBody td {
     padding: 0 5px;
 }
@@ -53,6 +58,17 @@
     padding: 1px;
 }
 
+#bill-name-address, #bill-phone-number {
+    font-weight: bold;
+    font-size: 12pt;
+}
+
+#new-cart {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+
 .no-margin {
     margin-top: 0;
     margin-bottom: 0;
@@ -65,16 +81,9 @@
     margin-top: 10px;
 }
 
-#last-row {
-    height: 4em;
-}
-
-p, h5 {
-    margin: 0;
-}
-
-#bill-name-address, #bill-phone-number {
-    font-size: 14px;
+#firstRow {
+    font-weight: bold;
+    font-size: 20px;
 }
 
 .addQuantity {

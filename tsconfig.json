@@ -1,17 +1,23 @@
 {
   "compilerOptions": {
-    "lib": [
-        "es2017",
-        "dom"
-    ],
-    "moduleResolution": "node",
-    "noUnusedLocals": true,
-    "noUnusedParameters": true,
-    "sourceMap": true,
-    "target": "es2017",
-    "outDir": "lib",
-    "emitDecoratorMetadata": true,
-    "experimentalDecorators": true
+      "lib": [
+          "ES2017",
+          "dom"
+      ],
+      "baseUrl": ".",
+      "paths": {
+          "*": [
+              "ts/*"
+          ]
+      },
+      "moduleResolution": "node",
+      "noUnusedLocals": true,
+      "noUnusedParameters": true,
+      "sourceMap": true,
+      "target": "ES6",
+      "outDir": "lib",
+      "emitDecoratorMetadata": true,
+      "experimentalDecorators": true
   },
   "exclude": [
     "node_modules",

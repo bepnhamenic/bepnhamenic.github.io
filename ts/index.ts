@@ -1,17 +1,22 @@
-import {ItemRepository} from "./ItemRepository.js";
-import {Item} from "./Item";
-import {Cart} from "./Cart.js";
-import {renderBill} from "./bill.js";
+import { ItemRepository } from "./ItemRepository.js";
+import { Item } from "./Item";
+import { Cart } from "./Cart.js";
+import { renderBill } from "./bill.js";
+import { AutoOpenPrintDialogSettingRepository } from "./AutoOpenPrintDialogSettingRepository.js";
 
 function normalizeString(str: string): string {
     return str.split('').map(function (letter) {
-            let i = this.accents.indexOf(letter);
-            return (i !== -1) ? this.out[i] : letter
-        }.bind({
-            accents: 'àáãảạăằắẳẵặâầấẩẫậèéẻẽẹêềếểễệđùúủũụưừứửữựòóỏõọôồốổỗộơờớởỡợìíỉĩịäëïîöüûñç',
-            out: 'aaaaaaaaaaaaaaaaaeeeeeeeeeeeduuuuuuuuuuuoooooooooooooooooiiiiiaeiiouunc'
-        })
+        let i = this.accents.indexOf(letter);
+        return (i !== -1) ? this.out[i] : letter
+    }.bind({
+        accents: 'àáãảạăằắẳẵặâầấẩẫậèéẻẽẹêềếểễệđùúủũụưừứửữựòóỏõọôồốổỗộơờớởỡợìíỉĩịäëïîöüûñç',
+        out: 'aaaaaaaaaaaaaaaaaeeeeeeeeeeeduuuuuuuuuuuoooooooooooooooooiiiiiaeiiouunc'
+    })
     ).join('');
+}
+
+function setAutoOpenPrintDialogCheckbox(): void {
+    $("#autoOpenPrintDialogCheckbox")[0]["checked"] = AutoOpenPrintDialogSettingRepository.getValue();
 }
 
 function renderMenu(items: Item[]) {
@@ -24,7 +29,7 @@ function announceDuplicatedCodes(items: Item[]): void {
     const duplicatedCodes = ItemRepository.getDuplicatedCodes(items);
     if (duplicatedCodes) {
         for (const code of duplicatedCodes) {
-            M.toast({html: `Trùng mã hàng ${code}`});
+            M.toast({ html: `Trùng mã hàng ${code}` });
         }
     }
 }
@@ -35,6 +40,7 @@ async function ready() {
 
     renderMenu(items);
     announceDuplicatedCodes(items);
+    setAutoOpenPrintDialogCheckbox();
 
     $('#new-cart').on('click', function () {
         Cart.emptyCart();
@@ -125,6 +131,10 @@ async function ready() {
             $(this).val('');
             $(this).trigger('keyup');
         }
+    });
+
+    $("#autoOpenPrintDialogCheckbox").on("change", function () {
+        AutoOpenPrintDialogSettingRepository.setValue($(this)[0]["checked"]);
     });
 }
 

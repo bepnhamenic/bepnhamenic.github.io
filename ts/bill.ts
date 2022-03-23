@@ -1,5 +1,6 @@
 import {ItemRepository} from "./ItemRepository.js";
 import {BillContent} from "./BillContent.js";
+import { AutoOpenPrintDialogSettingRepository } from "./AutoOpenPrintDialogSettingRepository.js";
 
 let itemRepository: ItemRepository = null;
 
@@ -22,7 +23,7 @@ window.onafterprint = () => {
 
 jQuery(() => {
     renderBill().then(() => {
-        if (window.location.pathname.endsWith('bill.html') && window.location.hostname !== 'localhost') {
+        if (window.location.pathname.endsWith("bill.html") && AutoOpenPrintDialogSettingRepository.getValue() === true) {
             window.print();
         }
     });

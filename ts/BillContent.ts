@@ -1,6 +1,6 @@
-import {OrderedItem} from "./OrderedItem.js";
-import {Cart} from "./Cart.js";
-import {ItemRepository} from "./ItemRepository";
+import { OrderedItem } from "./OrderedItem.js";
+import { Cart } from "./Cart.js";
+import { ItemRepository } from "./ItemRepository";
 
 
 export class BillContent {
@@ -35,6 +35,19 @@ export class BillContent {
         }
 
         return total;
+    }
+
+    private formatPhoneNumber(rawPhoneNumber: string): string {
+        if (rawPhoneNumber.length !== 10) {
+            return rawPhoneNumber;
+        }
+
+        var match = rawPhoneNumber.match(/^(\d{4})(\d{3})(\d{3})$/);
+        if (match) {
+            return match[1] + ' ' + match[2] + ' ' + match[3];
+        }
+
+        return rawPhoneNumber;
     }
 
 
@@ -86,6 +99,6 @@ export class BillContent {
     }
 
     public renderPhoneNumber(node: HTMLElement) {
-        node.innerText = Cart.getPhoneNumber();
+        node.innerText = this.formatPhoneNumber(Cart.getPhoneNumber());
     }
 }
