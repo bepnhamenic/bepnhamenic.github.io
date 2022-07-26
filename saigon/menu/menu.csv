@@ -17,6 +17,10 @@ B6;Bernard švestka 0,5l;;35
 B7;Bernard Free 0,5l;;35
 B8;Radegast 12° plech;ks;35
 B9;Cool 2%;ks;35
+O1;Omáčka 10Kč;ks;10
+O2;Omáčka 5Kč;ks;5
+O3;Tatarka;ks;10
+O4;Kečup;ks;10
 O5;Obal 5Kč;ks;5
 O10;Obal 10Kč;ks;10
 O15;Obal 15Kč;ks;15
@@ -39,10 +43,6 @@ K1;Kavá nesco;ks;20
 K2;Kavá turek;ks;20
 K3;Kavá vídeňská;ks;30
 K4;Kavá alžírská;ks;40
-O1;Omáčka 10Kč;ks;10
-O2;Omáčka 5Kč;ks;5
-O3;Tatarka;ks;10
-O4;Kečup;ks;10
 1;Polévka pekingská;ks;40
 2;Polévka kachní s houbami;ks;45
 3;Polévka krémová kuřecí;ks;40
