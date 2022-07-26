@@ -12,29 +12,29 @@ B1;Bernard 11° 0,3l;;25
 B2;Bernard 11° 0,5l;;35
 B3;Radegast 12° 0,3l;;25
 B4;Radegast 12° 0,5l;;35
-B5;Birell nealko 0,5l;;30
+B5;Birell nealko 0,5l;;35
 B6;Bernard švestka 0,5l;;35
-B7;Bernard Free 0,5l;;30
+B7;Bernard Free 0,5l;;35
 B8;Radegast 12° plech;ks;35
-B9;Cool 2%;ks;30
+B9;Cool 2%;ks;35
 O5;Obal 5Kč;ks;5
 O10;Obal 10Kč;ks;10
 O15;Obal 15Kč;ks;15
 R1;Fernet 4cl;;30
 R2;Božkov 4cl;;30
-R3;Becherovka 4cl;;30
+R3;Becherovka 4cl;;35
 R4;Stará myslivecká 4cl;;30
-R5;Slivovice 4cl;;40
-R6;Finlandia 4cl;;40
-R7;Metaxa 4cl;;40
+R5;Slivovice 4cl;;45
+R6;Finlandia 4cl;;45
+R7;Metaxa 4cl;;45
 R8;Magister 4cl;;45
 R9;Frankovka;2dcl;35
-R10;Frankovka;1l;145
+R10;Frankovka;1l;140
 R11;Müller;2dcl;35
 R12;Müller 0,5l;;80
-R13;Saké;2dcl;40
-R14;Asijské vino 2dcl;;35
-N4;Teplý čaj;ks;20
+R13;Saké;2dcl;45
+R14;Asijské vino 2dcl;;40
+N4;Teplý čaj;ks;30
 K1;Kavá nesco;ks;20
 K2;Kavá turek;ks;20
 K3;Kavá vídeňská;ks;30
