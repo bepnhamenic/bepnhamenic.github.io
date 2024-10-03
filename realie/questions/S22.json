@@ -1,0 +1,102 @@
+[
+    {
+        "index": 1,
+        "question": "Ve kterém kraji je atomová elektrárna Temelín?",
+        "correctAnswer": "V Jihočeském kraji.",
+        "otherOptions": [
+            "V Ústeckém kraji.",
+            "V Jihomoravském kraji.",
+            "V Moravskoslezském kraji."
+        ]
+    },
+    {
+        "index": 2,
+        "question": "Která z těchto měst spojuje dálnice D1?",
+        "correctAnswer": "Prahu a Brno.",
+        "otherOptions": [
+            "Prahu a Pardubice.",
+            "Prahu a Liberec.",
+            "Prahu a Plzeň."
+        ]
+    },
+    {
+        "index": 3,
+        "question": "Jak se jmenuje slavný český podnik, který vyrábí klavíry?",
+        "correctAnswer": "Petrof.",
+        "otherOptions": [
+            "Amati.",
+            "Moser.",
+            "Koh-i-noor."
+        ]
+    },
+    {
+        "index": 4,
+        "question": "V Kopřivnici se vyrábí nákladní automobily tradiční značky. Jak se tato značka jmenuje?",
+        "correctAnswer": "Tatra.",
+        "otherOptions": [
+            "Zetor.",
+            "Škoda.",
+            "Karosa."
+        ]
+    },
+    {
+        "index": 5,
+        "question": "Který pivovar vyrábí pivo značky Pilsner Urquell?",
+        "correctAnswer": "Plzeňský Prazdroj.",
+        "otherOptions": [
+            "Starobrno.",
+            "Staropramen.",
+            "Budějovický Budvar."
+        ]
+    },
+    {
+        "index": 6,
+        "question": "Značka Kofola patří od 60. let 20. století mezi tradiční české značky. Které výrobky mají označení Kofola?",
+        "correctAnswer": "Nealkoholické nápoje.",
+        "otherOptions": [
+            "Mléčné výrobky.",
+            "Sportovní oblečení.",
+            "Alkoholické nápoje."
+        ]
+    },
+    {
+        "index": 7,
+        "question": "Z Prahy do Ostravy vede nejdůležitější železniční trať v Česku. Kterým z těchto měst tato železniční trať prochází?",
+        "correctAnswer": "Olomouc.",
+        "otherOptions": [
+            "Brno.",
+            "Jihlava.",
+            "Liberec."
+        ]
+    },
+    {
+        "index": 8,
+        "question": "Které elektrárny vyrábí nejvíce elektrické energie v České republice?",
+        "correctAnswer": "Uhelné.",
+        "otherOptions": [
+            "Vodní.",
+            "Větrné.",
+            "Solární."
+        ]
+    },
+    {
+        "index": 9,
+        "question": "Která značka osobních automobilů se vyrábí ve městě Mladá Boleslav?",
+        "correctAnswer": "Škoda.",
+        "otherOptions": [
+            "Hyundai.",
+            "Peugeot.",
+            "Tatra."
+        ]
+    },
+    {
+        "index": 10,
+        "question": "Tradiční českou značkou je Becherovka. Ve kterém městě se tento alkoholický nápoj vyrábí?",
+        "correctAnswer": "V Karlových Varech.",
+        "otherOptions": [
+            "V Plzni.",
+            "V Praze.",
+            "V Českých Budějovicích."
+        ]
+    }
+]

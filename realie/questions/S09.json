@@ -1,0 +1,102 @@
+[
+    {
+        "index": 1,
+        "question": "Která z těchto vět o státním občanství České republiky je pravdivá?",
+        "correctAnswer": "Žádost o udělení státního občanství České republiky se musí podat osobně.",
+        "otherOptions": [
+            "Státní občanství uděluje ministerstvo zahraničních věcí.",
+            "Státní občanství získá každý, kdo se v České republice narodí.",
+            "O udělení státního občanství se musí rozhodnout do 30 dnů od podání žádosti."
+        ]
+    },
+    {
+        "index": 2,
+        "question": "Který úřad vydává občanům České republiky nový občanský průkaz?",
+        "correctAnswer": "Obecní úřad nebo úřad městské části.",
+        "otherOptions": [
+            "Policie ČR.",
+            "Okresní soud.",
+            "Ministerstvo spravedlnosti."
+        ]
+    },
+    {
+        "index": 3,
+        "question": "Paní Nováková si pořídila psa, a proto musí splnit určité povinnosti. Co paní Nováková ale nemusí udělat?",
+        "correctAnswer": "Zajistit výcvik psa.",
+        "otherOptions": [
+            "Zajistit čip pro psa.",
+            "Přihlásit psa na obecním úřadě.",
+            "Uhradit škodu, kterou pes způsobil."
+        ]
+    },
+    {
+        "index": 4,
+        "question": "Ve kterém případě paní Nováková nemusí požádat o nový občanský průkaz?",
+        "correctAnswer": "Po změně zaměstnání.",
+        "otherOptions": [
+            "Po změně příjmení.",
+            "Po změně místa trvalého pobytu.",
+            "Po ukončení platnosti občanského průkazu."
+        ]
+    },
+    {
+        "index": 5,
+        "question": "Kterou službu neposkytuje Czech POINT občanům ČR?",
+        "correctAnswer": "Výpis z bankovního účtu.",
+        "otherOptions": [
+            "Výpis z Rejstříku trestů.",
+            "Výpis z katastru nemovitostí.",
+            "Výpis z bodového hodnocení řidiče."
+        ]
+    },
+    {
+        "index": 6,
+        "question": "Pan Novotný je občanem České republiky a ztratil cestovní pas. Kde může požádat o nový pas?",
+        "correctAnswer": "Na obecním úřadu.",
+        "otherOptions": [
+            "U okresního soudu.",
+            "Na cizinecké policii.",
+            "Na ministerstvu zahraničních věcí."
+        ]
+    },
+    {
+        "index": 7,
+        "question": "Který z těchto úřadů může vydat potvrzení, že občan nemá záznam o trestu?",
+        "correctAnswer": "Rejstřík trestů.",
+        "otherOptions": [
+            "Ministerstvo vnitra.",
+            "Finanční úřad.",
+            "Krajský soud."
+        ]
+    },
+    {
+        "index": 8,
+        "question": "Panu Novotnému je 35 let a platnost jeho občanského průkazu právě končí. Proto si žádá o nový průkaz. Jak dlouho bude panu Novotnému platit jeho nový občanský průkaz?",
+        "correctAnswer": "10 let.",
+        "otherOptions": [
+            "5 let.",
+            "20 let.",
+            "35 let."
+        ]
+    },
+    {
+        "index": 9,
+        "question": "Paní Svobodová potřebuje svému zaměstnavateli dodat úředně ověřenou kopii svého maturitního vysvědčení. Na kterém místě paní Svobodové kopii maturitního vysvědčení úředně ověří?",
+        "correctAnswer": "Na pobočkách Czech POINT.",
+        "otherOptions": [
+            "Na okresním soudu.",
+            "Na České školní inspekci.",
+            "Na každé pobočce České spořitelny."
+        ]
+    },
+    {
+        "index": 10,
+        "question": "Trestní odpovědnost mají podle zákona také mladistvé osoby. Která z těchto osob patří mezi mladistvé?",
+        "correctAnswer": "David, kterému je 17 let.",
+        "otherOptions": [
+            "Jana, které je 10 let.",
+            "Martina, které je 14 let.",
+            "Zdeněk, kterému je 23 let."
+        ]
+    }
+]

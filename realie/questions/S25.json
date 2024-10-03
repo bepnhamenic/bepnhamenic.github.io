@@ -1,0 +1,102 @@
+[
+    {
+        "index": 1,
+        "question": "Na přelomu 16. a 17. století se Praha stala kulturním centrem Evropy. Jak se jmenoval panovník, který tehdy v Čechách vládl?",
+        "correctAnswer": "Rudolf II.",
+        "otherOptions": [
+            "Václav II.",
+            "František II.",
+            "Ferdinand II."
+        ]
+    },
+    {
+        "index": 2,
+        "question": "Který rod začal vládnout Českému království v roce 1526 a vládl až do roku 1918?",
+        "correctAnswer": "Habsburkové.",
+        "otherOptions": [
+            "Jagellonci.",
+            "Přemyslovci.",
+            "Lucemburkové."
+        ]
+    },
+    {
+        "index": 3,
+        "question": "V roce 1618 se čeští nekatoličtí šlechtici postavili proti císaři. Tato událost začala válku, která se rozšířila téměř po celé Evropě. Jak se tato válka jmenuje?",
+        "correctAnswer": "Třicetiletá válka.",
+        "otherOptions": [
+            "Zimní válka.",
+            "Prusko-rakouská válka.",
+            "Válka o rakouské dědictví."
+        ]
+    },
+    {
+        "index": 4,
+        "question": "Ve kterém městě se odehrává pověst o Golemovi, kterého stvořil rabi Löw?",
+        "correctAnswer": "V Praze.",
+        "otherOptions": [
+            "V Plzni.",
+            "V Jihlavě.",
+            "V Ostravě."
+        ]
+    },
+    {
+        "index": 5,
+        "question": "V České republice se 28. března slaví Den učitelů a připomíná se narození „učitele národů“. Koho Češi považují za „učitele národů“?",
+        "correctAnswer": "Jana Amose Komenského.",
+        "otherOptions": [
+            "Karla Havlíčka Borovského.",
+            "Tomáše Garrigua Masaryka.",
+            "Františka Ladislava Čelakovského."
+        ]
+    },
+    {
+        "index": 6,
+        "question": "Jak se jmenovala slavná císařovna, která vládla v českých zemích v 18. století?",
+        "correctAnswer": "Marie Terezie.",
+        "otherOptions": [
+            "Marie Antoinetta.",
+            "Kunhuta Uherská.",
+            "Eliška Přemyslovna."
+        ]
+    },
+    {
+        "index": 7,
+        "question": "České země byly od roku 1867 součástí Rakouska-Uherska. Kdy přestalo existovat Rakousko-Uhersko?",
+        "correctAnswer": "V roce 1918.",
+        "otherOptions": [
+            "V roce 1914.",
+            "V roce 1938.",
+            "V roce 1948."
+        ]
+    },
+    {
+        "index": 8,
+        "question": "Jak se říká rozvoji české kultury v 19. století?",
+        "correctAnswer": "Národní obrození.",
+        "otherOptions": [
+            "Jaro národů.",
+            "Normalizace.",
+            "Sametová revoluce."
+        ]
+    },
+    {
+        "index": 9,
+        "question": "V roce 1618 se protestanté v českých zemích vzbouřili proti císaři, ale o dva roky později byli poraženi. Ve které bitvě císař porazil tyto protestanty?",
+        "correctAnswer": "Na Bílé hoře.",
+        "otherOptions": [
+            "U Lipan.",
+            "Na Vítkově.",
+            "Na Moravském poli."
+        ]
+    },
+    {
+        "index": 10,
+        "question": "Který panovník zavedl v českých zemích povinnou školní docházku pro děti?",
+        "correctAnswer": "Marie Terezie.",
+        "otherOptions": [
+            "Josef II.",
+            "Rudolf II.",
+            "František Josef I."
+        ]
+    }
+]

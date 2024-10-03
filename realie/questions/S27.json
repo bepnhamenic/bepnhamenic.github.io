@@ -1,0 +1,62 @@
+[
+    {
+        "index": 1,
+        "question": "Kdo se stal československým prezidentem v roce 1948 poté, co komunistická strana převzala moc ve státě?",
+        "correctAnswer": "Klement Gottwald.",
+        "otherOptions": ["Edvard Beneš.", "Antonín Zápotocký.", "Tomáš Garrigue Masaryk."]
+    },
+    {
+        "index": 2,
+        "question": "Jak se jmenoval student, který se upálil v lednu 1969 v Praze na Václavském náměstí?",
+        "correctAnswer": "Jan Palach.",
+        "otherOptions": ["Jan Opletal.", "Martin Šmíd.", "Václav Sedláček."]
+    },
+    {
+        "index": 3,
+        "question": "Jak dlouho trvala totalitní vláda Komunistické strany Československa?",
+        "correctAnswer": "Přibližně 40 let.",
+        "otherOptions": ["Přibližně 10 let.", "Přibližně 20 let.", "Přibližně 30 let."]
+    },
+    {
+        "index": 4,
+        "question": "Jak se jmenoval dokument, kterým někteří občané v 70. letech 20. století protestovali proti komunistickému režimu?",
+        "correctAnswer": "Charta 77.",
+        "otherOptions": ["Poučení z krizového vývoje.", "Několik vět.", "2 000 slov."]
+    },
+    {
+        "index": 5,
+        "question": "Která významná událost české historie se stala 21. srpna 1968?",
+        "correctAnswer": "Začala okupace Československa vojsky Varšavské smlouvy.",
+        "otherOptions": ["Z Československa se stala federativní republika.", "Na protest proti okupaci se upálil Jan Palach.", "Vznikl samostatný český a slovenský stát."]
+    },
+    {
+        "index": 6,
+        "question": "Kdy začala v Československu sametová revoluce?",
+        "correctAnswer": "17. listopadu 1989.",
+        "otherOptions": ["8. května 1945.", "25. února 1948.", "17. listopadu 1939."]
+    },
+    {
+        "index": 7,
+        "question": "Rok 1989 byl rokem velkých společenských změn. Václav Havel byl ještě v prvních měsících roku 1989 z politických důvodů ve vězení, ale na konci roku 1989 byl zvolen do významné politické funkce. Která funkce to byla?",
+        "correctAnswer": "Prezident republiky.",
+        "otherOptions": ["Předseda vlády.", "Ministr zahraničních věcí.", "Předseda Národního shromáždění."]
+    },
+    {
+        "index": 8,
+        "question": "Jaký program měla protikomunistická občanská iniciativa Charta 77?",
+        "correctAnswer": "Ochranu lidských práv.",
+        "otherOptions": ["Ozbrojený boj.", "Uměleckou tvorbu.", "Vydávání české literatury v zahraničí."]
+    },
+    {
+        "index": 9,
+        "question": "V letech 1949 až 1961 někteří odpůrci komunistického režimu pracovali jako političtí vězni v uranových dolech. U kterého z těchto měst byly uranové doly?",
+        "correctAnswer": "Příbram.",
+        "otherOptions": ["Břeclav.", "Znojmo.", "Litoměřice."]
+    },
+    {
+        "index": 10,
+        "question": "Jak se jmenovala česká politička odsouzená v roce 1950 v politickém procesu k trestu smrti?",
+        "correctAnswer": "Milada Horáková.",
+        "otherOptions": ["Marie Majerová.", "Zdena Mašínová.", "Marta Gottwaldová."]
+    }
+]

@@ -1,0 +1,104 @@
+[
+    {
+        "index": 1,
+        "question": "Na kterém obrázku je česká státní vlajka?",
+        "image": "/questions/assets/05/1.png",
+        "correctAnswer": "C)",
+        "otherOptions": [
+            "A)",
+            "B)",
+            "D)"
+        ]
+    },
+    {
+        "index": 2,
+        "question": "Který dokument České republiky popisuje základní pravidla pro rozdělení státní moci na zákonodárnou, výkonnou a soudní?",
+        "correctAnswer": "Ústava.",
+        "otherOptions": [
+            "Vládní nařízení.",
+            "Vyhláška ministerstva vnitra.",
+            "Listina základních práv a svobod."
+        ]
+    },
+    {
+        "index": 3,
+        "question": "Která věta o politickém systému České republiky je pravdivá?",
+        "correctAnswer": "Česká republika je demokratický stát.",
+        "otherOptions": [
+            "Česká republika je monarchie.",
+            "Česká republika je totalitní stát.",
+            "Česká republika je federativní stát."
+        ]
+    },
+    {
+        "index": 4,
+        "question": "Která instituce hlasuje o důvěře vlády?",
+        "correctAnswer": "Poslanecká sněmovna.",
+        "otherOptions": [
+            "Senát.",
+            "Ústavní soud.",
+            "Nejvyšší kontrolní úřad."
+        ]
+    },
+    {
+        "index": 5,
+        "question": "Jakým způsobem je možné změnit Ústavu České republiky?",
+        "correctAnswer": "Parlament schválí ústavní zákon.",
+        "otherOptions": [
+            "Občané podají petici.",
+            "Ministerstvo vnitra vydá vyhlášku.",
+            "Nejvyšší správní soud vydá rozhodnutí."
+        ]
+    },
+    {
+        "index": 6,
+        "question": "Kterou z těchto vět začíná česká státní hymna?",
+        "correctAnswer": "Kde domov můj, kde domov můj?",
+        "otherOptions": [
+            "Nad Tatrou se blýská.",
+            "Ať mír dál zůstává s touto krajinou.",
+            "Svatý Václave, vévodo české země."
+        ]
+    },
+    {
+        "index": 7,
+        "question": "Senát Parlamentu České republiky má mnoho úkolů, projednává například návrhy zákonů. Která část Ústavy ČR popisuje tyto úkoly Senátu?",
+        "correctAnswer": "Část o moci zákonodárné.",
+        "otherOptions": [
+            "Část o moci soudní.",
+            "Část o moci výkonné.",
+            "Část o územní samosprávě."
+        ]
+    },
+    {
+        "index": 8,
+        "question": "Které barvy jsou na české státní vlajce?",
+        "correctAnswer": "Bílá, červená, modrá.",
+        "otherOptions": [
+            "Bílá, zelená, modrá.",
+            "Bílá, zelená, červená.",
+            "Červená, modrá, zelená."
+        ]
+    },
+    {
+        "index": 9,
+        "question": "Co nepatří mezi státní symboly České republiky?",
+        "correctAnswer": "České korunovační klenoty.",
+        "otherOptions": [
+            "Státní pečeť.",
+            "Státní hymna.",
+            "Vlajka prezidenta republiky."
+        ]
+    },
+    {
+        "index": 10,
+        "question": "Který státní symbol České republiky je na obrázku?",
+        "image": "/questions/assets/05/10.png",
+        "correctAnswer": "Malý státní znak.",
+        "otherOptions": [
+            "Státní vlajka.",
+            "Velký státní znak.",
+            "Vlajka prezidenta republiky."
+        ]
+    }
+]

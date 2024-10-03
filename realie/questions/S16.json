@@ -1,0 +1,102 @@
+[
+    {
+        "index": 1,
+        "question": "Pan Novák je osoba samostatně výdělečně činná (OSVČ). Jak se nazývají jeho příjmy?",
+        "correctAnswer": "Příjmy ze samostatné činnosti.",
+        "otherOptions": [
+            "Příjmy z důchodového připojištění.",
+            "Příjmy ze závislé činnosti.",
+            "Příjmy z pronájmu bytu."
+        ]
+    },
+    {
+        "index": 2,
+        "question": "Která práce není živnost?",
+        "correctAnswer": "Policejní služba.",
+        "otherOptions": [
+            "Kadeřnické služby.",
+            "Průvodcovské služby.",
+            "Služby soukromého detektiva."
+        ]
+    },
+    {
+        "index": 3,
+        "question": "Podnikatel založil firmu. Ke které z uvedených daní se musel zaregistrovat na finančním úřadě?",
+        "correctAnswer": "K dani z příjmů.",
+        "otherOptions": [
+            "K dani spotřební.",
+            "K dani z nemovitosti.",
+            "K dani z přidané hodnoty."
+        ]
+    },
+    {
+        "index": 4,
+        "question": "Které pojištění musí zaměstnavatel v České republice platit za své zaměstnance?",
+        "correctAnswer": "Zdravotní pojištění.",
+        "otherOptions": [
+            "Životní pojištění.",
+            "Havarijní pojištění.",
+            "Důchodové připojištění."
+        ]
+    },
+    {
+        "index": 5,
+        "question": "Pan Novák je majitelem obchodu s oděvy. Který úřad vydal panu Novákovi povolení k podnikání?",
+        "correctAnswer": "Živnostenský úřad.",
+        "otherOptions": [
+            "Okresní soud.",
+            "Finanční úřad.",
+            "Ministerstvo práce a sociálních věcí."
+        ]
+    },
+    {
+        "index": 6,
+        "question": "Pan Malý se rozhodl podnikat jako malíř pokojů. Na úřadě požádal, aby mu vydali živnostenské oprávnění. Kolik zaplatí za ohlášení živnosti?",
+        "correctAnswer": "1 000 korun.",
+        "otherOptions": [
+            "5 000 korun.",
+            "10 000 korun.",
+            "15 000 korun."
+        ]
+    },
+    {
+        "index": 7,
+        "question": "V obchodním rejstříku jsou informace o podnikatelích na území České republiky a je přístupný veřejnosti v online podobě. Která instituce zveřejňuje obchodní rejstřík v České republice?",
+        "correctAnswer": "Ministerstvo spravedlnosti ČR.",
+        "otherOptions": [
+            "Ministerstvo vnitra ČR.",
+            "Ministerstvo financí ČR.",
+            "Ministerstvo průmyslu a obchodu ČR."
+        ]
+    },
+    {
+        "index": 8,
+        "question": "Co nepatří mezi činnosti živnostenského úřadu?",
+        "correctAnswer": "Přijímat daňová přiznání podnikatelů.",
+        "otherOptions": [
+            "Přijímat ohlášení živností.",
+            "Přijímat žádosti o koncesi.",
+            "Vydávat výpisy z živnostenského rejstříku."
+        ]
+    },
+    {
+        "index": 9,
+        "question": "Pan Horák je truhlář a podniká jako osoba samostatně výdělečně činná (OSVČ). Které z těchto pojištění si musí pan Horák platit?",
+        "correctAnswer": "Zdravotní pojištění.",
+        "otherOptions": [
+            "Pojištění majetku.",
+            "Nemocenské pojištění.",
+            "Pojištění odpovědnosti podnikatelů."
+        ]
+    },
+    {
+        "index": 10,
+        "question": "Který z těchto dokumentů potřebuje občan k vykonávání volné živnosti?",
+        "correctAnswer": "Výpis ze živnostenského rejstříku.",
+        "otherOptions": [
+            "Rodný list.",
+            "Výuční list.",
+            "Daňové přiznání."
+        ]
+    }
+]

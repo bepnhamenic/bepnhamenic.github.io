@@ -1,0 +1,102 @@
+[
+    {
+        "index": 1,
+        "question": "Která z těchto osob může navrhnout v České republice zákon?",
+        "correctAnswer": "Každý poslanec.",
+        "otherOptions": [
+            "Prezident republiky.",
+            "Ústavní soudce.",
+            "Každý občan."
+        ]
+    },
+    {
+        "index": 2,
+        "question": "Pan Svoboda se chce stát poslancem Poslanecké sněmovny ČR. Kolik let nejdéle může být poslancem v jednom volebním období?",
+        "correctAnswer": "4 roky.",
+        "otherOptions": [
+            "2 roky.",
+            "6 roků.",
+            "8 roků."
+        ]
+    },
+    {
+        "index": 3,
+        "question": "Kdo se může stát prezidentem České republiky?",
+        "correctAnswer": "Občan České republiky, který má právo volit a který dosáhl věku 40 let.",
+        "otherOptions": [
+            "Občan České republiky, který má právo volit a který dosáhl věku 18 let.",
+            "Občan České republiky, který má právo volit a který dosáhl věku 21 let.",
+            "Občan České republiky, který má právo volit a který dosáhl věku 26 let."
+        ]
+    },
+    {
+        "index": 4,
+        "question": "Právo veta znamená možnost vrátit zákon znovu k projednání Poslanecké sněmovně a nepodepsat jej. Kdo má při schvalování zákonů právo veta?",
+        "correctAnswer": "Prezident.",
+        "otherOptions": [
+            "Předseda vlády.",
+            "Předseda Senátu.",
+            "Předseda Ústavního soudu."
+        ]
+    },
+    {
+        "index": 5,
+        "question": "Které komory tvoří Parlament České republiky?",
+        "correctAnswer": "Poslanecká sněmovna a Senát.",
+        "otherOptions": [
+            "Senát a vláda.",
+            "Senát a ministerstva.",
+            "Poslanecká sněmovna a vláda."
+        ]
+    },
+    {
+        "index": 6,
+        "question": "Senát Parlamentu České republiky dal souhlas ke jmenování ústavního soudce. Kdo následně jmenuje ústavního soudce?",
+        "correctAnswer": "Prezident.",
+        "otherOptions": [
+            "Předseda vlády.",
+            "Ministr spravedlnosti.",
+            "Předseda Poslanecké sněmovny."
+        ]
+    },
+    {
+        "index": 7,
+        "question": "Kolik volených zástupců má Senát České republiky?",
+        "correctAnswer": "81.",
+        "otherOptions": [
+            "27.",
+            "200.",
+            "281."
+        ]
+    },
+    {
+        "index": 8,
+        "question": "Která z těchto činností je úkolem Poslanecké sněmovny Parlamentu České republiky?",
+        "correctAnswer": "Poslanecká sněmovna projednává a schvaluje zákony.",
+        "otherOptions": [
+            "Poslanecká sněmovna volí prezidenta.",
+            "Poslanecká sněmovna jmenuje soudce.",
+            "Poslanecká sněmovna uděluje státní vyznamenání."
+        ]
+    },
+    {
+        "index": 9,
+        "question": "Nouzový stav je stav při vážných krizích, haváriích nebo epidemiích. V nouzovém stavu mohou být omezena některá lidská práva a svobody. Která instituce vyhlašuje v České republice nouzový stav?",
+        "correctAnswer": "Vláda.",
+        "otherOptions": [
+            "Senát.",
+            "Prezident.",
+            "Poslanecká sněmovna."
+        ]
+    },
+    {
+        "index": 10,
+        "question": "Kdo řídí vládu v České republice?",
+        "correctAnswer": "Předseda vlády.",
+        "otherOptions": [
+            "Starosta obce.",
+            "Předseda Senátu.",
+            "Prezident republiky."
+        ]
+    }
+]

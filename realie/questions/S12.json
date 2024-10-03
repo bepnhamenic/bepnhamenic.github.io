@@ -1,0 +1,105 @@
+[
+    {
+        "index": 1,
+        "question": "Která instituce vydává v České republice bankovky a mince?",
+        "correctAnswer": "Česká národní banka.",
+        "otherOptions": [
+            "Česká hospodářská komora.",
+            "Český statistický úřad.",
+            "Ministerstvo financí."
+        ]
+    },
+    {
+        "index": 2,
+        "question": "Na bankovce je známá česká spisovatelka – autorka knihy Babička. Jak se tato žena jmenuje?",
+        "image": "/questions/assets/12/2.png",
+        "correctAnswer": "Božena Němcová.",
+        "otherOptions": [
+            "Svatá Ludmila.",
+            "Ema Destinnová.",
+            "Anežka Přemyslovna."
+        ]
+    },
+    {
+        "index": 3,
+        "question": "Jak se nazývá měna České republiky?",
+        "correctAnswer": "Koruna česká.",
+        "otherOptions": [
+            "Euro.",
+            "Haléř.",
+            "Československá koruna."
+        ]
+    },
+    {
+        "index": 4,
+        "question": "Na české stokorunové bankovce je slavný český král a římský císař. Jak se tento muž jmenuje?",
+        "image": "/questions/assets/12/4.png",
+        "correctAnswer": "Karel IV.",
+        "otherOptions": [
+            "Rudolf II.",
+            "František Josef I.",
+            "Přemysl Otakar II."
+        ]
+    },
+    {
+        "index": 5,
+        "question": "Jakou nejvyšší hodnotu má platná česká bankovka?",
+        "correctAnswer": "5 000 korun českých.",
+        "otherOptions": [
+            "500 korun českých.",
+            "1 000 korun českých.",
+            "2 000 korun českých."
+        ]
+    },
+    {
+        "index": 6,
+        "question": "Jakou nejnižší hodnotu má platná česká bankovka?",
+        "correctAnswer": "100 korun českých.",
+        "otherOptions": [
+            "50 korun českých.",
+            "200 korun českých.",
+            "500 korun českých."
+        ]
+    },
+    {
+        "index": 7,
+        "question": "Paní Svobodová si kupuje nové auto za 650 000 korun. Chce zaplatit v hotovosti, ale prodejce nemůže podle zákona tak velkou peněžní částku přijmout. Jakou maximální částku v hotovosti může prodejce přijmout?",
+        "correctAnswer": "270 000 Kč.",
+        "otherOptions": [
+            "100 000 Kč.",
+            "400 000 Kč.",
+            "470 000 Kč."
+        ]
+    },
+    {
+        "index": 8,
+        "question": "Česká národní banka (ČNB) je centrální banka v ČR, která vykonává dohled nad finančním trhem v zemi. Kdo je nejvyšší představitel České národní banky?",
+        "correctAnswer": "Guvernér.",
+        "otherOptions": [
+            "Prezident.",
+            "Předseda.",
+            "Ředitel."
+        ]
+    },
+    {
+        "index": 9,
+        "question": "Pan Svoboda si chce vyměnit české koruny za eura. Ve směnárně je tato tabule. Kolik korun zaplatí pan Svoboda za 100 eur?",
+        "image": "/questions/assets/12/9.png",
+        "correctAnswer": "2 500 Kč.",
+        "otherOptions": [
+            "2 400 Kč.",
+            "2 450 Kč.",
+            "2 450 Kč + 15 % DPH."
+        ]
+    },
+    {
+        "index": 10,
+        "question": "Jakou nejvyšší hodnotu má platná česká mince?",
+        "correctAnswer": "50 korun českých.",
+        "otherOptions": [
+            "10 korun českých.",
+            "20 korun českých.",
+            "100 korun českých."
+        ]
+    }
+]

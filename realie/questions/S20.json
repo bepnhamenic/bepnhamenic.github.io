@@ -1,0 +1,105 @@
+[
+    {
+        "index": 1,
+        "question": "Česko má bohaté zásoby podzemních minerálních vod. Pramen minerální vody Vincentka se nachází v lázních Luhačovice. Které číslo na mapě označuje město Luhačovice?",
+        "image": "/questions/assets/20/1.png",
+        "correctAnswer": "3.",
+        "otherOptions": [
+            "1.",
+            "2.",
+            "4."
+        ]
+    },
+    {
+        "index": 2,
+        "question": "Který národní park leží u hranice Česka s Polskem?",
+        "correctAnswer": "Krkonošský národní park.",
+        "otherOptions": [
+            "Národní park Podyjí.",
+            "Šumavský národní park.",
+            "Národní park České Švýcarsko."
+        ]
+    },
+    {
+        "index": 3,
+        "question": "Třídění odpadu pomáhá chránit životní prostředí. Kterou barvu má kontejner na papír?",
+        "correctAnswer": "Modrou.",
+        "otherOptions": [
+            "Bílou.",
+            "Žlutou.",
+            "Zelenou."
+        ]
+    },
+    {
+        "index": 4,
+        "question": "Černé a Čertovo jezero jsou největšími přírodními jezery v České republice. Nacházejí se na Šumavě. Které číslo na mapě označuje tuto oblast?",
+        "image": "/questions/assets/20/4.png",
+        "correctAnswer": "3.",
+        "otherOptions": [
+            "1.",
+            "2.",
+            "4."
+        ]
+    },
+    {
+        "index": 5,
+        "question": "Tříděný odpad se ukládá do barevných kontejnerů. Co nepatří do žlutého kontejneru?",
+        "correctAnswer": "Skleněné láhve od nápojů.",
+        "otherOptions": [
+            "Igelitové tašky.",
+            "Plastové nádobí.",
+            "PET láhve od nápojů."
+        ]
+    },
+    {
+        "index": 6,
+        "question": "Pan Svoboda třídí odpad. Co dává do modrého kontejneru?",
+        "correctAnswer": "Papír.",
+        "otherOptions": [
+            "Sklo.",
+            "Plasty.",
+            "Bioodpad."
+        ]
+    },
+    {
+        "index": 7,
+        "question": "Nejmenší národní park České republiky je Národní park Podyjí. Nachází se v povodí moravské řeky Dyje. Které číslo na mapě označuje tento národní park?",
+        "image": "/questions/assets/20/7.png",
+        "correctAnswer": "3.",
+        "otherOptions": [
+            "1.",
+            "2.",
+            "4."
+        ]
+    },
+    {
+        "index": 8,
+        "question": "Jeden ze čtyř národních parků Česka je známý skálami a Pravčickou bránou. Který národní park to je?",
+        "correctAnswer": "Národní park České Švýcarsko.",
+        "otherOptions": [
+            "Národní park Podyjí.",
+            "Národní park Šumava.",
+            "Krkonošský národní park."
+        ]
+    },
+    {
+        "index": 9,
+        "question": "Tříděný odpad se ukládá do barevných kontejnerů. Co patří do zeleného kontejneru?",
+        "correctAnswer": "Skleněné láhve.",
+        "otherOptions": [
+            "Noviny a časopisy.",
+            "PET láhve od nápojů.",
+            "Použité elektrické přístroje."
+        ]
+    },
+    {
+        "index": 10,
+        "question": "V Česku se nacházejí čtyři území s nejvyšším stupněm ochrany přírody. Jak se tato území nazývají?",
+        "correctAnswer": "Národní parky.",
+        "otherOptions": [
+            "Přírodní rezervace.",
+            "Chráněné krajinné oblasti.",
+            "Ochranná pásma vodního zdroje."
+        ]
+    }
+]

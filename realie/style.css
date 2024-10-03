@@ -1,0 +1,22 @@
+body {
+    font-family: serif;
+}
+
+.correctChoice {
+    color: black !important;
+    background: rgb(48, 209, 88) !important;
+}
+
+.incorrectChoice {
+    color: black !important;
+    background: rgb(215, 59, 58) !important;
+}
+
+#progressBar {
+    position: fixed;
+    bottom: 0;
+}
+
+img {
+    max-width: 100%;
+}

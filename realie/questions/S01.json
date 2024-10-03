@@ -1,0 +1,103 @@
+[
+    {
+        "index": 1,
+        "question": "Který svátek slaví Češi i lidé po celém světě 8. března?",
+        "correctAnswer": "Mezinárodní den žen.",
+        "otherOptions": [
+            "Den matek.",
+            "Den učitelů.",
+            "Mezinárodní den dětí."
+        ]
+    },
+    {
+        "index": 2,
+        "question": "Kterou přílohu tradičně jedí Češi ke smaženému kaprovi v mnoha domácnostech na Štědrý večer?",
+        "correctAnswer": "Bramborový salát.",
+        "otherOptions": [
+            "Rýži.",
+            "Těstoviny.",
+            "Houskové knedlíky."
+        ]
+    },
+    {
+        "index": 3,
+        "question": "Kraslice je vejce, které se barví a zdobí. Kdy ženy a dívky dávají mužům kraslice?",
+        "correctAnswer": "Na Velikonoce.",
+        "otherOptions": [
+            "Na Dušičky.",
+            "Na Nový rok.",
+            "Na Štědrý den."
+        ]
+    },
+    {
+        "index": 4,
+        "question": "Který státní svátek se slaví v České republice na podzim?",
+        "correctAnswer": "Den boje za svobodu a demokracii.",
+        "otherOptions": [
+            "Den obnovy samostatného českého státu.",
+            "Den upálení mistra Jana Husa.",
+            "Den vítězství."
+        ]
+    },
+    {
+        "index": 5,
+        "question": "Velký pátek je svátek, který připomíná smrt Ježíše Krista. Ke kterému svátečnímu období patří Velký pátek?",
+        "correctAnswer": "K Velikonocům.",
+        "otherOptions": [
+            "K Dušičkám.",
+            "K Vánocům.",
+            "K adventu."
+        ]
+    },
+    {
+        "index": 6,
+        "question": "Památce zesnulých se v Česku lidově říká Dušičky. Je to den, kdy se podle české tradice zdobí hroby květinami, rozsvěcují se svíčky a vzpomíná se na zemřelé. Ve kterém období se slaví tento svátek?",
+        "correctAnswer": "Na podzim.",
+        "otherOptions": [
+            "Na jaře.",
+            "V létě.",
+            "V zimě."
+        ]
+    },
+    {
+        "index": 7,
+        "question": "Den české státnosti je také svátkem svatého Václava. Kníže Václav z rodu Přemyslovců je patronem Čech a Moravy. Kdy se slaví Den české státnosti?",
+        "correctAnswer": "V září.",
+        "otherOptions": [
+            "V říjnu.",
+            "V dubnu.",
+            "V květnu."
+        ]
+    },
+    {
+        "index": 8,
+        "question": "Který den si Češi obyčejně dávají vánoční dárky?",
+        "correctAnswer": "24. prosince.",
+        "otherOptions": [
+            "6. ledna.",
+            "25. prosince.",
+            "26. prosince."
+        ]
+    },
+    {
+        "index": 9,
+        "question": "Kdo podle tradice nosí v Česku na Vánoce dárky?",
+        "correctAnswer": "Ježíšek.",
+        "otherOptions": [
+            "Mrazík.",
+            "Mikuláš.",
+            "Santa Klaus."
+        ]
+    },
+    {
+        "index": 10,
+        "question": "Který svátek ukončuje období Vánoc?",
+        "correctAnswer": "Tři králové.",
+        "otherOptions": [
+            "Dušičky.",
+            "Jízda králů.",
+            "Svátek sv. Valentýna."
+        ]
+    }           
+]
+

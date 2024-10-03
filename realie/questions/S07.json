@@ -1,0 +1,102 @@
+[
+    {
+        "index": 1,
+        "question": "Pan Novotný určuje výši trestu za trestné činy. Kterou funkci vykonává?",
+        "correctAnswer": "Funkci soudce.",
+        "otherOptions": [
+            "Funkci starosty.",
+            "Funkci ministra.",
+            "Funkci prezidenta."
+        ]
+    },
+    {
+        "index": 2,
+        "question": "Soudní moc vykonávají jménem republiky nezávislé soudy. Který právní dokument popisuje podmínky jmenování soudců v České republice?",
+        "correctAnswer": "Ústava.",
+        "otherOptions": [
+            "Trestní řád.",
+            "Notářský řád.",
+            "Občanský soudní řád."
+        ]
+    },
+    {
+        "index": 3,
+        "question": "Který z těchto soudů rozhoduje o zrušení zákonů, které neodpovídají Ústavě České republiky?",
+        "correctAnswer": "Ústavní soud.",
+        "otherOptions": [
+            "Vrchní soud.",
+            "Krajský soud.",
+            "Nejvyšší soud."
+        ]
+    },
+    {
+        "index": 4,
+        "question": "Která instituce má za úkol chránit bezpečnost osob a majetku a veřejný pořádek?",
+        "correctAnswer": "Policie České republiky.",
+        "otherOptions": [
+            "Armáda České republiky.",
+            "Parlament České republiky.",
+            "Ústavní soud České republiky."
+        ]
+    },
+    {
+        "index": 5,
+        "question": "Pan Novotný pracuje jako advokát. Kterou z těchto činností může dělat?",
+        "correctAnswer": "Poskytovat placené právní služby.",
+        "otherOptions": [
+            "Určovat výši trestu za trestné činy.",
+            "Vydávat příkaz k zatčení.",
+            "Zahajovat trestní stíhání."
+        ]
+    },
+    {
+        "index": 6,
+        "question": "Na které z těchto institucí se podává trestní oznámení?",
+        "correctAnswer": "Na policii.",
+        "otherOptions": [
+            "Na okresním soudě.",
+            "Na ministerstvu spravedlnosti.",
+            "Na obecním nebo městském úřadě."
+        ]
+    },
+    {
+        "index": 7,
+        "question": "Co je úkolem státního zástupce?",
+        "correctAnswer": "Podávat obžalobu proti obviněnému.",
+        "otherOptions": [
+            "Vymáhat peníze.",
+            "Vyhlašovat rozsudky.",
+            "Zabavovat majetek dlužníkům."
+        ]
+    },
+    {
+        "index": 8,
+        "question": "Co je úkolem ombudsmana?",
+        "correctAnswer": "Řešit stížnosti občanů na úřady státní správy.",
+        "otherOptions": [
+            "Poskytovat placené právní služby.",
+            "Rozhodovat o vině a trestu za trestné činy.",
+            "Zastupovat obžalovanou osobu v soudním řízení."
+        ]
+    },
+    {
+        "index": 9,
+        "question": "Paní Svobodová se chce rozvést. Která instituce rozhodne o jejím rozvodu?",
+        "correctAnswer": "Soud.",
+        "otherOptions": [
+            "Městský úřad.",
+            "Notářský úřad.",
+            "Státní zastupitelství."
+        ]
+    },
+    {
+        "index": 10,
+        "question": "Soud odsoudil pana Nováka k 10 letům vězení. Kterým dokumentem vyhlásil soudce vinu a trest?",
+        "correctAnswer": "Rozsudkem.",
+        "otherOptions": [
+            "Žalobou.",
+            "Zprávou.",
+            "Oznámením."
+        ]
+    }
+]

@@ -1,0 +1,152 @@
+[
+    {
+        "index": 1,
+        "definitionFile": "S01.json",
+        "name": "ZVYKY A TRADICE"
+    },
+    {
+        "index": 2,
+        "definitionFile": "S02.json",
+        "name": "DOPRAVA"
+    },
+    {
+        "index": 3,
+        "definitionFile": "S03.json",
+        "name": "ZDRAVOTNÍ A ZÁCHRANNÝ SYSTÉM"
+    },
+    {
+        "index": 4,
+        "definitionFile": "S04.json",
+        "name": "VZDĚLÁVÁNÍ"
+    },
+    {
+        "index": 5,
+        "definitionFile": "S05.json",
+        "name": "POLITICKÝ SYSTÉM"
+    },
+    {
+        "index": 6,
+        "definitionFile": "S06.json",
+        "name": "ZÁKONODÁRNÁ A VÝKONNÁ MOC"
+    },
+    {
+        "index": 7,
+        "definitionFile": "S07.json",
+        "name": "SOUDNÍ MOC A OCHRANA OBČANŮ"
+    },
+    {
+        "index": 8,
+        "definitionFile": "S08.json",
+        "name": "VOLBY"
+    },
+    {
+        "index": 9,
+        "definitionFile": "S09.json",
+        "name": "ZÁKLADNÍ PRÁVNÍ POJMY, SPRÁVNÍ A TRESTNÍ PRÁVO"
+    },
+    {
+        "index": 10,
+        "definitionFile": "S10.json",
+        "name": "OBČANSKÉ PRÁVO"
+    },
+    {
+        "index": 11,
+        "definitionFile": "S11.json",
+        "name": "RODINNÉ PRÁVO"
+    },
+    {
+        "index": 12,
+        "definitionFile": "S12.json",
+        "name": "MĚNA A BANKOVNÍ SOUSTAVA"
+    },
+    {
+        "index": 13,
+        "definitionFile": "S13.json",
+        "name": "DAŇOVÁ SOUSTAVA"
+    },
+    {
+        "index": 14,
+        "definitionFile": "S14.json",
+        "name": "SOCIÁLNÍ ZABEZPEČENÍ"
+    },
+    {
+        "index": 15,
+        "definitionFile": "S15.json",
+        "name": "ZAMĚSTNÁNÍ"
+    },
+    {
+        "index": 16,
+        "definitionFile": "S16.json",
+        "name": "PODNIKÁNÍ"
+    },
+    {
+        "index": 17,
+        "definitionFile": "S17.json",
+        "name": "POLOHA, ROZLOHA A PŘÍRODNÍ POMĚRY"
+    },
+    {
+        "index": 18,
+        "definitionFile": "S18.json",
+        "name": "PŘÍRODA A KRAJINA"
+    },
+    {
+        "index": 19,
+        "definitionFile": "S19.json",
+        "name": "REGIONY A MÍSTA"
+    },
+    {
+        "index": 20,
+        "definitionFile": "S20.json",
+        "name": "OCHRANA ŽIVOTNÍHO PROSTŘEDÍ"
+    },
+    {
+        "index": 21,
+        "definitionFile": "S21.json",
+        "name": "SOCIOKULTURNÍ SOUVISLOSTI"
+    },
+    {
+        "index": 22,
+        "definitionFile": "S22.json",
+        "name": "SOCIOEKONOMICKÉ SOUVISLOSTI"
+    },
+    {
+        "index": 23,
+        "definitionFile": "S23.json",
+        "name": "MEZINÁRODNÍ SOUVISLOSTI"
+    },
+    {
+        "index": 24,
+        "definitionFile": "S24.json",
+        "name": "STŘEDOVĚK"
+    },
+    {
+        "index": 25,
+        "definitionFile": "S25.json",
+        "name": "NOVOVĚK"
+    },
+    {
+        "index": 26,
+        "definitionFile": "S26.json",
+        "name": "DĚJINY ČESKOSLOVENSKA DO ROKU 1948"
+    },
+    {
+        "index": 27,
+        "definitionFile": "S27.json",
+        "name": "DĚJINY ČESKOSLOVENSKA OD ROKU 1948 DO ROKU 1989"
+    },
+    {
+        "index": 28,
+        "definitionFile": "S28.json",
+        "name": "DĚJINY ČESKA OD ROKU 1989"
+    },
+    {
+        "index": 29,
+        "definitionFile": "S29.json",
+        "name": "VÝZNAMNÉ OSOBNOSTI OD 19. STOLETÍ DO SOUČASNOSTI"
+    },
+    {
+        "index": 30,
+        "definitionFile": "S30.json",
+        "name": "UMĚNÍ OD STŘEDOVĚKU DO SOUČASNOSTI"
+    }
+]

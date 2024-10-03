@@ -1,0 +1,103 @@
+[
+    {
+      "index": 1,
+      "question": "Paní Novotná dává výpověď ze svého pracovního poměru. Jaká je délka výpovědní doby podle zákona?",
+      "correctAnswer": "Nejméně 2 měsíce.",
+      "otherOptions": [
+        "Nejvíce 3 dny.",
+        "Nejvíce 15 dnů.",
+        "Nejméně 1 měsíc."
+      ]
+    },
+    {
+      "index": 2,
+      "question": "Výpovědní doba se počítá ode dne doručení výpovědi. Jak dlouhá je výpovědní doba u dohody o pracovní činnosti (DPČ)?",
+      "correctAnswer": "15 dní.",
+      "otherOptions": [
+        "30 dní.",
+        "60 dní.",
+        "90 dní."
+      ]
+    },
+    {
+      "index": 3,
+      "question": "Který z těchto údajů musí být podle zákona v každém případě v pracovní smlouvě?",
+      "correctAnswer": "Místo výkonu práce.",
+      "otherOptions": [
+        "Pracovní doba.",
+        "Počet dnů dovolené.",
+        "Termín výplaty mzdy."
+      ]
+    },
+    {
+      "index": 4,
+      "question": "Paní Svobodová pracuje od 1. ledna jako zahradnice. S majitelem zahradnictví podepsala dohodu o provedení práce (DPP). Kolik hodin může odpracovat v tomto zahradnictví v jednom kalendářním roce?",
+      "correctAnswer": "Maximálně 300 hodin.",
+      "otherOptions": [
+        "Maximálně 150 hodin.",
+        "Maximálně 200 hodin.",
+        "Maximálně 250 hodin."
+      ]
+    },
+    {
+      "index": 5,
+      "question": "Pan Novák má zaměstnání na plný pracovní úvazek. Kolik hodin týdně musí podle zákona pracovat?",
+      "correctAnswer": "40 hodin.",
+      "otherOptions": [
+        "35 hodin.",
+        "45 hodin.",
+        "50 hodin."
+      ]
+    },
+    {
+      "index": 6,
+      "question": "Který zákon nebo zákoník upravuje vztah mezi zaměstnavatelem a zaměstnancem?",
+      "correctAnswer": "Zákoník práce.",
+      "otherOptions": [
+        "Živnostenský zákon.",
+        "Trestní zákoník.",
+        "Zákon o rodině."
+      ]
+    },
+    {
+      "index": 7,
+      "question": "Pan Novák uzavřel s firmou Stavby, s. r. o., pracovní poměr na dobu určitou. Jakou nejdelší dobu může trvat tento nový pracovní poměr bez prodloužení?",
+      "correctAnswer": "Tři roky.",
+      "otherOptions": [
+        "Jeden rok.",
+        "Dva roky.",
+        "Čtyři roky."
+      ]
+    },
+    {
+      "index": 8,
+      "question": "Paní Nováková má nové zaměstnání. Bude pracovat jako prodavačka. Získala pracovní smlouvu na dobu neurčitou s maximální zkušební dobou. Jaká bude podle zákona délka zkušební doby paní Novákové?",
+      "correctAnswer": "3 měsíce.",
+      "otherOptions": [
+        "6 měsíců.",
+        "9 měsíců.",
+        "12 měsíců."
+      ]
+    },
+    {
+      "index": 9,
+      "question": "Jaká je podle zákona délka týdenní pracovní doby v České republice?",
+      "correctAnswer": "40 hodin.",
+      "otherOptions": [
+        "24 hodin.",
+        "32 hodin.",
+        "56 hodin."
+      ]
+    },
+    {
+      "index": 10,
+      "question": "Jaká je výměra dovolené pro zaměstnance podle zákona?",
+      "correctAnswer": "Nejméně 4 týdny za kalendářní rok.",
+      "otherOptions": [
+        "Nejméně 2 týdny za kalendářní rok.",
+        "Nejméně 6 týdnů za kalendářní rok.",
+        "Nejméně 8 týdnů za kalendářní rok."
+      ]
+    }
+  ]
+  

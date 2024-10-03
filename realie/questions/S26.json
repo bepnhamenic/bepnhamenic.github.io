@@ -1,0 +1,102 @@
+[
+    {
+        "index": 1,
+        "question": "Co pro Československo znamenala mnichovská dohoda, kterou podepsalo Německo a další tři státy v září 1938?",
+        "correctAnswer": "Ztrátu pohraničí.",
+        "otherOptions": [
+            "Začátek války.",
+            "Obsazení Prahy.",
+            "Ztrátu Slovenska."
+        ]
+    },
+    {
+        "index": 2,
+        "question": "Jak se jmenovala jedna z českých obcí, kterou Němci po atentátu na Reinharda Heydricha v roce 1942 zcela zničili?",
+        "correctAnswer": "Lidice.",
+        "otherOptions": [
+            "Stadice.",
+            "Hrusice.",
+            "Věstonice."
+        ]
+    },
+    {
+        "index": 3,
+        "question": "Jak se jmenoval československý prezident, který žil za 2. světové války ve Velké Británii?",
+        "correctAnswer": "Edvard Beneš.",
+        "otherOptions": [
+            "Klement Gottwald.",
+            "Antonín Zápotocký.",
+            "Tomáš Garrigue Masaryk."
+        ]
+    },
+    {
+        "index": 4,
+        "question": "Které velké armády osvobodily území Československa v roce 1945?",
+        "correctAnswer": "Americká a sovětská.",
+        "otherOptions": [
+            "Americká a anglická.",
+            "Americká a kanadská.",
+            "Americká a francouzská."
+        ]
+    },
+    {
+        "index": 5,
+        "question": "Co se stalo 17. listopadu 1939 na českém území?",
+        "correctAnswer": "Nacisté zavřeli vysoké školy.",
+        "otherOptions": [
+            "Nacisté zcela zničili obec Lidice.",
+            "Armády zemí Varšavské smlouvy obsadily Československo.",
+            "Americká a sovětská armáda osvobodily území Československa."
+        ]
+    },
+    {
+        "index": 6,
+        "question": "Kdo se stal prvním československým prezidentem v roce 1918?",
+        "correctAnswer": "T. G. Masaryk.",
+        "otherOptions": [
+            "Edvard Beneš.",
+            "Karel Kramář.",
+            "Alois Rašín."
+        ]
+    },
+    {
+        "index": 7,
+        "question": "Jak se jmenoval zastupující říšský protektor, na kterého spáchali Gabčík a Kubiš v roce 1942 v Praze atentát?",
+        "correctAnswer": "Reinhard Heydrich.",
+        "otherOptions": [
+            "K. H. Frank.",
+            "Joseph Goebbels.",
+            "Hermann Göring."
+        ]
+    },
+    {
+        "index": 8,
+        "question": "Který den si Česká republika připomíná konec druhé světové války – Den vítězství?",
+        "correctAnswer": "8. května.",
+        "otherOptions": [
+            "6. července.",
+            "28. října.",
+            "28. září."
+        ]
+    },
+    {
+        "index": 9,
+        "question": "Která historická událost předcházela vzniku Československa v roce 1918?",
+        "correctAnswer": "První světová válka.",
+        "otherOptions": [
+            "Sametová revoluce.",
+            "Druhá světová válka.",
+            "Světová hospodářská krize."
+        ]
+    },
+    {
+        "index": 10,
+        "question": "Kdy vznikl samostatný československý stát?",
+        "correctAnswer": "28. října 1918.",
+        "otherOptions": [
+            "29. září 1938.",
+            "1. ledna 1993.",
+            "8. května 1945."
+        ]
+    }
+]

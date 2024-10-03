@@ -1,0 +1,102 @@
+[
+    {
+        "index": 1,
+        "question": "Do které instituce Evropské unie volí čeští občané své zástupce?",
+        "correctAnswer": "Do Evropského parlamentu.",
+        "otherOptions": [
+            "Do Rady Evropy.",
+            "Do Evropské komise.",
+            "Do Evropského soudu pro lidská práva."
+        ]
+    },
+    {
+        "index": 2,
+        "question": "Jak často se konají řádné volby do obecního zastupitelstva?",
+        "correctAnswer": "Jednou za čtyři roky.",
+        "otherOptions": [
+            "Jednou za dva roky.",
+            "Jednou za tři roky.",
+            "Jednou za pět let."
+        ]
+    },
+    {
+        "index": 3,
+        "question": "Od kolika let se může občan České republiky stát starostou?",
+        "correctAnswer": "Od 18 let.",
+        "otherOptions": [
+            "Od 21 let.",
+            "Od 30 let.",
+            "Od 40 let."
+        ]
+    },
+    {
+        "index": 4,
+        "question": "Pan Svoboda se stal krajským zastupitelem. Krajští zastupitelé zvolili pana Svobodu nejvyšším představitelem kraje. Kterou funkci teď vykonává pan Svoboda?",
+        "correctAnswer": "Hejtman.",
+        "otherOptions": [
+            "Senátor.",
+            "Poslanec.",
+            "Primátor."
+        ]
+    },
+    {
+        "index": 5,
+        "question": "V České republice je 27 statutárních měst včetně Prahy. Kdo je nejvyšším představitelem statutárního města?",
+        "correctAnswer": "Primátor.",
+        "otherOptions": [
+            "Senátor.",
+            "Hejtman.",
+            "Poslanec."
+        ]
+    },
+    {
+        "index": 6,
+        "question": "Koho mohou volit občané do jeho funkce?",
+        "correctAnswer": "Senátora Parlamentu České republiky.",
+        "otherOptions": [
+            "Ministra financí.",
+            "Soudce okresního soudu.",
+            "Člena bankovní rady České národní banky."
+        ]
+    },
+    {
+        "index": 7,
+        "question": "Občané hlasovali o tom, jestli jejich obecní úřad postaví v obci novou radnici. Jak se jmenuje toto hlasování občanů?",
+        "correctAnswer": "Místní referendum.",
+        "otherOptions": [
+            "Obecní volby.",
+            "Dotazování občanů.",
+            "Předvolební průzkum."
+        ]
+    },
+    {
+        "index": 8,
+        "question": "Paní Svobodová kandidovala v senátních volbách a voliči ji zvolili senátorkou už v prvním kole. Kolik procent voličských hlasů získala ve svém volebním obvodě?",
+        "correctAnswer": "53 procent.",
+        "otherOptions": [
+            "5 procent.",
+            "26 procent.",
+            "39 procent."
+        ]
+    },
+    {
+        "index": 9,
+        "question": "Za jak dlouho od poslední volby prezidenta je další řádný termín prezidentských voleb?",
+        "correctAnswer": "Za pět let.",
+        "otherOptions": [
+            "Za šest let.",
+            "Za sedm let.",
+            "Za osm let."
+        ]
+    },
+    {
+        "index": 10,
+        "question": "Od kolika let se může občan České republiky účastnit voleb jako volič?",
+        "correctAnswer": "Od 18 let.",
+        "otherOptions": [
+            "Od 15 let.",
+            "Od 16 let.",
+            "Od 21 let."
+        ]
+    }
+]

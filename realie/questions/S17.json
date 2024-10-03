@@ -1,0 +1,103 @@
+[
+    {
+        "index": 1,
+        "question": "Jaké je mezinárodní postavení České republiky?",
+        "correctAnswer": "Je nezávislou republikou a je členem Evropské unie.",
+        "otherOptions": [
+            "Je závislým územím Evropské unie.",
+            "Je součástí státu Rakousko-Uhersko.",
+            "Je jednou z částí federace Evropská unie."
+        ]
+    },
+    {
+        "index": 2,
+        "question": "Česko se nachází v hlavním evropském rozvodí. Odtéká z něj voda řekami do tří moří. Do kterého moře se vlévá řeka Labe?",
+        "correctAnswer": "Do Severního moře.",
+        "otherOptions": [
+            "Do Černého moře.",
+            "Do Baltského moře.",
+            "Do Jaderského moře."
+        ]
+    },
+    {
+        "index": 3,
+        "question": "Kde pramení řeka Labe?",
+        "correctAnswer": "V Krkonoších.",
+        "otherOptions": [
+            "V Orlických horách.",
+            "V Krušných horách.",
+            "Na Šumavě."
+        ]
+    },
+    {
+        "index": 4,
+        "question": "Polabská nížina je největší nížina v Česku. Které číslo na mapě označuje Polabskou nížinu?",
+        "image": "/questions/assets/17/4.png",
+        "correctAnswer": "1.",
+        "otherOptions": [
+            "2.",
+            "3.",
+            "4."
+        ]
+    },
+    {
+        "index": 5,
+        "question": "Jaká je přibližně rozloha Česka?",
+        "correctAnswer": "79 000 km2.",
+        "otherOptions": [
+            "39 000 km2.",
+            "119 000 km2.",
+            "159 000 km2."
+        ]
+    },
+    {
+        "index": 6,
+        "question": "Která dvojice krajů se nachází ve východních Čechách?",
+        "correctAnswer": "Královéhradecký kraj a Pardubický kraj.",
+        "otherOptions": [
+            "Liberecký kraj a Ústecký kraj.",
+            "Ústecký kraj a Karlovarský kraj.",
+            "Plzeňský kraj a Karlovarský kraj."
+        ]
+    },
+    {
+        "index": 7,
+        "question": "Ve kterém klimatickém pásu se nachází Česká republika?",
+        "correctAnswer": "V mírném.",
+        "otherOptions": [
+            "V polárním.",
+            "V tropickém.",
+            "V subtropickém."
+        ]
+    },
+    {
+        "index": 8,
+        "question": "Nejvyšší hora Moravy se nachází v pohoří Hrubý Jeseník. Jak se tato hora jmenuje?",
+        "correctAnswer": "Praděd.",
+        "otherOptions": [
+            "Plechý.",
+            "Sněžka.",
+            "Klínovec."
+        ]
+    },
+    {
+        "index": 9,
+        "question": "Které státy sousedí s Českem?",
+        "correctAnswer": "Německo, Polsko, Rakousko, Slovensko.",
+        "otherOptions": [
+            "Maďarsko, Německo, Rakousko, Ukrajina.",
+            "Maďarsko, Polsko, Rakousko, Slovensko.",
+            "Německo, Polsko, Ukrajina, Slovensko."
+        ]
+    },
+    {
+        "index": 10,
+        "question": "Nejvyšší hora v České republice je Sněžka. Jakou má přibližně nadmořskou výšku?",
+        "correctAnswer": "1 600 metrů nad mořem.",
+        "otherOptions": [
+            "800 metrů nad mořem.",
+            "2 400 metrů nad mořem.",
+            "3 200 metrů nad mořem."
+        ]
+    }
+]

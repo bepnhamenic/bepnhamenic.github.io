@@ -1,0 +1,105 @@
+[
+    {
+        "index": 1,
+        "question": "Kladruby nad Labem a okolní krajina byly v roce 2019 zapsány na seznam světového dědictví UNESCO. Čím je tato obec a její okolí známá?",
+        "correctAnswer": "Chovem koní.",
+        "otherOptions": [
+            "Těžbou stříbra.",
+            "Bukovými lesy.",
+            "Termálními prameny."
+        ]
+    },
+    {
+        "index": 2,
+        "question": "Který národní park leží na Moravě?",
+        "correctAnswer": "Národní park Podyjí.",
+        "otherOptions": [
+            "Národní park Šumava.",
+            "Krkonošský národní park.",
+            "Národní park České Švýcarsko."
+        ]
+    },
+    {
+        "index": 3,
+        "question": "V Česku se nachází několik významných center zimních sportů. Které z těchto míst je známé jako centrum zimních sportů?",
+        "correctAnswer": "Špindlerův Mlýn.",
+        "otherOptions": [
+            "Most.",
+            "Třeboň.",
+            "Poděbrady."
+        ]
+    },
+    {
+        "index": 4,
+        "question": "Jizerskohorské bučiny jsou od roku 2021 na seznamu světového dědictví UNESCO. Které číslo na mapě označuje tuto přírodní památku?",
+        "image": "/questions/assets/18/4.png",
+        "correctAnswer": "3.",
+        "otherOptions": [
+            "1.",
+            "2.",
+            "4."
+        ]
+    },
+    {
+        "index": 5,
+        "question": "Orlík je přehrada, která zadržuje v Česku nejvíce vody. Jak se jmenuje řeka, na které se přehrada Orlík nachází?",
+        "correctAnswer": "Vltava.",
+        "otherOptions": [
+            "Labe.",
+            "Sázava.",
+            "Morava."
+        ]
+    },
+    {
+        "index": 6,
+        "question": "Památná hora Čechů se nachází v Ústeckém kraji blízko Roudnice nad Labem. Jak se tato hora jmenuje?",
+        "image": "/questions/assets/18/6.png",
+        "correctAnswer": "Říp.",
+        "otherOptions": [
+            "Medvědín.",
+            "Klínovec.",
+            "Praděd."
+        ]
+    },
+    {
+        "index": 7,
+        "question": "V roce 2019 byla na seznam památek UNESCO zapsána hornická kulturní krajina Krušnohoří. Které číslo na mapě označuje tento region?",
+        "image": "/questions/assets/18/7.png",
+        "correctAnswer": "2.",
+        "otherOptions": [
+            "1.",
+            "3.",
+            "4."
+        ]
+    },
+    {
+        "index": 8,
+        "question": "Které město zapsané na seznamu UNESCO leží v jižních Čechách?",
+        "correctAnswer": "Český Krumlov.",
+        "otherOptions": [
+            "Třebíč.",
+            "Kroměříž.",
+            "Kutná Hora."
+        ]
+    },
+    {
+        "index": 9,
+        "question": "Jak se jmenuje nejvyšší pohoří na Moravě?",
+        "correctAnswer": "Jeseníky.",
+        "otherOptions": [
+            "Krušné hory.",
+            "Krkonoše.",
+            "Šumava."
+        ]
+    },
+    {
+        "index": 10,
+        "question": "Které lázeňské město se nachází ve středních Čechách?",
+        "correctAnswer": "Poděbrady.",
+        "otherOptions": [
+            "Luhačovice.",
+            "Karlovy Vary.",
+            "Mariánské Lázně."
+        ]
+    }
+]

@@ -1,0 +1,103 @@
+[
+    {
+        "index": 1,
+        "question": "Pan Novotný je podnikatel a má ze zákona povinnost platit daně. Který úřad kontroluje, jak platí daně?",
+        "correctAnswer": "Finanční úřad.",
+        "otherOptions": [
+            "Obecní úřad.",
+            "Katastrální úřad.",
+            "Živnostenský úřad."
+        ]
+    },
+    {
+        "index": 2,
+        "question": "Celní správa České republiky vybírá cla a spotřební daně a má různé úkoly při ochraně ekonomických zájmů ČR. Pod které ministerstvo Celní správa ČR patří?",
+        "correctAnswer": "Ministerstvo financí.",
+        "otherOptions": [
+            "Ministerstvo vnitra.",
+            "Ministerstvo spravedlnosti.",
+            "Ministerstvo pro místní rozvoj."
+        ]
+    },
+    {
+        "index": 3,
+        "question": "Nepřímé daně jsou součástí ceny výrobků a služeb. Která z těchto daní je nepřímá?",
+        "correctAnswer": "Spotřební daň.",
+        "otherOptions": [
+            "Silniční daň.",
+            "Daň z příjmů fyzických osob.",
+            "Daň z příjmů právnických osob."
+        ]
+    },
+    {
+        "index": 4,
+        "question": "Paní Svobodová si koupila domů novou televizi. Kterou daň musí zaplatit v ceně televize?",
+        "correctAnswer": "Daň z přidané hodnoty.",
+        "otherOptions": [
+            "Daň z nemovitých věcí.",
+            "Spotřební daň.",
+            "Daň z příjmů."
+        ]
+    },
+    {
+        "index": 5,
+        "question": "Na kterém úřadu podává podnikatel daňové přiznání?",
+        "correctAnswer": "Na finančním úřadu.",
+        "otherOptions": [
+            "Na obecním úřadu.",
+            "Na ministerstvu financí.",
+            "Na finančním ředitelství."
+        ]
+    },
+    {
+        "index": 6,
+        "question": "Ze kterého z těchto druhů příjmů zaplatí paní Svobodová daň?",
+        "correctAnswer": "Z pronájmu bytu.",
+        "otherOptions": [
+            "Z nemocenské.",
+            "Ze sociálních dávek.",
+            "Z podpory v nezaměstnanosti."
+        ]
+    },
+    {
+        "index": 7,
+        "question": "Která daň je na účtence uvedena?",
+        "image": "/questions/assets/13/7.png",
+        "correctAnswer": "Daň z přidané hodnoty.",
+        "otherOptions": [
+            "Daň z příjmů.",
+            "Daň spotřební.",
+            "Daň ekologická."
+        ]
+    },
+    {
+        "index": 8,
+        "question": "Co označuje zkratka DPH?",
+        "correctAnswer": "Daň z přidané hodnoty.",
+        "otherOptions": [
+            "Daň z příjmů.",
+            "Hrubý domácí produkt.",
+            "Dohodu o provedení práce."
+        ]
+    },
+    {
+        "index": 9,
+        "question": "Který druh zboží má v ceně spotřební daň?",
+        "correctAnswer": "Tvrdý alkohol.",
+        "otherOptions": [
+            "Elektrická energie.",
+            "Sportovní oblečení.",
+            "Elektronická zařízení."
+        ]
+    },
+    {
+        "index": 10,
+        "question": "Pan Svoboda má zaplatit dluh 2 500 Kč na dani z příjmů. Kterému úřadu dluh zaplatí?",
+        "correctAnswer": "Finančnímu úřadu.",
+        "otherOptions": [
+            "Úřadu práce.",
+            "Celnímu úřadu.",
+            "Českému statistickému úřadu."
+        ]
+    }
+]

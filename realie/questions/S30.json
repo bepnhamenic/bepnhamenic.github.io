@@ -1,0 +1,112 @@
+[
+    {
+        "index": 1,
+        "question": "Na kterém obrázku je Český Krumlov, město plné významných památek?",
+        "image": "/questions/assets/30/1.png",
+        "correctAnswer": "Obrázek A",
+        "otherOptions": [
+            "Obrázek B",
+            "Obrázek C",
+            "Obrázek D"
+        ]
+    },
+    {
+        "index": 2,
+        "question": "Na kterém obrázku jsou Pražský hrad s gotickým Chrámem svatého Víta – symboly české státnosti?",
+        "image": "/questions/assets/30/2.png",
+        "correctAnswer": "Obrázek A",
+        "otherOptions": [
+            "Obrázek B",
+            "Obrázek C",
+            "Obrázek D"
+        ]
+    },
+    {
+        "index": 3,
+        "question": "Na kterém obrázku je Národní divadlo v Praze?",
+        "image": "/questions/assets/30/3.png",
+        "correctAnswer": "Obrázek B",
+        "otherOptions": [
+            "Obrázek A",
+            "Obrázek C",
+            "Obrázek D"
+        ]
+    },
+    {
+        "index": 4,
+        "question": "Na kterém obrázku je hrad Karlštejn, který založil Karel IV.?",
+        "image": "/questions/assets/30/4.png",
+        "correctAnswer": "Obrázek C",
+        "otherOptions": [
+            "Obrázek A",
+            "Obrázek B",
+            "Obrázek D"
+        ]
+    },
+    {
+        "index": 5,
+        "question": "Na kterém obrázku je Petřínská rozhledna v Praze?",
+        "image": "/questions/assets/30/5.png",
+        "correctAnswer": "Obrázek B",
+        "otherOptions": [
+            "Obrázek A",
+            "Obrázek C",
+            "Obrázek D"
+        ]
+    },
+    {
+        "index": 6,
+        "question": "Na obrázku je česká památka zapsaná v UNESCO. Jak se tato památka jmenuje?",
+        "image": "/questions/assets/30/6.png",
+        "correctAnswer": "Kostel sv. Jana Nepomuckého na Zelené hoře.",
+        "otherOptions": [
+            "Zámek Litomyšl.",
+            "Zámek Český Krumlov.",
+            "Chrám sv. Barbory v Kutné Hoře."
+        ]
+    },
+    {
+        "index": 7,
+        "question": "Koho představuje tato socha na pražském Vítkově?",
+        "image": "/questions/assets/30/7.png",
+        "correctAnswer": "Jana Žižku.",
+        "otherOptions": [
+            "Miroslava Tyrše.",
+            "Jiřího z Poděbrad.",
+            "Tomáše Garrigua Masaryka."
+        ]
+    },
+    {
+        "index": 8,
+        "question": "Vila Tugendhat (na obrázku) je na seznamu světového a kulturního dědictví UNESCO. Kde se nachází?",
+        "image": "/questions/assets/30/8.png",
+        "correctAnswer": "V Brně.",
+        "otherOptions": [
+            "V Olomouci.",
+            "V Liberci.",
+            "V Praze."
+        ]
+    },
+    {
+        "index": 9,
+        "question": "Orloj jsou středověké hodiny na věži. Na kterém obrázku je Pražský orloj?",
+        "image": "/questions/assets/30/9.png",
+        "correctAnswer": "Obrázek C",
+        "otherOptions": [
+            "Obrázek A",
+            "Obrázek B",
+            "Obrázek D"
+        ]
+    },
+    {
+        "index": 10,
+        "question": "Na obrázku je známá pražská budova ve stylu secese. K čemu slouží tato budova?",
+        "image": "/questions/assets/30/10.png",
+        "correctAnswer": "Je to nádraží.",
+        "otherOptions": [
+            "Je to banka.",
+            "Je to letiště.",
+            "Je to parlament."
+        ]
+    }
+]

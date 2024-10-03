@@ -1,0 +1,102 @@
+[
+    {
+        "index": 1,
+        "question": "Kdy vznikla samostatná Česká republika?",
+        "correctAnswer": "1. ledna 1993.",
+        "otherOptions": [
+            "28. října 1918.",
+            "8. května 1945.",
+            "17. listopadu 1989."
+        ]
+    },
+    {
+        "index": 2,
+        "question": "Česká republika je od roku 1999 členem NATO. K čemu tato organizace slouží?",
+        "correctAnswer": "K vojenské spolupráci.",
+        "otherOptions": [
+            "K vědecké spolupráci.",
+            "K rozvojové spolupráci.",
+            "K ekonomické spolupráci."
+        ]
+    },
+    {
+        "index": 3,
+        "question": "Kdy Česká republika vstoupila do Evropské unie?",
+        "correctAnswer": "V roce 2004.",
+        "otherOptions": [
+            "V roce 1989.",
+            "V roce 1993.",
+            "V roce 1999."
+        ]
+    },
+    {
+        "index": 4,
+        "question": "Které dva státy vznikly po rozpadu Československa v roce 1993?",
+        "correctAnswer": "Česká republika a Slovenská republika.",
+        "otherOptions": [
+            "Čechy a Morava.",
+            "Protektorát Čechy a Morava a Slovenská republika.",
+            "Česká socialistická republika a Slovenská socialistická republika."
+        ]
+    },
+    {
+        "index": 5,
+        "question": "Kdy se v České republice slaví Den boje za svobodu a demokracii?",
+        "correctAnswer": "17. listopadu.",
+        "otherOptions": [
+            "28. října.",
+            "8. května.",
+            "6. července."
+        ]
+    },
+    {
+        "index": 6,
+        "question": "Kterou z těchto funkcí vykonával Václav Havel?",
+        "correctAnswer": "Funkci prezidenta republiky.",
+        "otherOptions": [
+            "Funkci předsedy vlády.",
+            "Funkci předsedy Senátu.",
+            "Funkci předsedy Poslanecké sněmovny."
+        ]
+    },
+    {
+        "index": 7,
+        "question": "Který den se slaví státní svátek Den obnovy samostatného českého státu?",
+        "correctAnswer": "1. ledna.",
+        "otherOptions": [
+            "28. září.",
+            "28. října.",
+            "17. listopadu."
+        ]
+    },
+    {
+        "index": 8,
+        "question": "Kdo se stal českým prezidentem po Václavu Havlovi v roce 2003?",
+        "correctAnswer": "Václav Klaus.",
+        "otherOptions": [
+            "Jan Švejnar.",
+            "Miloš Zeman.",
+            "Vladimír Špidla."
+        ]
+    },
+    {
+        "index": 9,
+        "question": "Kdo se stal českým prezidentem po Miloši Zemanovi v roce 2023?",
+        "correctAnswer": "Petr Pavel.",
+        "otherOptions": [
+            "Petr Fiala.",
+            "Andrej Babiš.",
+            "Miloš Vystrčil."
+        ]
+    },
+    {
+        "index": 10,
+        "question": "Kdy odešli z území Československa poslední sovětští vojáci, jejichž armáda obsadila Československo v roce 1968?",
+        "correctAnswer": "V roce 1991.",
+        "otherOptions": [
+            "V roce 1989.",
+            "V roce 1993.",
+            "V roce 2004."
+        ]
+    }
+]

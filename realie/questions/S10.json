@@ -1,0 +1,102 @@
+[
+    {
+        "index": 1,
+        "question": "Paní Svobodové se rozbil nový počítač. Šla jej proto reklamovat. Do kolika dnů musí prodejce vyřídit její reklamaci?",
+        "correctAnswer": "C) Do 30 dnů.",
+        "otherOptions": [
+            "A) Do 7 dnů.",
+            "B) Do 14 dnů.",
+            "D) Do 60 dnů."
+        ]
+    },
+    {
+        "index": 2,
+        "question": "Paní Novotná si pronajala byt na dobu neurčitou. Pronajímatel chce, aby zaplatila kauci (peněžní jistotu). Jak vysoká může být kauce podle zákona?",
+        "correctAnswer": "B) Maximálně ve výši 3 měsíčních nájmů.",
+        "otherOptions": [
+            "A) Maximálně ve výši 1 měsíčního nájmu.",
+            "C) Maximálně ve výši 6 měsíčních nájmů.",
+            "D) Maximálně ve výši 12 měsíčních nájmů."
+        ]
+    },
+    {
+        "index": 3,
+        "question": "Pan Sokol si koupil v e-shopu novou televizi. Do kolika dnů může podle zákona odstoupit od kupní smlouvy, kterou uzavřel po internetu?",
+        "correctAnswer": "A) Do 14 dnů.",
+        "otherOptions": [
+            "B) Do 30 dnů.",
+            "C) Do 60 dnů.",
+            "D) Do 90 dnů."
+        ]
+    },
+    {
+        "index": 4,
+        "question": "Který majetek se zapisuje do katastru nemovitostí?",
+        "correctAnswer": "B) Zahrada.",
+        "otherOptions": [
+            "A) Pračka.",
+            "C) Nábytek.",
+            "D) Motocykl."
+        ]
+    },
+    {
+        "index": 5,
+        "question": "Paní Nováková udělila panu Pokornému plnou moc, aby ji mohl zastupovat při jednání na úřadě. Jak se označuje pan Pokorný v plné moci?",
+        "correctAnswer": "C) Zmocněnec.",
+        "otherOptions": [
+            "A) Příkazce.",
+            "B) Poplatník.",
+            "D) Opatrovník."
+        ]
+    },
+    {
+        "index": 6,
+        "question": "Pan Novák chce sepsat svou závěť formou veřejné listiny. U koho si ji může nechat sepsat?",
+        "correctAnswer": "A) U notáře.",
+        "otherOptions": [
+            "B) U soudce.",
+            "C) U advokáta.",
+            "D) U exekutora."
+        ]
+    },
+    {
+        "index": 7,
+        "question": "Paní Nováková má velké dluhy. Soud rozhodl, že musí dluhy zaplatit. Kdo smí dluhy vymáhat?",
+        "correctAnswer": "D) Exekutor.",
+        "otherOptions": [
+            "A) Notář.",
+            "B) Starosta.",
+            "C) Policista."
+        ]
+    },
+    {
+        "index": 8,
+        "question": "Paní Nováková koupila pozemek a chce postavit rodinný dům. Potřebuje získat stavební povolení. Který z těchto úřadů jí vydá stavební povolení?",
+        "correctAnswer": "B) Stavební úřad.",
+        "otherOptions": [
+            "A) Finanční úřad.",
+            "C) Katastrální úřad.",
+            "D) Živnostenský úřad."
+        ]
+    },
+    {
+        "index": 9,
+        "question": "Pan Novák si půjčil lyže z půjčovny lyží. Kterou smlouvu uzavřel pan Novák s půjčovnou?",
+        "correctAnswer": "D) Nájemní smlouvu na vybavení.",
+        "otherOptions": [
+            "A) Kupní smlouvu na vybavení.",
+            "B) Smlouvu o úschově vybavení.",
+            "C) Smlouvu o přepravě vybavení."
+        ]
+    },
+    {
+        "index": 10,
+        "question": "Pan Novák nemůže splácet úvěry bankám. Chce požádat o vyhlášení osobního bankrotu. Která instituce bude rozhodovat o vyhlášení osobního bankrotu?",
+        "correctAnswer": "A) Soud.",
+        "otherOptions": [
+            "B) Banka.",
+            "C) Úřad práce.",
+            "D) Finanční úřad."
+        ]
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "index": 1,
+        "question": "Z čeho se skládá jednotná přijímací zkouška na střední školy?",
+        "correctAnswer": "Z českého jazyka a matematiky.",
+        "otherOptions": [
+            "Z českého jazyka a dějepisu.",
+            "Z českého jazyka a zeměpisu.",
+            "Z českého jazyka a anglického jazyka."
+        ]
+    },
+    {
+        "index": 2,
+        "question": "Která z těchto institucí poskytuje předškolní vzdělávání pro děti?",
+        "correctAnswer": "Mateřská škola.",
+        "otherOptions": [
+            "Gymnázium.",
+            "Střední odborná škola.",
+            "Základní umělecká škola."
+        ]
+    },
+    {
+        "index": 3,
+        "question": "Kolik let trvá v České republice povinná školní docházka?",
+        "correctAnswer": "9 let.",
+        "otherOptions": [
+            "5 let.",
+            "12 let.",
+            "15 let."
+        ]
+    },
+    {
+        "index": 4,
+        "question": "Kdy mají žáci základních a středních škol v České republice hlavní prázdniny?",
+        "correctAnswer": "V červenci a v srpnu.",
+        "otherOptions": [
+            "V září a v říjnu.",
+            "V únoru a v březnu.",
+            "V dubnu a v květnu."
+        ]
+    },
+    {
+        "index": 5,
+        "question": "Dcera paní Svobodové ukončila studium státní závěrečnou zkouškou a obhájila diplomovou práci. Kterou školu právě ukončila?",
+        "correctAnswer": "Vysokou školu.",
+        "otherOptions": [
+            "Gymnázium.",
+            "Obchodní akademii.",
+            "Střední průmyslovou školu."
+        ]
+    },
+    {
+        "index": 6,
+        "question": "Manželé Svobodovi mají čtyři děti. Aleně jsou 4 roky, Janovi 10 let, Ivanovi 19 let a Tereze je 21 let. Které z jejich dětí má povinnou školní docházku?",
+        "correctAnswer": "Jan.",
+        "otherOptions": [
+            "Ivan.",
+            "Alena.",
+            "Tereza."
+        ]
+    },
+    {
+        "index": 7,
+        "question": "Jana Svobodová vystudovala na lékařské fakultě tříletý obor Všeobecná sestra. Který vysokoškolský titul získala?",
+        "correctAnswer": "Bc.",
+        "otherOptions": [
+            "Mgr.",
+            "MgA.",
+            "MUDr."
+        ]
+    },
+    {
+        "index": 8,
+        "question": "Na které škole získala Ing. Petra Novotná své nejvyšší vzdělání?",
+        "correctAnswer": "Na vysoké škole.",
+        "otherOptions": [
+            "Na střední ekonomické škole.",
+            "Na střední průmyslové škole.",
+            "Na vyšší odborné škole."
+        ]
+    },
+    {
+        "index": 9,
+        "question": "Jak se jmenují střední školy, které poskytují všeobecné vzdělání?",
+        "correctAnswer": "Gymnázia.",
+        "otherOptions": [
+            "Obchodní akademie.",
+            "Střední odborná učiliště.",
+            "Střední průmyslové školy."
+        ]
+    },
+    {
+        "index": 10,
+        "question": "Na které z těchto škol se skládá maturitní zkouška?",
+        "correctAnswer": "Na střední škole.",
+        "otherOptions": [
+            "Na vysoké škole.",
+            "Na základní škole.",
+            "Na vyšší odborné škole."
+        ]
+    }
+]

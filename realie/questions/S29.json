@@ -1,0 +1,102 @@
+[
+    {
+        "index": 1,
+        "question": "Které z těchto hudebních děl složil Antonín Dvořák?",
+        "correctAnswer": "Z Nového světa.",
+        "otherOptions": [
+            "Má vlast.",
+            "Prodaná nevěsta.",
+            "Česká mše vánoční."
+        ]
+    },
+    {
+        "index": 2,
+        "question": "Jak se jmenuje hlavní postava nejznámějšího románu Jaroslava Haška?",
+        "correctAnswer": "Josef Švejk.",
+        "otherOptions": [
+            "Markéta Lazarová.",
+            "Babička.",
+            "Josef K."
+        ]
+    },
+    {
+        "index": 3,
+        "question": "Který český spisovatel získal Nobelovu cenu za literaturu?",
+        "correctAnswer": "Jaroslav Seifert.",
+        "otherOptions": [
+            "Franz Kafka.",
+            "Jaroslav Hašek.",
+            "Bohumil Hrabal."
+        ]
+    },
+    {
+        "index": 4,
+        "question": "Který slavný český režisér žil v USA a dostal dvě filmové ceny Oscar?",
+        "correctAnswer": "Miloš Forman.",
+        "otherOptions": [
+            "Jan Svěrák.",
+            "Jiří Menzel.",
+            "Jan Hřebejk."
+        ]
+    },
+    {
+        "index": 5,
+        "question": "Mendelova univerzita v Brně se jmenuje po Gregoru Johannu Mendelovi. Čím se tento muž zabýval?",
+        "correctAnswer": "Pokusy s rostlinami.",
+        "otherOptions": [
+            "Architekturou.",
+            "Klasickou hudbou.",
+            "Historií a politikou."
+        ]
+    },
+    {
+        "index": 6,
+        "question": "Které slovo jako první na světě použil český spisovatel Karel Čapek ve svém dramatu R.U.R.?",
+        "correctAnswer": "Robot.",
+        "otherOptions": [
+            "Supernova.",
+            "Astronaut.",
+            "Skafandr."
+        ]
+    },
+    {
+        "index": 7,
+        "question": "Jak se jmenoval český podnikatel a zakladatel významné strojírenské firmy v Plzni?",
+        "correctAnswer": "Emil Škoda.",
+        "otherOptions": [
+            "Tomáš Baťa.",
+            "Emil Kolben.",
+            "Václav Laurin."
+        ]
+    },
+    {
+        "index": 8,
+        "question": "Co vynalezl český chemik Otto Wichterle?",
+        "correctAnswer": "Měkké kontaktní čočky.",
+        "otherOptions": [
+            "Benzin.",
+            "Lék penicilin.",
+            "Plastickou trhavinu."
+        ]
+    },
+    {
+        "index": 9,
+        "question": "Jak se jmenuje literární dílo, které napsal Karel Hynek Mácha?",
+        "correctAnswer": "Máj.",
+        "otherOptions": [
+            "Babička.",
+            "F. L. Věk.",
+            "Povídky malostranské."
+        ]
+    },
+    {
+        "index": 10,
+        "question": "Ve kterém sportovním odvětví se proslavil Emil Zátopek?",
+        "correctAnswer": "V lehké atletice.",
+        "otherOptions": [
+            "V cyklistice.",
+            "Ve fotbale.",
+            "V hokeji."
+        ]
+    }
+]

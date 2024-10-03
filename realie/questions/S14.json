@@ -1,0 +1,102 @@
+[
+    {
+        "index": 1,
+        "question": "Který úřad poskytuje podporu v nezaměstnanosti?",
+        "correctAnswer": "Úřad práce.",
+        "otherOptions": [
+            "Živnostenský úřad.",
+            "Finanční úřad.",
+            "Krajský úřad."
+        ]
+    },
+    {
+        "index": 2,
+        "question": "Paní Svobodová má nárok na starobní důchod. Která instituce v České republice vydá rozhodnutí o výši jejího důchodu?",
+        "correctAnswer": "Česká správa sociálního zabezpečení.",
+        "otherOptions": [
+            "Úřad práce.",
+            "Ministerstvo vnitra.",
+            "Ministerstvo zdravotnictví."
+        ]
+    },
+    {
+        "index": 3,
+        "question": "Který druh finanční pomoci nevyplácí Česká správa sociálního zabezpečení?",
+        "correctAnswer": "Podporu v nezaměstnanosti.",
+        "otherOptions": [
+            "Mateřskou.",
+            "Nemocenskou.",
+            "Starobní důchod."
+        ]
+    },
+    {
+        "index": 4,
+        "question": "Pan Novák pracuje ve stavební firmě a v současné době je nemocný. Nedostává mzdu, ale peněžitou dávku. Jak se tato dávka jmenuje?",
+        "correctAnswer": "Nemocenská.",
+        "otherOptions": [
+            "Ošetřovné.",
+            "Příspěvek na živobytí.",
+            "Podpora v nezaměstnanosti."
+        ]
+    },
+    {
+        "index": 5,
+        "question": "Panu Veselému je 64 let a dosáhl důchodového věku. Na České správě sociálního zabezpečení si požádal o důchod. Který doklad od něho nebude úřad vyžadovat?",
+        "correctAnswer": "Výpis z Rejstříku trestů.",
+        "otherOptions": [
+            "Doklad o studiu.",
+            "Občanský průkaz.",
+            "Doklad o výkonu vojenské služby."
+        ]
+    },
+    {
+        "index": 6,
+        "question": "Který úřad rozhoduje o přiznání dávek v hmotné nouzi?",
+        "correctAnswer": "Úřad práce.",
+        "otherOptions": [
+            "Ministerstvo financí.",
+            "Charita České republiky.",
+            "Česká správa sociálního zabezpečení."
+        ]
+    },
+    {
+        "index": 7,
+        "question": "Panu Novákovi je 56 let a je nezaměstnaný. Jaká je nejdelší doba, po kterou může dostávat podporu v nezaměstnanosti?",
+        "correctAnswer": "11 měsíců.",
+        "otherOptions": [
+            "6 měsíců.",
+            "18 měsíců.",
+            "24 měsíců."
+        ]
+    },
+    {
+        "index": 8,
+        "question": "Paní Nováková pracuje jako učitelka na základní škole a čeká své první dítě. Má 3 týdny před porodem. Kterou z těchto peněžitých dávek může dostat před narozením dítěte?",
+        "correctAnswer": "Mateřskou.",
+        "otherOptions": [
+            "Porodné.",
+            "Ošetřovné.",
+            "Rodičovskou."
+        ]
+    },
+    {
+        "index": 9,
+        "question": "Manželům Novotným se narodilo dítě. Na jak dlouho si podle zákona může vzít pan Novotný otcovskou dovolenou?",
+        "correctAnswer": "Na 14 dní.",
+        "otherOptions": [
+            "Na 5 dní.",
+            "Na 31 dní.",
+            "Na 60 dní."
+        ]
+    },
+    {
+        "index": 10,
+        "question": "Paní Nováková byla v evidenci nezaměstnaných na úřadu práce. Včera začala pracovat. Kterým z těchto způsobů ukončí své zařazení v evidenci nezaměstnaných?",
+        "correctAnswer": "Informuje o nové práci úřad práce.",
+        "otherOptions": [
+            "Nemusí dělat nic.",
+            "Informuje o nové práci finanční úřad.",
+            "Oznámí vyřazení z evidence novému zaměstnavateli."
+        ]
+    }
+]

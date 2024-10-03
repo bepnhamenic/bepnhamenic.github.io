@@ -1,0 +1,103 @@
+[
+    {
+        "index": 1,
+        "question": "Kolik obyvatel má přibližně Česká republika?",
+        "correctAnswer": "10,9 milionu.",
+        "otherOptions": [
+            "5,9 milionu.",
+            "15,9 milionu.",
+            "20,9 milionu."
+        ]
+    },
+    {
+        "index": 2,
+        "question": "Národnostní menšinou je skupina občanů České republiky, kteří se hlásí k jiné než české národnosti. Kdo tvoří největší národnostní menšinu v Česku?",
+        "correctAnswer": "Slováci.",
+        "otherOptions": [
+            "Poláci.",
+            "Němci.",
+            "Vietnamci."
+        ]
+    },
+    {
+        "index": 3,
+        "question": "Kulturní region Haná je významnou zemědělskou oblastí a je známý lidovými zvyky. Které krajské město je centrem kulturního regionu Haná?",
+        "correctAnswer": "Olomouc.",
+        "otherOptions": [
+            "Ostrava.",
+            "Hradec Králové.",
+            "České Budějovice."
+        ]
+    },
+    {
+        "index": 4,
+        "question": "Která televize má podle zákona za úkol produkovat a vysílat vzdělávací programy a programy pro děti?",
+        "correctAnswer": "Česká televize.",
+        "otherOptions": [
+            "Televize Nova.",
+            "Televize Prima.",
+            "Televize Barrandov."
+        ]
+    },
+    {
+        "index": 5,
+        "question": "Kolik obyvatel má hlavní město Praha?",
+        "correctAnswer": "Přibližně 1 400 000.",
+        "otherOptions": [
+            "Přibližně 500 000.",
+            "Přibližně 6 500 000.",
+            "Přibližně 10 900 000."
+        ]
+    },
+    {
+        "index": 6,
+        "question": "Toto město bylo a je historickým centrem českého Slezska. Nachází se zde Slezská univerzita, Slezské zemské muzeum i Slezské divadlo. Jak se město jmenuje?",
+        "correctAnswer": "Opava.",
+        "otherOptions": [
+            "Brno.",
+            "Jihlava.",
+            "Kroměříž."
+        ]
+    },
+    {
+        "index": 7,
+        "question": "Které náboženství je v Česku nejrozšířenější?",
+        "correctAnswer": "Křesťanství.",
+        "otherOptions": [
+            "Islám.",
+            "Judaismus.",
+            "Buddhismus."
+        ]
+    },
+    {
+        "index": 8,
+        "question": "Chodsko je jedním z českých regionů s bohatými lidovými tradicemi a kroji. Chodsko se také proslavilo koláči a keramikou. Které číslo na mapě označuje chodský region?",
+        "image": "/questions/assets/21/8.png",
+        "correctAnswer": "1.",
+        "otherOptions": [
+            "2.",
+            "3.",
+            "4."
+        ]
+    },
+    {
+        "index": 9,
+        "question": "Které tvrzení odpovídá postavení žen v české společnosti?",
+        "correctAnswer": "Ženy mají stejná práva jako muži.",
+        "otherOptions": [
+            "Ženy nepracují v justici.",
+            "Ženy nepracují v armádě.",
+            "Ženy mají omezené volební právo."
+        ]
+    },
+    {
+        "index": 10,
+        "question": "Brno je největším městem Moravy a také druhým největším městem České republiky. Kolik obyvatel přibližně žije v Brně?",
+        "correctAnswer": "400 000.",
+        "otherOptions": [
+            "100 000.",
+            "720 000.",
+            "1 360 000."
+        ]
+    }
+]

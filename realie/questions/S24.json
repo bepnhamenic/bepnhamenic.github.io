@@ -1,0 +1,102 @@
+[
+    {
+        "index": 1,
+        "question": "Kdo podle pověsti vystoupil na horu Říp?",
+        "correctAnswer": "Praotec Čech.",
+        "otherOptions": [
+            "Přemysl Oráč.",
+            "Kněžna Libuše.",
+            "Vladyka Horymír."
+        ]
+    },
+    {
+        "index": 2,
+        "question": "Která bitva ukončila v roce 1434 husitské náboženské války?",
+        "correctAnswer": "Bitva u Lipan.",
+        "otherOptions": [
+            "Bitva u Slavkova.",
+            "Bitva na Bílé hoře.",
+            "Bitva na Moravském poli."
+        ]
+    },
+    {
+        "index": 3,
+        "question": "Jan Žižka má jezdeckou sochu na vrchu Vítkově v Praze. Kdo byl Jan Žižka?",
+        "correctAnswer": "Husitský bojovník.",
+        "otherOptions": [
+            "Český král.",
+            "Katolický kněz.",
+            "Renesanční umělec."
+        ]
+    },
+    {
+        "index": 4,
+        "question": "Jak se podle pověstí jmenuje kněžna, která předpověděla slávu Prahy?",
+        "correctAnswer": "Libuše.",
+        "otherOptions": [
+            "Šárka.",
+            "Vlasta.",
+            "Ludmila."
+        ]
+    },
+    {
+        "index": 5,
+        "question": "Jak se jmenovali bratři, kteří šířili křesťanství na Velké Moravě?",
+        "correctAnswer": "Cyril a Metoděj.",
+        "otherOptions": [
+            "Jaromír a Oldřich.",
+            "Václav a Boleslav.",
+            "Spytihněv a Vratislav."
+        ]
+    },
+    {
+        "index": 6,
+        "question": "Jak se jmenoval první český rod knížat a králů, ke kterému patřil i svatý Václav?",
+        "correctAnswer": "Přemyslovci.",
+        "otherOptions": [
+            "Jagellonci.",
+            "Habsburkové.",
+            "Lucemburkové."
+        ]
+    },
+    {
+        "index": 7,
+        "question": "Kdo byl mistr Jan Hus?",
+        "correctAnswer": "Český reformátor církve.",
+        "otherOptions": [
+            "Český král.",
+            "Český lékař.",
+            "Český cestovatel."
+        ]
+    },
+    {
+        "index": 8,
+        "question": "Ze kterého rodu byl slavný český král a římský císař Karel IV.?",
+        "correctAnswer": "Z rodu Lucemburků.",
+        "otherOptions": [
+            "Z rodu Jagellonců.",
+            "Z rodu Habsburků.",
+            "Z rodu Přemyslovců."
+        ]
+    },
+    {
+        "index": 9,
+        "question": "Kdo založil první českou univerzitu?",
+        "correctAnswer": "Karel IV.",
+        "otherOptions": [
+            "Jiří z Poděbrad.",
+            "Přemysl Otakar II.",
+            "Vladislav Jagellonský."
+        ]
+    },
+    {
+        "index": 10,
+        "question": "Dcera krále Přemysla Otakara I. založila ve 13. století v Praze klášter a pečovala o nemocné a chudé. V roce 1989 ji papež prohlásil za svatou. Jak se tato žena jmenovala?",
+        "correctAnswer": "Anežka.",
+        "otherOptions": [
+            "Alžběta.",
+            "Hedvika.",
+            "Markéta."
+        ]
+    }
+]

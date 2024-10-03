@@ -1,0 +1,102 @@
+[
+    {
+        "index": 1,
+        "question": "Kdo může v České republice uzavřít manželství?",
+        "correctAnswer": "Svobodná žena a rozvedený muž.",
+        "otherOptions": [
+            "Svobodná žena a ženatý muž.",
+            "Vdaná žena a rozvedený muž.",
+            "Svobodná žena a svobodná žena."
+        ]
+    },
+    {
+        "index": 2,
+        "question": "Který z těchto úřadů může ukončit manželství rozvodem?",
+        "correctAnswer": "Okresní soud.",
+        "otherOptions": [
+            "Obecní úřad.",
+            "Městská policie.",
+            "Ministerstvo vnitra."
+        ]
+    },
+    {
+        "index": 3,
+        "question": "Manželé Svobodovi jsou občané České republiky. Chtějí adoptovat dítě z dětského domova. Která instituce rozhoduje o adopci?",
+        "correctAnswer": "Soud.",
+        "otherOptions": [
+            "Policie.",
+            "Obecní úřad.",
+            "Ministerstvo vnitra."
+        ]
+    },
+    {
+        "index": 4,
+        "question": "Manželé Soukupovi se rozvedli. Soud určil panu Soukupovi finanční částku, kterou musí platit každý měsíc na nezletilou dceru. Jak se tato částka nazývá?",
+        "correctAnswer": "Výživné.",
+        "otherOptions": [
+            "Přídavek na dítě.",
+            "Sociální příplatek.",
+            "Rodičovský příspěvek."
+        ]
+    },
+    {
+        "index": 5,
+        "question": "Panu Novákovi zemřela manželka. Kterou listinu mu vydá matriční úřad?",
+        "correctAnswer": "Úmrtní list.",
+        "otherOptions": [
+            "Rodný list.",
+            "Oddací list.",
+            "Pamětní list."
+        ]
+    },
+    {
+        "index": 6,
+        "question": "Paní Horáková ztratila rodný list. Kde musí požádat o vydání nového rodného listu?",
+        "correctAnswer": "Na matričním úřadě.",
+        "otherOptions": [
+            "Na policii.",
+            "Na ministerstvu vnitra.",
+            "Na správě sociálního zabezpečení."
+        ]
+    },
+    {
+        "index": 7,
+        "question": "Paní Nováková změnila po rozvodu příjmení. U které z těchto institucí změnu příjmení oznámila?",
+        "correctAnswer": "Na matričním úřadě.",
+        "otherOptions": [
+            "U soudu.",
+            "Na policii.",
+            "Na Českém statistickém úřadě."
+        ]
+    },
+    {
+        "index": 8,
+        "question": "Jak se jmenuje dokument, který manželům vydá matriční úřad po uzavření manželství?",
+        "correctAnswer": "Oddací list.",
+        "otherOptions": [
+            "Rodný list.",
+            "Prohlášení o uzavření manželství.",
+            "Doklad o registrovaném partnerství."
+        ]
+    },
+    {
+        "index": 9,
+        "question": "Který matriční doklad získá český občan po narození?",
+        "correctAnswer": "Rodný list.",
+        "otherOptions": [
+            "Oddací list.",
+            "Cestovní pas.",
+            "Občanský průkaz."
+        ]
+    },
+    {
+        "index": 10,
+        "question": "Manželé Novákovi se rozvedli. Jak se jmenuje dokument, který dostanou po rozvodu?",
+        "correctAnswer": "Rozsudek soudu.",
+        "otherOptions": [
+            "Žaloba.",
+            "Rodný list.",
+            "Rozhodnutí."
+        ]
+    }
+]

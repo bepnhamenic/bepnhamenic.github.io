@@ -1,0 +1,102 @@
+[
+    {
+        "index": 1,
+        "question": "Jak se jmenuje mezinárodní vojenská organizace, která zajišťuje bezpečnost České republiky?",
+        "correctAnswer": "NATO.",
+        "otherOptions": [
+            "CEFTA.",
+            "Evropská unie.",
+            "Varšavská smlouva."
+        ]
+    },
+    {
+        "index": 2,
+        "question": "Česká republika je členem Evropské unie. Které z těchto měst je sídlem hlavních orgánů Evropské unie?",
+        "correctAnswer": "Brusel.",
+        "otherOptions": [
+            "Řím.",
+            "Paříž.",
+            "Londýn."
+        ]
+    },
+    {
+        "index": 3,
+        "question": "V roce 2004 vstoupily do Evropské unie státy tzv. Visegrádské skupiny. Které čtyři státy tuto skupinu tvoří?",
+        "correctAnswer": "Česko, Slovensko, Maďarsko, Polsko.",
+        "otherOptions": [
+            "Česko, Polsko, Rakousko, Slovinsko.",
+            "Česko, Slovensko, Polsko, Německo.",
+            "Česko, Slovensko, Maďarsko, Rakousko."
+        ]
+    },
+    {
+        "index": 4,
+        "question": "Které město je sídlem Evropského soudu pro lidská práva?",
+        "correctAnswer": "Štrasburk.",
+        "otherOptions": [
+            "Haag.",
+            "Brusel.",
+            "Lucemburk."
+        ]
+    },
+    {
+        "index": 5,
+        "question": "V roce 2007 Česko vstoupilo do schengenského prostoru. Do které z těchto zemí může český občan cestovat bez kontroly na hranicích?",
+        "correctAnswer": "Do Německa.",
+        "otherOptions": [
+            "Do Turecka.",
+            "Do Velké Británie.",
+            "Do Spojených států amerických."
+        ]
+    },
+    {
+        "index": 6,
+        "question": "Evropskou unii nyní tvoří 27 států. Který stát vystoupil v roce 2020 z Evropské unie?",
+        "correctAnswer": "Velká Británie.",
+        "otherOptions": [
+            "Česko.",
+            "Řecko.",
+            "Dánsko."
+        ]
+    },
+    {
+        "index": 7,
+        "question": "Jaké právo mají v Evropské unii její občané, a tedy i občané České republiky?",
+        "correctAnswer": "Právo volit poslance Evropského parlamentu.",
+        "otherOptions": [
+            "Právo volit předsedu Evropské komise.",
+            "Právo volit eurokomisaře za jednotlivé členské státy.",
+            "Právo hlasovat o přijímání nových států do Evropské unie."
+        ]
+    },
+    {
+        "index": 8,
+        "question": "Evropská komise je výkonný orgán Evropské unie a řídí její politiku. Kolik zástupců má Česko v Evropské komisi?",
+        "correctAnswer": "1.",
+        "otherOptions": [
+            "21.",
+            "81.",
+            "200."
+        ]
+    },
+    {
+        "index": 9,
+        "question": "Česká republika je členem NATO. Které město je sídlem této organizace?",
+        "correctAnswer": "Brusel.",
+        "otherOptions": [
+            "Paříž.",
+            "Ženeva.",
+            "Štrasburk."
+        ]
+    },
+    {
+        "index": 10,
+        "question": "Vlajku Evropské unie tvoří skupina hvězd na modrém poli. Kolik hvězd je na vlajce EU?",
+        "correctAnswer": "12.",
+        "otherOptions": [
+            "6.",
+            "27.",
+            "44."
+        ]
+    }
+]

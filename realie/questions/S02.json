@@ -1,0 +1,103 @@
+[
+    {
+        "index": 1,
+        "question": "Při jízdě osobním autem mají řidič a spolujezdci podle zákona určité povinnosti. Co musí řidič a spolujezdec dodržovat?",
+        "correctAnswer": "Musí mít zapnuté pásy.",
+        "otherOptions": [
+            "Musí mít zavřená přední okna.",
+            "Musí mít zamčené přední dveře.",
+            "Musí mít na sobě reflexní vesty."
+        ]
+    },
+    {
+        "index": 2,
+        "question": "Paní Svobodová jezdí na kole do práce. Ve které situaci porušuje pravidla silničního provozu?",
+        "correctAnswer": "Jede na kole po chodníku.",
+        "otherOptions": [
+            "Jede na kole po pravé straně silnice.",
+            "Jede na kole v řadě za svou kolegyní.",
+            "Jede na kole a dává rukou znamení o změně směru jízdy."
+        ]
+    },
+    {
+        "index": 3,
+        "question": "Pan Svoboda chce řídit osobní automobil. Který typ řidičského průkazu potřebuje?",
+        "correctAnswer": "Řidičský průkaz skupiny B.",
+        "otherOptions": [
+            "Řidičský průkaz skupiny A.",
+            "Řidičský průkaz skupiny C.",
+            "Řidičský průkaz skupiny D."
+        ]
+    },
+    {
+        "index": 4,
+        "question": "Kolik piv s obsahem alkoholu může vypít řidič podle zákona při řízení auta v Česku?",
+        "correctAnswer": "Žádné.",
+        "otherOptions": [
+            "Tři.",
+            "Dvě.",
+            "Jedno."
+        ]
+    },
+    {
+        "index": 5,
+        "question": "Který dopravní prostředek má přednost před chodcem na přechodu?",
+        "correctAnswer": "Tramvaj.",
+        "otherOptions": [
+            "Auto.",
+            "Autobus.",
+            "Motocykl."
+        ]
+    },
+    {
+        "index": 6,
+        "question": "Paní Svobodová si koupila nový automobil. Které pojištění musí podle zákona uzavřít?",
+        "correctAnswer": "Povinné ručení.",
+        "otherOptions": [
+            "Životní pojištění.",
+            "Úrazové pojištění.",
+            "Havarijní pojištění."
+        ]
+    },
+    {
+        "index": 7,
+        "question": "Kdo má povinnost nosit podle zákona oblečení s reflexními prvky?",
+        "correctAnswer": "Osoba, která jde v noci mimo obec po silnici.",
+        "otherOptions": [
+            "Osoba, která jde v noci v obci po chodníku.",
+            "Osoba, která jde ve dne v obci po chodníku.",
+            "Osoba, která jde ve dne mimo obec po silnici."
+        ]
+    },
+    {
+        "index": 8,
+        "question": "Jak musí cestovat v autě dítě menší než 150 cm?",
+        "correctAnswer": "Dítě musí sedět připoutané v dětské autosedačce.",
+        "otherOptions": [
+            "Dítě musí sedět na klíně dospělé osoby.",
+            "Dítě musí sedět volně na zadním sedadle.",
+            "Dítě musí sedět volně na předním sedadle."
+        ]
+    },
+    {
+        "index": 9,
+        "question": "Od kolika let mohou jezdit děti po silnici na kole bez dohledu další osoby?",
+        "correctAnswer": "Od 10 let.",
+        "otherOptions": [
+            "Od 3 let.",
+            "Od 6 let.",
+            "Od 18 let."
+        ]
+    },
+    {
+        "index": 10,
+        "question": "Která z uvedených věcí patří k povinné výbavě osobního automobilu?",
+        "correctAnswer": "Lékárnička.",
+        "otherOptions": [
+            "Destilovaná voda.",
+            "Rádio.",
+            "Nádoba na benzin."
+        ]
+    }           
+]
+

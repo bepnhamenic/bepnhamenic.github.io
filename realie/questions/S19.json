@@ -1,0 +1,104 @@
+[
+    {
+        "index": 1,
+        "question": "Ve kterém městě sídlí Západočeská univerzita (ZČU)?",
+        "correctAnswer": "V Plzni.",
+        "otherOptions": [
+            "V Ústí nad Labem.",
+            "V Karlových Varech.",
+            "V Českých Budějovicích."
+        ]
+    },
+    {
+        "index": 2,
+        "question": "Jak se jmenuje největší letiště v České republice?",
+        "correctAnswer": "Letiště Václava Havla Praha.",
+        "otherOptions": [
+            "Praha-Kbely.",
+            "Brno-Tuřany.",
+            "Letiště Karlovy Vary."
+        ]
+    },
+    {
+        "index": 3,
+        "question": "Kateřinu přijali ke studiu na Univerzitě Palackého, která je nejstarší univerzitou na Moravě. Ve městě, kde bude studovat, je také památka UNESCO – sloup Nejsvětější Trojice. Ve kterém městě bude Kateřina studovat?",
+        "image": "/questions/assets/19/3.png",
+        "correctAnswer": "V Olomouci.",
+        "otherOptions": [
+            "Ve Zlíně.",
+            "V Jihlavě.",
+            "V Pardubicích."
+        ]
+    },
+    {
+        "index": 4,
+        "question": "Kladno, Příbram a Mladá Boleslav jsou města, která se nacházejí v největším kraji České republiky. Ve kterém kraji se tato města nacházejí?",
+        "correctAnswer": "Ve Středočeském kraji.",
+        "otherOptions": [
+            "V Ústeckém kraji.",
+            "Ve Zlínském kraji.",
+            "V Jihomoravském kraji."
+        ]
+    },
+    {
+        "index": 5,
+        "question": "Které město je centrem Moravskoslezského kraje?",
+        "correctAnswer": "Ostrava.",
+        "otherOptions": [
+            "Třebíč.",
+            "Jihlava.",
+            "Pardubice."
+        ]
+    },
+    {
+        "index": 6,
+        "question": "Které číslo na mapě označuje Olomoucký kraj?",
+        "image": "/questions/assets/19/6.png",
+        "correctAnswer": "3.",
+        "otherOptions": [
+            "1.",
+            "2.",
+            "4."
+        ]
+    },
+    {
+        "index": 7,
+        "question": "Perník je tradiční české pečivo s medem a kořením. Které město je slavné díky výrobě perníku?",
+        "correctAnswer": "Pardubice.",
+        "otherOptions": [
+            "Hořice.",
+            "Karlovy Vary.",
+            "Mariánské Lázně."
+        ]
+    },
+    {
+        "index": 8,
+        "question": "Univerzita Tomáše Bati se jmenuje po významném podnikateli a zakladateli obuvnické firmy. Ve kterém krajském městě tato univerzita sídlí?",
+        "correctAnswer": "Ve Zlíně.",
+        "otherOptions": [
+            "V Brně.",
+            "V Ostravě.",
+            "V Pardubicích."
+        ]
+    },
+    {
+        "index": 9,
+        "question": "Jihlava je krajské město a leží blízko dálnice D1. Ve kterém kraji je město Jihlava?",
+        "correctAnswer": "V Kraji Vysočina.",
+        "otherOptions": [
+            "V Pardubickém kraji.",
+            "Ve Středočeském kraji.",
+            "V Moravskoslezském kraji."
+        ]
+    },
+    {
+        "index": 10,
+        "question": "Pan Novák jede autem na služební cestu z Prahy do Děčína. Použije dálnici D8. Kolem kterého krajského města musí do Děčína projet?",
+        "correctAnswer": "Kolem Ústí nad Labem.",
+        "otherOptions": [
+            "Kolem Brna.",
+            "Kolem Pardubic.",
+            "Kolem Českých Budějovic."
+        ]
+    }
+]

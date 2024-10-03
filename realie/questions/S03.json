@@ -1,0 +1,103 @@
+[
+    {
+        "index": 1,
+        "question": "Paní Novotná vidí požár. Chce zavolat hasiče. Na které z těchto telefonních čísel zavolá?",
+        "correctAnswer": "150.",
+        "otherOptions": [
+            "155.",
+            "156.",
+            "158."
+        ]
+    },
+    {
+        "index": 2,
+        "question": "Které telefonní číslo má zdravotnická záchranná služba?",
+        "correctAnswer": "155.",
+        "otherOptions": [
+            "150.",
+            "156.",
+            "158."
+        ]
+    },
+    {
+        "index": 3,
+        "question": "Paní Svobodová není spokojená se svou zdravotní pojišťovnou. Jak často může změnit zdravotní pojišťovnu?",
+        "correctAnswer": "Jednou za 12 měsíců.",
+        "otherOptions": [
+            "Jednou za měsíc.",
+            "Jednou za 3 měsíce.",
+            "Jednou za 6 měsíců."
+        ]
+    },
+    {
+        "index": 4,
+        "question": "Pan Novák je nemocný. Omylem si smazal SMS s receptem na předepsané léky. Který doklad může pan Novák v lékárně předložit, aby dostal předepsané léky? ",
+        "correctAnswer": "Občanský průkaz.",
+        "otherOptions": [
+            "Rodný list.",
+            "Řidičský průkaz.",
+            "Očkovací průkaz."
+        ]
+    },
+    {
+        "index": 5,
+        "question": "Která instituce nepatří do integrovaného záchranného systému?",
+        "correctAnswer": "Vláda České republiky.",
+        "otherOptions": [
+            "Policie České republiky.",
+            "Hasičský záchranný sbor.",
+            "Zdravotnická záchranná služba."
+        ]
+    },
+    {
+        "index": 6,
+        "question": "Které telefonní číslo má jednotný záchranný systém (hasiči, policie, zdravotnická záchranná služba) ve všech státech Evropské unie?",
+        "correctAnswer": "112.",
+        "otherOptions": [
+            "150.",
+            "911.",
+            "999."
+        ]
+    },
+    {
+        "index": 7,
+        "question": "Od roku 2020 vystavují lékaři v České republice pouze elektronické neschopenky (doklad o pracovní neschopnosti). Které instituci lékař posílá elektronickou neschopenku?",
+        "correctAnswer": "Okresní správě sociálního zabezpečení.",
+        "otherOptions": [
+            "Zdravotní pojišťovně.",
+            "Ministerstvu zdravotnictví.",
+            "Okresní hygienické stanici."
+        ]
+    },
+    {
+        "index": 8,
+        "question": "Pan Novák viděl dopravní nehodu. Chce volat Policii České republiky. Které telefonní číslo použije?",
+        "correctAnswer": "158.",
+        "otherOptions": [
+            "150.",
+            "155.",
+            "156."
+        ]
+    },
+    {
+        "index": 9,
+        "question": "Pan Novotný je občanem České republiky, je nezaměstnaný a je registrovaný na úřadu práce jako uchazeč o zaměstnání. Kdo platí jeho povinné zdravotní pojištění? ",
+        "correctAnswer": "Stát.",
+        "otherOptions": [
+            "Finanční úřad.",
+            "Platí si ho sám.",
+            "Jeho poslední zaměstnavatel."
+        ]
+    },
+    {
+        "index": 10,
+        "question": "Pan Svoboda ztratil průkaz pojištěnce zdravotní pojišťovny. Do kolika dnů musí nahlásit ztrátu zdravotní pojišťovně?",
+        "correctAnswer": "Do osmi dnů.",
+        "otherOptions": [
+            "Do jednoho dne.",
+            "Do třiceti dnů.",
+            "Do šedesáti dnů."
+        ]
+    }           
+]
+
