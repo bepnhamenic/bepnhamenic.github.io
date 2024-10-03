@@ -14,7 +14,8 @@ body {
 
 #progressBar {
     position: fixed;
-    bottom: 0;
+    top: 0;
+    width: 0;
 }
 
 img {
