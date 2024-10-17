@@ -11,8 +11,12 @@ export class Group {
 export class GroupRepository {
 
     public static async loadFromFile(fileName: string): Promise<Group[]> {
-        const r = await fetch(fileName);
-        const fileContent = await r.json();
+        if (localStorage.getItem(fileName) == null) {
+            const r = await fetch(fileName);
+            const fileContent = await r.text();
+            localStorage.setItem(fileName, fileContent);
+        }
+        const fileContent = JSON.parse(localStorage.getItem(fileName) as string);
 
         const groups: Group[] = [];
         for (const i of fileContent) {

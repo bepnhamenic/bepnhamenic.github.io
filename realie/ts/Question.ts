@@ -19,7 +19,7 @@ export class Question {
         return array;
     }
 
-    render(): Node {
+    render(sectionId: number): Node {
         const div = document.createElement("div");
 
         const ul = document.createElement("ul");
@@ -27,10 +27,10 @@ export class Question {
 
         const li = document.createElement("li");
         li.className = "collection-header";
-        li.innerHTML = `<h4>${this.question}</h4>`;
+        li.innerHTML = `<h4>${sectionId}.${this.index}. ${this.question}</h4>`;
         ul.appendChild(li);
 
-        if (this.image !=null){
+        if (this.image != null) {
             const li = document.createElement("li");
             li.className = "collection-header";
             li.innerHTML = `<img src="${this.image.substring(1)}">`;
@@ -56,8 +56,12 @@ export class Question {
 export class QuestionRepository {
 
     public static async loadFromFile(fileName: string): Promise<Question[]> {
-        const r = await fetch(fileName);
-        const fileContent = await r.json();
+        if (localStorage.getItem(fileName) == null) {
+            const r = await fetch(fileName);
+            const fileContent = await r.text();
+            localStorage.setItem(fileName, fileContent);
+        }
+        const fileContent = JSON.parse(localStorage.getItem(fileName) as string);
 
         const questions: Question[] = [];
         for (const i of fileContent) {

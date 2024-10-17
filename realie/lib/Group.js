@@ -18,8 +18,12 @@ export class Group {
 export class GroupRepository {
     static loadFromFile(fileName) {
         return __awaiter(this, void 0, void 0, function* () {
-            const r = yield fetch(fileName);
-            const fileContent = yield r.json();
+            if (localStorage.getItem(fileName) == null) {
+                const r = yield fetch(fileName);
+                const fileContent = yield r.text();
+                localStorage.setItem(fileName, fileContent);
+            }
+            const fileContent = JSON.parse(localStorage.getItem(fileName));
             const groups = [];
             for (const i of fileContent) {
                 groups.push(new Group(i["index"], i["definitionFile"], i["name"]));

@@ -24,13 +24,13 @@ export class Question {
         }
         return array;
     }
-    render() {
+    render(sectionId) {
         const div = document.createElement("div");
         const ul = document.createElement("ul");
         ul.className = "collection with-header";
         const li = document.createElement("li");
         li.className = "collection-header";
-        li.innerHTML = `<h4>${this.question}</h4>`;
+        li.innerHTML = `<h4>${sectionId}.${this.index}. ${this.question}</h4>`;
         ul.appendChild(li);
         if (this.image != null) {
             const li = document.createElement("li");
@@ -55,8 +55,12 @@ export class Question {
 export class QuestionRepository {
     static loadFromFile(fileName) {
         return __awaiter(this, void 0, void 0, function* () {
-            const r = yield fetch(fileName);
-            const fileContent = yield r.json();
+            if (localStorage.getItem(fileName) == null) {
+                const r = yield fetch(fileName);
+                const fileContent = yield r.text();
+                localStorage.setItem(fileName, fileContent);
+            }
+            const fileContent = JSON.parse(localStorage.getItem(fileName));
             const questions = [];
             for (const i of fileContent) {
                 questions.push(new Question(i["index"], i["question"], i["image"], i["correctAnswer"], i["otherOptions"]));
