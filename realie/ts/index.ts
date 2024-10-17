@@ -3,33 +3,12 @@ import {Question, QuestionRepository} from "./Question.js";
 
 
 function renderQuestions(quetions: Question[]) {
-    for (const question of quetions) {
-        $("#content")[0].appendChild(question.render());
+    $("#content").empty();
+
+    for (let i = 0; i < quetions.length; i++) {
+        $("#content")[0].appendChild(quetions[i].render(i+1));
     }
 }
-
-async function ready() {
-    const QUESTIONS_DIR = "questions/";
-    const groups = await GroupRepository.loadFromFile(QUESTIONS_DIR + "groups.json");
-
-    const pickedQuestions = [];
-
-    for (const group of groups) {
-        const questions = await QuestionRepository.loadFromFile(QUESTIONS_DIR + group.definitionFile);
-        const random = Math.floor(Math.random() * questions.length);
-        pickedQuestions.push(questions[random]);
-    }
-
-    renderQuestions(pickedQuestions);
-
-    $(".option").on("click", function (a) {
-        const element = $(this)[0];
-
-        let classNameToAdd = element.classList.contains("correctAnswer") ? "correctChoice" : "incorrectChoice";
-        element.classList.add(classNameToAdd);
-    });
-}
-
 
 window.onscroll = function () {
     const progressBar = document.getElementById("progressBar");
@@ -42,4 +21,29 @@ window.onscroll = function () {
     }
 };
 
-jQuery(ready());
+$(".testIdButton").on("click", async function () {
+    localStorage.setItem("myCat", "Tom");
+    const element = $(this)[0];
+    const testId = element.dataset["testId"] as string;
+
+    const QUESTIONS_DIR = "questions/";
+    const groups = await GroupRepository.loadFromFile(QUESTIONS_DIR + "groups.json");
+
+    const pickedQuestions = [];
+
+    for (const group of groups) {
+        const questions = await QuestionRepository.loadFromFile(QUESTIONS_DIR + group.definitionFile);
+        const questionId = testId === "random" ? Math.floor(Math.random() * questions.length) : parseInt(testId);
+        pickedQuestions.push(questions[questionId]);
+    }
+
+    renderQuestions(pickedQuestions);
+
+    $(".option").on("click", function (a) {
+        const element = $(this)[0];
+
+        let classNameToAdd = element.classList.contains("correctAnswer") ? "correctChoice" : "incorrectChoice";
+        element.classList.add(classNameToAdd);
+    });
+
+});

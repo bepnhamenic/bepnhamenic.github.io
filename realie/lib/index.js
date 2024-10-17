@@ -10,27 +10,10 @@ var __awaiter = (this && this.__awaiter) || function (thisArg, _arguments, P, ge
 import { GroupRepository } from "./Group.js";
 import { QuestionRepository } from "./Question.js";
 function renderQuestions(quetions) {
-    for (const question of quetions) {
-        $("#content")[0].appendChild(question.render());
+    $("#content").empty();
+    for (let i = 0; i < quetions.length; i++) {
+        $("#content")[0].appendChild(quetions[i].render(i + 1));
     }
-}
-function ready() {
-    return __awaiter(this, void 0, void 0, function* () {
-        const QUESTIONS_DIR = "questions/";
-        const groups = yield GroupRepository.loadFromFile(QUESTIONS_DIR + "groups.json");
-        const pickedQuestions = [];
-        for (const group of groups) {
-            const questions = yield QuestionRepository.loadFromFile(QUESTIONS_DIR + group.definitionFile);
-            const random = Math.floor(Math.random() * questions.length);
-            pickedQuestions.push(questions[random]);
-        }
-        renderQuestions(pickedQuestions);
-        $(".option").on("click", function (a) {
-            const element = $(this)[0];
-            let classNameToAdd = element.classList.contains("correctAnswer") ? "correctChoice" : "incorrectChoice";
-            element.classList.add(classNameToAdd);
-        });
-    });
 }
 window.onscroll = function () {
     const progressBar = document.getElementById("progressBar");
@@ -41,4 +24,24 @@ window.onscroll = function () {
         progressBar.style.width = scrollPercentage + '%';
     }
 };
-jQuery(ready());
+$(".testIdButton").on("click", function () {
+    return __awaiter(this, void 0, void 0, function* () {
+        localStorage.setItem("myCat", "Tom");
+        const element = $(this)[0];
+        const testId = element.dataset["testId"];
+        const QUESTIONS_DIR = "questions/";
+        const groups = yield GroupRepository.loadFromFile(QUESTIONS_DIR + "groups.json");
+        const pickedQuestions = [];
+        for (const group of groups) {
+            const questions = yield QuestionRepository.loadFromFile(QUESTIONS_DIR + group.definitionFile);
+            const questionId = testId === "random" ? Math.floor(Math.random() * questions.length) : parseInt(testId);
+            pickedQuestions.push(questions[questionId]);
+        }
+        renderQuestions(pickedQuestions);
+        $(".option").on("click", function (a) {
+            const element = $(this)[0];
+            let classNameToAdd = element.classList.contains("correctAnswer") ? "correctChoice" : "incorrectChoice";
+            element.classList.add(classNameToAdd);
+        });
+    });
+});
